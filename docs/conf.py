@@ -45,21 +45,20 @@ extensions = [
     "sphinx.ext.napoleon",
     "sphinx.ext.todo",
     "sphinx.ext.viewcode",
-    "autoapi.extension",
     "sphinx_issues",
     "myst_parser",
 ]
 todo_include_todos = True
 
-# Automatically generate API documentation during the doc build:
-autoapi_type = "python"
-autoapi_dirs = [
-    "../src/cheshire",
-]
-autoapi_ignore = [
-    "*_test.py",
-    "*/package_data/*",
-]
+# # Automatically generate API documentation during the doc build:
+# autoapi_type = "python"
+# autoapi_dirs = [
+#     "../src/cheshire",
+# ]
+# autoapi_ignore = [
+#     "*_test.py",
+#     "*/package_data/*",
+# ]
 
 # GitHub repo
 issues_github_path = "catalyst-cooperative/cheshire"
