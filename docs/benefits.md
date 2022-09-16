@@ -19,7 +19,7 @@ New members are granted 10 hours of paid time off to start with, to reflect the 
 
 **Provided to:** Members & Contractors
 
-Catalyst provides a healthcare reimbursement of **$150 a month** to members and contractors working 1000 hours per year on a rolling 12 month basis (or in the case of new contractors/employees, the prorated amount of hours since they began working).
+Catalyst provides a healthcare reimbursement of **$400 a month** to members and contractors working 1000 hours per year on a rolling 12 month basis (or in the case of new contractors/employees, the prorated amount of hours since they began working).
 
 ## Retirement Accounts
 
