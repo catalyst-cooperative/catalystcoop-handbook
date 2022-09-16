@@ -1,8 +1,11 @@
 # Catalyst Policy Handbook
 
 ```{toctree}
-:caption: Functional Areas
+:caption: Policy Areas
 :maxdepth: 2
 
-markdown_test
+basic_expectations
+benefits
+retirement_accounts
+reimbursement
 ```

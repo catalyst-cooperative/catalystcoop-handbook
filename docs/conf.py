@@ -28,7 +28,7 @@ release = pkg_resources.get_distribution("catalystcoop.cheshire").version
 
 # -- Project information -----------------------------------------------------
 
-project = "New Catalyst Python Project"
+project = "Catalyst Cooperative Policy Handbook"
 copyright = (  # noqa: A001
     f"202X-{datetime.date.today().year}, Catalyst Cooperative, CC-BY-4.0"
 )
@@ -49,16 +49,6 @@ extensions = [
     "myst_parser",
 ]
 todo_include_todos = True
-
-# # Automatically generate API documentation during the doc build:
-# autoapi_type = "python"
-# autoapi_dirs = [
-#     "../src/cheshire",
-# ]
-# autoapi_ignore = [
-#     "*_test.py",
-#     "*/package_data/*",
-# ]
 
 # GitHub repo
 issues_github_path = "catalyst-cooperative/cheshire"
