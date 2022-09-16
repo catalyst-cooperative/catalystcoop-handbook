@@ -47,6 +47,7 @@ extensions = [
     "sphinx.ext.viewcode",
     "autoapi.extension",
     "sphinx_issues",
+    "myst_parser",
 ]
 todo_include_todos = True
 
