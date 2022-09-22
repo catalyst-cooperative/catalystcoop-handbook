@@ -5,4 +5,5 @@
 :maxdepth: 2
 
 policies/index
+bylaws/index
 ```
