@@ -4,7 +4,7 @@ from pathlib import Path
 
 import pytest
 
-from cheshire.dummy import do_something
+from policy_handbook.dummy import do_something
 
 logger = logging.getLogger(__name__)
 

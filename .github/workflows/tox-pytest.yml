@@ -7,7 +7,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        python-version: ["3.8", "3.9", "3.10"]
+        python-version: ["3.10"]
       fail-fast: false
     steps:
       - uses: actions/checkout@v3
@@ -24,7 +24,7 @@ jobs:
           channels: conda-forge,defaults
           channel-priority: true
           python-version: ${{ matrix.python-version }}
-          activate-environment: cheshire
+          activate-environment: policy_handbook
           environment-file: environment.yml
       - shell: bash -l {0}
         run: |
@@ -36,7 +36,7 @@ jobs:
 
       - name: Run PyTest with Tox
         run: |
-          conda run -n cheshire tox
+          conda run -n policy_handbook tox
 
       - name: Upload test coverage report to CodeCov
         uses: codecov/codecov-action@v3.1.1

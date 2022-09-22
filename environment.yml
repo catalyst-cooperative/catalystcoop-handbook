@@ -1,4 +1,4 @@
-name: cheshire
+name: policy_handbook
 channels:
   - conda-forge
   - defaults
