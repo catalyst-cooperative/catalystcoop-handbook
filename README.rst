@@ -3,36 +3,36 @@ Cheshire: a Python Template Repository for Catalyst
 
 .. readme-intro
 
-.. image:: https://github.com/catalyst-cooperative/policy_handbook/workflows/tox-pytest/badge.svg
-   :target: https://github.com/catalyst-cooperative/policy_handbook/actions?query=workflow%3Atox-pytest
+.. image:: https://github.com/catalyst-cooperative/handbook/workflows/tox-pytest/badge.svg
+   :target: https://github.com/catalyst-cooperative/handbook/actions?query=workflow%3Atox-pytest
    :alt: Tox-PyTest Status
 
-.. image:: https://github.com/catalyst-cooperative/policy_handbook/workflows/repo2docker/badge.svg
-   :target: https://github.com/catalyst-cooperative/policy_handbook/actions?query=workflow%3Arepo2docker
+.. image:: https://github.com/catalyst-cooperative/handbook/workflows/repo2docker/badge.svg
+   :target: https://github.com/catalyst-cooperative/handbook/actions?query=workflow%3Arepo2docker
    :alt: repo2docker Build Status
 
-.. image:: https://github.com/catalyst-cooperative/policy_handbook/workflows/docker-build-push/badge.svg
-   :target: https://github.com/catalyst-cooperative/policy_handbook/actions?query=workflow%3Adocker-build-push
+.. image:: https://github.com/catalyst-cooperative/handbook/workflows/docker-build-push/badge.svg
+   :target: https://github.com/catalyst-cooperative/handbook/actions?query=workflow%3Adocker-build-push
    :alt: Docker build status
 
-.. image:: https://img.shields.io/codecov/c/github/catalyst-cooperative/policy_handbook?style=flat&logo=codecov
-   :target: https://codecov.io/gh/catalyst-cooperative/policy_handbook
+.. image:: https://img.shields.io/codecov/c/github/catalyst-cooperative/handbook?style=flat&logo=codecov
+   :target: https://codecov.io/gh/catalyst-cooperative/handbook
    :alt: Codecov Test Coverage
 
-.. image:: https://img.shields.io/readthedocs/catalystcoop-policy_handbook?style=flat&logo=readthedocs
-   :target: https://catalystcoop-policy_handbook.readthedocs.io/en/latest/
+.. image:: https://img.shields.io/readthedocs/catalystcoop-handbook?style=flat&logo=readthedocs
+   :target: https://catalystcoop-handbook.readthedocs.io/en/latest/
    :alt: Read the Docs Build Status
 
-.. image:: https://img.shields.io/pypi/v/catalystcoop.policy_handbook?style=flat&logo=python
-   :target: https://pypi.org/project/catalystcoop.policy_handbook/
+.. image:: https://img.shields.io/pypi/v/catalystcoop.handbook?style=flat&logo=python
+   :target: https://pypi.org/project/catalystcoop.handbook/
    :alt: PyPI Latest Version
 
-.. image:: https://img.shields.io/conda/vn/conda-forge/catalystcoop.policy_handbook?style=flat&logo=condaforge
-   :target: https://anaconda.org/conda-forge/catalystcoop.policy_handbook
+.. image:: https://img.shields.io/conda/vn/conda-forge/catalystcoop.handbook?style=flat&logo=condaforge
+   :target: https://anaconda.org/conda-forge/catalystcoop.handbook
    :alt: conda-forge Version
 
-.. image:: https://img.shields.io/pypi/pyversions/catalystcoop.policy_handbook?style=flat&logo=python
-   :target: https://pypi.org/project/catalystcoop.policy_handbook/
+.. image:: https://img.shields.io/pypi/pyversions/catalystcoop.handbook?style=flat&logo=python
+   :target: https://pypi.org/project/catalystcoop.handbook/
    :alt: Supported Python Versions
 
 .. image:: https://img.shields.io/badge/code%20style-black-000000.svg
@@ -41,15 +41,15 @@ Cheshire: a Python Template Repository for Catalyst
 
 This template repository helps make new Python projects easier to set up and more
 uniform. It contains a lot of infrastructure surrounding a minimal Python package named
-``policy_handbook`` (the cat who isn't entirely there...).
+``handbook`` (the cat who isn't entirely there...).
 
 Create a new repository from this template
 =======================================================================================
 
 * Choose a name for the new package that you are creating.
 * The name of the repository should be the same as the name of the new Python package
-  you are going to create. E.g. a repository at ``catalyst-cooperative/policy_handbook``
-  should be used to define a package named ``policy_handbook``.
+  you are going to create. E.g. a repository at ``catalyst-cooperative/handbook``
+  should be used to define a package named ``handbook``.
 * Fork this template repository to create a new Python project repo.
   `See these instructions
   <https://docs.github.com/en/repositories/creating-and-
@@ -57,16 +57,16 @@ Create a new repository from this template
 * Clone the new repository to your development machine.
 * Run ``pre-commit install`` in the newly clone repository to install the
   `pre-commit hooks <https://pre-commit.com/>`__ defined in ``.pre-commit-config.yaml``
-* Create the ``policy_handbook`` conda environment by running ``conda env create`` or
+* Create the ``handbook`` conda environment by running ``conda env create`` or
   (preferably) ``mamba env create`` in the top level of the repository.
-* Activate the new conda environment with ``conda activate policy_handbook``.
+* Activate the new conda environment with ``conda activate handbook``.
 * Run ``tox`` from the top level of the repository to verify that everything is working
   correctly.
 
 Rename the package and distribution
 =======================================================================================
 
-Once you know that your forked version of the ``policy_handbook`` package is working as
+Once you know that your forked version of the ``handbook`` package is working as
 expected, you should update the package and distribution names in your new repo to
 reflect the name of your new package. The **package name** is determined by the name of
 the directory under ``src/`` which contains the source code, and is the name you'll use
@@ -74,7 +74,7 @@ to import the package for use in a program, script, or notebook. E.g.:
 
 .. code:: python
 
-  import policy_handbook
+  import handbook
 
 The **distribution name** is the name that is used to install the software using a
 program like  ``pip``, ``conda``, or ``mamba``. It is often identical to the package
@@ -83,28 +83,28 @@ organization responsible for maintaining the pacakge. See :pep:`423`
 `PEP 423 <https://peps.python.org/pep-0423/>`__ for more on Python package naming
 conventions. We are using the ``catalystcoop`` namespace for the packages that we
 publish, so our ``pudl`` package becomes ``catalystcoop.pudl`` in the
-Python Package Index (PyPI) or on ``conda-forge``. Similarly the ``policy_handbook``
-package becomes the ``catalystcoop.policy_handbook`` distribution. The distribution
+Python Package Index (PyPI) or on ``conda-forge``. Similarly the ``handbook``
+package becomes the ``catalystcoop.handbook`` distribution. The distribution
 name is determined by the ``name`` argument in the call to ``setup()`` in ``setup.py``.
 
 .. code:: bash
 
-  pip install catalystcoop.policy_handbook
+  pip install catalystcoop.handbook
 
 The package and distribution names are referenced in many of the files in the template
 repository, and they all need to be replaced with the name of your new package. You can
 use ``grep -r`` to search recursively through all of the files for the
-word ``policy_handbook`` at the command line, or use the search-and-replace
+word ``handbook`` at the command line, or use the search-and-replace
 functionality of your IDE / text editor. The name of the package directory under
 ``src/`` will also need to be changed.
 
 * Supply any required tokens, e.g. for CodeCov
-* Rename the ``src/policy_handbook`` directory to reflect the new package name.
-* Search for ``policy_handbook`` and replace it as appropriate everywhere. Sometimes
-  this will be with a distribution name like ``catalystcoop.policy_handbook``
+* Rename the ``src/handbook`` directory to reflect the new package name.
+* Search for ``handbook`` and replace it as appropriate everywhere. Sometimes
+  this will be with a distribution name like ``catalystcoop.handbook``
   (the package as it appears for ``pip`` or ``PyPI``) and sometimes this will be the
   importable package name (the name of the directory under ``src`` e.g.
-  ``policy_handbook``)
+  ``handbook``)
 * Create the new project / package at Read The Docs.
 
 What this template provides
@@ -235,7 +235,7 @@ Test Coverage
   coverage, and provides a nice visual representation of the data -- identifying which
   subpackages, modules, and individual lines of are being tested. For example, here are
   the results
-  `for the policy_handbook repo <https://app.codecov.io/gh/catalyst-cooperative/policy_handbook>`__.
+  `for the handbook repo <https://app.codecov.io/gh/catalyst-cooperative/handbook>`__.
 * The connection to CodeCov is configured in the ``.codecov.yml`` YAML file.
 * In theory, we should be able to automatically turn CodeCov on for all of our GitHub
   repos, and it just Just Work, but in practice we've had to turn it on in the GitHub
@@ -284,7 +284,7 @@ Documentation Publishing
   need to click on the Catalyst Cooperative logo in the right hand sidebar.
 * It will ask you for a project name -- this will become part of the domain name for the
   documentation page on RTD and should be the same as the distribution name, but with
-  dots and underscores replaced with dashes. E.g. ``catalystcoop-policy_handbook`` or
+  dots and underscores replaced with dashes. E.g. ``catalystcoop-handbook`` or
   ``catalystcoop-pudl-catalog``.
 * Under Advanced Settings, make sure you
   `enable builds on PRs <https://docs.readthedocs.io/en/stable/pull-requests.html>`__.

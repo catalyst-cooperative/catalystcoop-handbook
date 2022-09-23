@@ -9,7 +9,7 @@ import argparse
 import logging
 import sys
 
-from policy_handbook.dummy import do_something
+from handbook.dummy import do_something
 
 # This is the module-level logger, for any logs
 logger = logging.getLogger(__name__)

@@ -7,7 +7,7 @@ import pytest
 ENTRY_POINTS = [
     ep.name
     for ep in pkg_resources.iter_entry_points("console_scripts")
-    if ep.module_name.startswith("policy_handbook")
+    if ep.module_name.startswith("handbook")
 ]
 
 

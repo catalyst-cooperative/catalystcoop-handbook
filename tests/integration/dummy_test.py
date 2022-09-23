@@ -3,7 +3,7 @@ import logging
 
 import pytest
 
-from policy_handbook.dummy import do_something
+from handbook.dummy import do_something
 
 logger = logging.getLogger(__name__)
 

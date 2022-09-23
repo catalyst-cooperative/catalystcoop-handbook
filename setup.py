@@ -11,7 +11,7 @@ long_description = readme_path.read_text()
 
 setup(
     # This should be the *installed* package name e.g. catalystcoop.pudl not pudl
-    name="catalystcoop.policy_handbook",
+    name="catalystcoop.handbook",
     description="A one line description of the package.",
     long_description=long_description,
     long_description_content_type="text/x-rst",
@@ -24,9 +24,9 @@ setup(
     maintainer_email="pudl@catalyst.coop",
     url="",  # Can be repo or docs URL if no separate web page exists.
     project_urls={
-        "Source": "https://github.com/catalyst-cooperative/policy_handbook",
-        "Documentation": "https://catalystcoop-policy_handbook.readthedocs.io",
-        "Issue Tracker": "https://github.com/catalyst-cooperative/policy_handbook/issues",
+        "Source": "https://github.com/catalyst-cooperative/handbook",
+        "Documentation": "https://catalystcoop-handbook.readthedocs.io",
+        "Issue Tracker": "https://github.com/catalyst-cooperative/handbook/issues",
     },
     license="MIT",
     # Fill in search keywords that users might use to find the package
@@ -107,7 +107,7 @@ setup(
     entry_points={
         "console_scripts": [
             # "script_name = dotted.module.path.to:main_script_function",
-            "winston = policy_handbook.cli:main",
+            "winston = handbook.cli:main",
         ]
     },
 )

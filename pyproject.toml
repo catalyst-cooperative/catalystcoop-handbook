@@ -10,4 +10,4 @@ include = "\\.pyi?$"
 
 [tool.isort]
 profile = "black"
-known_first_party = ["policy_handbook", "pudl", "pudl_catalog"]
+known_first_party = ["handbook", "pudl", "pudl_catalog"]

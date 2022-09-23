@@ -1,4 +1,4 @@
-name: policy_handbook
+name: handbook
 channels:
   - conda-forge
   - defaults
