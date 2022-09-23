@@ -5,13 +5,13 @@ from pathlib import Path
 
 from setuptools import find_packages, setup
 
-readme_path = Path(__file__).parent / "README.rst"
+readme_path = Path(__file__).parent / "README.md"
 long_description = readme_path.read_text()
 
 
 setup(
     # This should be the *installed* package name e.g. catalystcoop.pudl not pudl
-    name="catalystcoop.cheshire",
+    name="catalystcoop.handbook",
     description="A one line description of the package.",
     long_description=long_description,
     long_description_content_type="text/x-rst",
@@ -24,9 +24,9 @@ setup(
     maintainer_email="pudl@catalyst.coop",
     url="",  # Can be repo or docs URL if no separate web page exists.
     project_urls={
-        "Source": "https://github.com/catalyst-cooperative/cheshire",
-        "Documentation": "https://catalystcoop-cheshire.readthedocs.io",
-        "Issue Tracker": "https://github.com/catalyst-cooperative/cheshire/issues",
+        "Source": "https://github.com/catalyst-cooperative/handbook",
+        "Documentation": "https://catalystcoop-handbook.readthedocs.io",
+        "Issue Tracker": "https://github.com/catalyst-cooperative/handbook/issues",
     },
     license="MIT",
     # Fill in search keywords that users might use to find the package
@@ -49,6 +49,7 @@ setup(
             "doc8>=0.9,<1.1",  # Ensures clean documentation formatting
             "furo>=2022.4.7",
             "myst-parser~=0.18.0",
+            "mdformat~=0.7.16",
             "sphinx>=4,!=5.1.0,<5.1.2",  # The default Python documentation engine
             "sphinx-autoapi>=1.8,<1.10",  # Generates documentation from docstrings
             "sphinx-issues>=1.2,<3.1",  # Allows references to GitHub issues
@@ -106,7 +107,7 @@ setup(
     entry_points={
         "console_scripts": [
             # "script_name = dotted.module.path.to:main_script_function",
-            "winston = cheshire.cli:main",
+            "winston = handbook.cli:main",
         ]
     },
 )

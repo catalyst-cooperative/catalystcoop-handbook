@@ -24,7 +24,7 @@ DOCS_DIR = Path(__file__).parent.resolve()
 # importable path.
 
 # The full version, including alpha/beta/rc tags
-release = pkg_resources.get_distribution("catalystcoop.cheshire").version
+release = pkg_resources.get_distribution("catalystcoop.handbook").version
 
 # -- Project information -----------------------------------------------------
 
@@ -51,7 +51,7 @@ extensions = [
 todo_include_todos = True
 
 # GitHub repo
-issues_github_path = "catalyst-cooperative/cheshire"
+issues_github_path = "catalyst-cooperative/handbook"
 
 # In order to be able to link directly to documentation for other projects,
 # we need to define these package to URL mappings:

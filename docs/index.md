@@ -1,11 +1,9 @@
-# Catalyst Policy Handbook
+# Catalyst Handbook
 
 ```{toctree}
-:caption: Policy Areas
+:caption: Handbooks
 :maxdepth: 2
 
-basic_expectations
-benefits
-retirement_accounts
-reimbursement
+policies/index
+bylaws/index
 ```
