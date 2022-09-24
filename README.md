@@ -11,8 +11,8 @@ We use the conda package manager to specify and update our development environme
 
 ```
 conda update conda
-conda env create --name pudl-usage-metrics --file environment.yml
-conda activate pudl-usage-metrics
+conda env create --name handbook --file environment.yml
+conda activate handbook
 ```
 
 ## Git Pre-commit Hooks
