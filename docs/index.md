@@ -20,3 +20,10 @@ policies
 
 bylaws
 ```
+
+```{toctree}
+:caption: Articles of Incorporation
+:maxdepth: 1
+
+articles_of_incorporation
+```
