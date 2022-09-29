@@ -1,9 +1,22 @@
 # Catalyst Handbook
 
 ```{toctree}
-:caption: Handbooks
-:maxdepth: 2
+:caption: Catalyst 101
+:maxdepth: 1
 
-policies/index
-bylaws/index
+catalyst_101
+```
+
+```{toctree}
+:caption: Policies
+:maxdepth: 1
+
+policies
+```
+
+```{toctree}
+:caption: Bylaws
+:maxdepth: 1
+
+bylaws
 ```
