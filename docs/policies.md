@@ -1,6 +1,8 @@
-# Basic Expectations
+# Policies
 
-## Compensation
+## Basic Expectations
+
+### Compensation
 
 **Provided to:** Members & Contractors
 
@@ -8,28 +10,28 @@ Catalyst pays its employees and contractors $36.75 / hour.
 
 Catalyst employees are paid through a monthly payroll which is run monthly at the end of the first week of the month. Paychecks should be deposited electronically by the 15th of the month.
 
-## Expected Hours
+### Expected Hours
 
-### Weekly Hours
+#### Weekly Hours
 
 In line with our goal of allowing members time to pursue activities outside of work, Catalyst has generally adopted a **30 hour work week**, with the understanding that some weeks may have more or fewer hours worked.
 
-### Annual Hours
+#### Annual Hours
 
 Each **member** must work at least **1000 hours per calendar year** in order to maintain their membership in the cooperative. This is equivalent to averaging 20 hours of work per week (or half of a normal 40 hr/week FTE). For new members who join the cooperative partway through the calendar year, this requirement will be prorated and applied only to the portion of the year during which they were working for the cooperative, including their 6 month candidacy period. Steven Winter shall only be required to work an average of 10 hours per week to retain his membership in the cooperative.
 
 **Member-track contractors** must work **500 hours during a six month candidacy period** in order to be eligible for co-op membership.
 
-# Benefits
+## Benefits
 
-## Unpaid Time-Off
+### Unpaid Time-Off
 
 **Provided to:** Members & Contractors
 
 Members may take up to 2 weeks (10 consecutive working days) of unpaid time off, so long as they notify the Board of their scheduled absence at least 2 weeks in advance. Members may request more than 2 weeks of unpaid time off by submitting a written request to the Board at least as far in advance of the absence as the absence will be long. For example, a 1 month long leave would need to be requested at least 1 month in advance. Approval of periods of unpaid leave in excess of 2 weeks will be contingent on the ability of the cooperative to continue operating as a viable economic entity. A member cannot take more than 6 months of consecutive leave without resigning their membership in the cooperative. We encourage contractors to keep us informed as to their availability on a regular basis.
 Members and member-track contractors are **not required to provide an explanation for why** they are taking paid or unpaid time off. Approval of unpaid time off shall not be contingent upon the member providing a justification for their request.
 
-## Paid Time-Off
+### Paid Time-Off
 
 **Provided to:** Employee-Members only
 
@@ -37,19 +39,19 @@ Members accrue **1 hour of paid time off for each 52 hours of work**. This is eq
 
 New members are granted 10 hours of paid time off to start with, to reflect the time they spent as a candidate / contractor.
 
-## Health Care
+### Health Care
 
 **Provided to:** Members & Contractors
 
 Catalyst provides a healthcare reimbursement of **$150 a month** to members and contractors working 1000 hours per year on a rolling 12 month basis (or in the case of new contractors/employees, the prorated amount of hours since they began working).
 
-## Retirement Accounts
+### Retirement Accounts
 
 **Provided to:** Employee-Members only
 
 Catalyst employees can contribute to a tax-deferred [Vanguard SIMPLE IRA](https://investor.vanguard.com/small-business-retirement-plans/simple-ira) and the co-op will match 3% of the employee’s wages. The IRS limit on annual employee contributions as of 2022 is $14,000. Here is a good summary of [how a SIMPLE IRA works](https://www.paychex.com/articles/employee-benefits/what-is-a-simple-ira) . Employees can contribute to the SIMPLE IRA and still contribute to a traditional individual IRA or Roth IRA.
 
-# Reimbursement
+## Reimbursement
 
 Catalyst has two reimbursement policies available to members:
 
@@ -74,7 +76,7 @@ Reimbursement requests for one-off purchases approved by the board are also acce
 
 (home-office)=
 
-## Home Office Reimbursements
+### Home Office Reimbursements
 
 **Provided to:** Members only
 
@@ -99,7 +101,7 @@ Each member will be reimbursed **up to $3,000 in any rolling 3-year period** to 
 
 (irl)=
 
-## Catalyst IRL Reimbursement
+### Catalyst IRL Reimbursement
 
 **Provided to:** Members only
 
@@ -109,7 +111,7 @@ As a remote organization, Catalysters rarely see one another in person. To encou
 
 If you are uncertain about whether an expense may be reimbursable, use your best judgment, and reach out to our Chief Financial Officer, Steve Winter, for clarification.
 
-# Retirement Accounts
+## Retirement Accounts
 
 **Provided to:** Employee-Members only
 

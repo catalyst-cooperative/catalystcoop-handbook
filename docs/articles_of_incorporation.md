@@ -1,6 +1,6 @@
-# ATTACHMENT TO ARTICLES OF INCORPORATION OF CATALYST COOPERATIVE
+# Attachment To Articles Of Incorporation Of Catalyst Cooperative
 
-## ARTICLE I. PURPOSE
+## Article I: Purpose
 
 This Cooperative is organized for the following purposes:
 
@@ -15,7 +15,7 @@ climate change mitigation and adaptation; and
 Colorado Cooperative Act or any amended or successor statute. This Cooperative shall be
 operated on a cooperative basis for the mutual benefit of its members.
 
-## ARTICLE II. POWERS AND LIMITATIONS
+## Article II: Powers And Limitations
 
 **Section 1. Powers.** This Cooperative shall have all powers, privileges, and rights conferred on cooperative associations by the laws of the State of Colorado.
 
@@ -23,7 +23,7 @@ operated on a cooperative basis for the mutual benefit of its members.
 nonmembers in an amount the value of which exceeds the value of the services purchased or
 delivered for members.
 
-## ARTICLE III. MEMBERSHIP AND CAPITAL STOCK
+## Article III: Membership And Capital Stock
 
 **Section 1. Membership.** In order to become a member of this Cooperative a consultant shall pay such membership fees, charges and dues as prescribed in the Bylaws. Those meeting the membership standards for voting members as set forth in the Bylaws shall be the members of this Cooperative with the power to vote in its affairs, and only such members shall have voting power. Each member is restricted to only one vote, regardless of the number of shares of stock held by such member or the amount of business done with this Cooperative by such member.
 
@@ -39,12 +39,12 @@ delivered for members.
 
 **Section 7. Distribution of Net Income.** The net income (total annual net savings) in excess of dividends, per unit retains, and additions to reserves shall be distributed on the basis of patronage as provided in the Bylaws. The records of this Cooperative may show the interest of stockholder in the reserves.
 
-## ARTICLE IV. FIRST LIEN
+## Article IV: First Lien
 
 This Cooperative shall have a first lien on all shares of its capital stock, equity credits or on any other interest distributed on a patronage basis standing on its books for all indebtedness of the respective holders or owners thereof to this Cooperative. This Cooperative shall also have the right, exercisable at the option of the Board of Directors, to set off such indebtedness against the amount of such capital stock, equity credits or any other interest distributed on a patronage basis standing on its books; provided, however, that nothing contained herein shall give the holders of
 such stock, equity credits or any other interest distributed on a patronage basis, any right to have such set off made.
 
-## ARTICLE V. DISSOLUTION
+## Article V: Dissolution
 
 In the event of any liquidation, dissolution or winding up of this Cooperative,
 whether voluntary or involuntary, all debts and liabilities of this Cooperative shall be paid first according to their respective priorities. Holders of Preferred Stock shall then be entitled to receive the par value of their shares. Holders of Class A Common Stock and other equity interests shall then be entitled to receive the par value of their shares and the stated value of any other equity interests, without priority on a pro rata basis.
@@ -55,13 +55,13 @@ then be retired without priority on a pro rata basis to the holders to whom they
 Any remaining assets of this Cooperative shall be distributed among the patrons of
 this Cooperative, including both current patrons and former patrons, in the proportion which the aggregate patronage of each patron bears to the total patronage of all patrons, as shown by the records of this Cooperative.
 
-## ARTICLE VI. BOARD OF DIRECTORS
+## Article VI: Board Of Directors
 
 The affairs of this Cooperative shall be governed by a Board of Directors initially
 consisting of three directors, as may be revised by the Bylaws of this Cooperative. The Board of Directors shall be elected in the manner provided in the Bylaws. The names and addresses of the incorporating directors, who shall serve as the initial Board of Directors until the first annual meeting of the members, are as follows:
 
 | Name              | Address                                |
-|-------------------|----------------------------------------|
+| ----------------- | -------------------------------------- |
 | Christina Gosnell | 430 South 45th Street Boulder CO 80305 |
 | Zane Selvans      | 748 10th Street Boulder CO 80302       |
 | Steven Winter     | 748 10th Street Boulder CO 80302       |
@@ -70,6 +70,6 @@ No director shall be personally liable to this Cooperative for monetary damages 
 any breach of his or her duty of care as a director, except that the foregoing shall not eliminate or limit such director's liability to this Cooperative for monetary damages for acts specified in C.R.S. section 7-56-406(2)(a), as it now exists or hereafter may be amended, involving bad faith, intentional misconduct, knowing violations of law, transactions from which the director derived personal benefit, unlawful distributions, loans, guarantees of loans, dividends, repurchases, or other failures to conform with the standard of care in C.R.S. section 7-108-401. If the Colorado Cooperative Act hereafter is amended to authorize the further elimination or limitation of the liability of directors, then the liability of a director of this Cooperative, in addition to the limitation
 on personal liability provided herein, shall be further eliminated or limited to the fullest extent permitted by the Colorado Cooperative Act. Any repeal or modification of this limitation shall be prospective only and shall not adversely affect any right or protection of a director of this Cooperative existing at the time of such repeal or modification.
 
-## ARTICLE VII. AMENDMENTS
+## Article VII: Amendments
 
 These Articles of Incorporation may be amended in the manner provided by law.

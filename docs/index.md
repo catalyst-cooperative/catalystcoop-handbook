@@ -1,29 +1,17 @@
-# Catalyst Handbook
+# Catalyst Cooperative Handbook
+
+Welcome to the Catalyst Cooperative Handbook! This handbook contains the cooperative's bylaws, policies and general information.
+
+The handbook allows members to version control and review changes to the cooperative policies. We also hope it gives prospective members and other cooperatives insight into how we operate.
+
+## Documents
 
 ```{toctree}
-:caption: Catalyst 101
 :maxdepth: 1
 
+how_to
 catalyst_101
-```
-
-```{toctree}
-:caption: Policies
-:maxdepth: 1
-
 policies
-```
-
-```{toctree}
-:caption: Bylaws
-:maxdepth: 1
-
 bylaws
-```
-
-```{toctree}
-:caption: Articles of Incorporation
-:maxdepth: 1
-
 articles_of_incorporation
 ```

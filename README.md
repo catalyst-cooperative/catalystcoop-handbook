@@ -1,11 +1,18 @@
 # Catalyst Cooperative Handbook
+
 [The Catalyst Cooperative Handbook](https://catalystcoop-handbook.readthedocs.io/en/latest/) contains the cooperative's bylaws, policies and general information.
 
 This repo allows us to version control and review changes to our policies.
 
-## Conda Environment
+<!-- readme-intro -->
 
-To edit these docs you need to set up a conda environment.
+## Setup Conda Environment
+
+To edit these docs you need to clone the [`catalyst-handbook`](https://github.com/catalyst-cooperative/catalystcoop-handbook) repo and set up a conda environment:
+
+```
+git clone git@github.com:catalyst-cooperative/catalystcoop-handbook.git
+```
 
 We use the conda package manager to specify and update our development environment. We recommend using [miniconda](https://docs.conda.io/en/latest/miniconda.html) rather than the large pre-defined collection of scientific packages bundled together in the Anaconda Python distribution. You may also want to consider using [mamba](https://github.com/mamba-org/mamba) – a faster drop-in replacement for conda written in C++.
 
