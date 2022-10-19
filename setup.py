@@ -31,7 +31,7 @@ setup(
     license="MIT",
     # Fill in search keywords that users might use to find the package
     keywords=[],
-    python_requires=">=3.10,<3.11",
+    python_requires=">=3.8,<3.11",
     # In order for the dependabot to update versions, they must be listed here.
     # Use the format pkg_name>=x,<y", Included packages are just examples:
     install_requires=[
