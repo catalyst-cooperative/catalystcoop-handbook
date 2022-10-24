@@ -39,7 +39,9 @@ Categorizing hours worked on internal projects can be a little harder than clien
 - **Hours Bike Rack**
 - **New Cat Member Search:** Any work related to finding new coop members/contractors. This includes all _outreach_, _job descriptions_, _interviews_, _applicant review_.
 - **Old Cats:** For things like _existing member feedback_.
-- **Onboarding \[NAME\]:** We specific onboarding projects for each new teammate. These are for both the new teammate and the existing members to bill for _helping a specific newbie get up and running_, and conducting _3 and 6 month check-ins_. New members should bill to the onboarding category that includes their name. \* \*Onboarding/Setup:\*This generic onboarding project shall be used for _non-specific onboarding planning objectives_ such as creating a list of tools for new recruits.\* - **Project Management:** When paired with the “sprint management” task, this project is used for our bi-weekly _sprint planning and sprint recap_ meetings. Otherwise, it is used for other efforts such as discussing our use of GitHub or other project management tools.
+- **Onboarding \[NAME\]:** We specific onboarding projects for each new teammate. These are for both the new teammate and the existing members to bill for _helping a specific newbie get up and running_, and conducting _3 and 6 month check-ins_. New members should bill to the onboarding category that includes their name.
+- **Onboarding/Setup:** This generic onboarding project shall be used for _non-specific onboarding planning objectives_ such as creating a list of tools for new recruits.
+- **Project Management:** When paired with the “sprint management” task, this project is used for our bi-weekly _sprint planning and sprint recap_ meetings. Otherwise, it is used for other efforts such as discussing our use of GitHub or other project management tools.
 - **PUDL Huddle:** Get it?! it rhymes. This is for our daily _standup calls_, and _weekly action-item meetings_.
 - **User Support:** For interacting with PUDL users and conducting _PUDL office hours_.
 
@@ -51,11 +53,11 @@ Once you’ve selected a project, you must also specify the type of task (e.g. *
 
 - **Accounting / Bookkeeping**: Recurring financial administration tasks such as categorizing expenses, writing journal entries, reconciling accounts, and making transfers. Grant-related accounting and annual tax preparation with our accountant.- **Administrative Correspondence**: Reading, replying to, and managing external correspondence, particularly from government agencies regarding legal obligations etc.
 - **Blog / Social Media / Website**: Any actions pertaining to Catalyst blogs, social media presence, or website.
-- \*Business systems account administration:\*Handling issues related to the systems that the cooperative depends upon for basic functions, such as payroll, email, and time tracking.
+- **Business systems account administration:** Handling issues related to the systems that the cooperative depends upon for basic functions, such as payroll, email, and time tracking.
 - **Code Documentation:** Reserved for writing doc strings, jupyter markdown, rst files, or metadata, updating example notebooks, etc. pertaining to code that you or others have written.
 - **Code Review:** Anytime you are asked to provide feedback, whether informally or in the form of a pull request, on someone else’s code. Changes to the code as a result of feedback are /not/ code review. Calls to discuss PRs can be considered code review.
 - **Code Testing:** Designing or running tests for any code relevant to Catalyst work.
-- \*Data Compilation:\*The more manual data acquisition of data, e.g. scraping PDFs, pulling state-level data from websites into a machine readable format.
+- **Data Compilation:** The more manual data acquisition of data, e.g. scraping PDFs, pulling state-level data from websites into a machine readable format.
 - **Data Wrangling & Analysis:** Coding and Excel work that pertains to data analysis and/or tweaks within the current software architecture. Some examples include: making example notebooks or adding new years of data.
 - **Financial Reporting:** Organizing data, creating tables and charts, and communicating monthly financial reports or other reporting for grants or tax filings.
 - **Governance-related administration:** Any activities related to internal governance in preparation for board meetings or other meetings of the cooperative.
@@ -63,7 +65,7 @@ Once you’ve selected a project, you must also specify the type of task (e.g. *
 - **Invoicing:** Creating, editing, reviewing, and sending invoices.
 - **Email / Chat:** Any messaging with co-workers, clients, prospective clients, or anyone regarding topics that are relevant to Catalyst work.
 - **Packaging / Release:** All work pertaining to an impending software or data release and/or python packaging requirements.
-- \*\*Payroll:\*\*Paying employees and contractors, submitting Vanguard contributions.
+- **Payroll:** Paying employees and contractors, submitting Vanguard contributions.
 - **Phone / Meeting:** Any calls or virtual meetings with co-workers, clients, prospective clients, or anyone regarding topics that are relevant to Catalyst work. Sometimes pointed meetings surrounding software design or code review, for example, will be charged to those tasks. Meetings should have clear expectations as to how they should be billed.
 - **Presentation / Conference Prep & Attendance:** Any presentation prep and attendance of conferences. Note that travel is a separate category. Presentations must be given to an audience outside of Catalyst. In other words, don’t use this category if you’re preparing a talk just for us.
 - **Project Management:** Work related to the
