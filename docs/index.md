@@ -11,6 +11,7 @@ The handbook allows members to version control and review changes to the coopera
 
 how_to
 catalyst_101
+time_tracking
 policies
 bylaws
 articles_of_incorporation
