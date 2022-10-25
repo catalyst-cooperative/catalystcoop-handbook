@@ -27,7 +27,7 @@ Catalyst Cooperative is a worker-owned, mission-driven tech cooperative that is 
 
 ### Co-op FAQ
 
-Hold up. What /is/ a co-op? What makes it different from a non-profit or a regular corporate start-up? Here’s a high level overview:
+Hold up. What _is_ a co-op? What makes it different from a non-profit or a regular corporate start-up? Here’s a high level overview:
 
 **Q: What is a worker cooperative?**
 
