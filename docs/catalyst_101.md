@@ -31,11 +31,11 @@ Hold up. What /is/ a co-op? What makes it different from a non-profit or a regul
 
 **Q: What is a worker cooperative?**
 
-**A:** A Worker cooperatives (aka co-ops) are jointly-owned, democratically-governed, values-driven businesses that prioritizes equality, solidarity, and worker well-being. Co-ops must officially register as such in the state of their choice.
+**A:** Worker cooperatives (aka co-ops) are jointly-owned, democratically-governed, values-driven businesses that prioritizes equality, solidarity, and worker well-being. Co-ops must officially register as such in the state of their choice.
 
 **Q: What is the difference between a worker co-op and a nonprofit?**
 
-**A:** Co-ops and nonprofits are both mission-driven, community-centric organizations, but there are some key differences. As tax-exempt entities, nonprofits are required to engage in specific educational or charitable pursuits as defined by the state in which they are registered. Co-ops have no such restrictions. Nonprofits are also barred from redistributing profits to investors or members whereas co-ops distribute their wealth to members. Nonprofit funding is also limited to grants and donations versus co-ops which can acquire an unrestricted portion of funds from the sale of goods and services.
+**A:** Co-ops and nonprofits are both mission-driven, community-centric organizations, but there are some key differences. As tax-exempt entities, nonprofits are required to engage in specific educational or charitable pursuits as defined by the state in which they are registered. Co-ops have no such restrictions. Nonprofits are also barred from redistributing profits to investors or members whereas co-ops distribute their wealth to members. Nonprofit funding is also limited to grants and donations while co-ops can acquire an unrestricted portion of funds from the sale of goods and services.
 
 **Q: What is the difference between a worker co-op and a for-profit corporation?**
 
@@ -49,7 +49,8 @@ Hold up. What /is/ a co-op? What makes it different from a non-profit or a regul
 **Read more about:**
 
 - [Co-op identity, values, and principals from the International Coop Alliance](https://www.ica.coop/en/cooperatives/cooperative-identity)
-- [The difference between co-ops and other types of corporations from the National Cooperative Business Association](https://ncbaclusa.coop/blog/differences-between-cooperatives-and-corporations/#:~:text=While%20other%20types%20of%20corporations,Some%20cooperatives%20are%20employee%2Downed.) * [The legal definition and status of co-ops from Co-opLaw.org](https://www.co-oplaw.org/knowledge-base/what-are-cooperatives/)
+- [The difference between co-ops and other types of corporations from the National Cooperative Business Association](https://ncbaclusa.coop/blog/differences-between-cooperatives-and-corporations/#:~:text=While%20other%20types%20of%20corporations,Some%20cooperatives%20are%20employee%2Downed.)
+- [The legal definition and status of co-ops from Co-opLaw.org](https://www.co-oplaw.org/knowledge-base/what-are-cooperatives/)
 - [The history of worker co-ops from the Federation of Worker Cooperatives](https://institute.coop/what-worker-cooperative)
 - [The steps involved in starting a worker coop from the US Small Business Administration](https://proxy.www.sba.gov/starting-business/choose-your-business-structure/cooperative)
   [How coop finances work from the Internal Capital Accounts Group](https://icagroup.org/wp-content/uploads/2019/04/Internal-Capital-Accounts.pdf)
@@ -71,7 +72,7 @@ Contractors and members receive the same hourly rate. Employee-members receive a
 
 **All co-op employees are co-op members, but not all co-op members are co-op employees**. That is to say, the vast majority of members are employed by Catalyst and are therefore eligible for employee-related benefits such as PTO, retirement contributions, and reduced payroll taxes. However, it is possible for the co-op to admit a contractor-member who is eligible for membership related benefits such as the dividends but not the employee benefits. This could be the case for an overseas contractor who becomes a member of the cooperative.
 
-For simplicity’s sake (and because there are currently no contractor-members), we compare the difference in responsibilities by contractor and employee-member. For more detailed information on each of the policies listed below, refer to the [Catalyst Policy Handbook](policies).
+For simplicity’s sake (and because there are currently no contractor-members), we compare the difference in responsibilities by contractor and employee-member. For more detailed information on each of the policies listed below, refer to the [Catalyst Policy Handbook](policies). Key differences between contractors and members are in bold text.
 
 |                      | **Contractors**                                                                                                                                                                                                                                                                                                                                                                                                                                   | **Employee-Members**                                                                                                                                                                                                                                                                                                                                                       |
 | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -83,10 +84,6 @@ For simplicity’s sake (and because there are currently no contractor-members),
 | **Responsibilities** | Contractors are involved in everything except co-op governance decisions. They participate in all regular co-op meetings, including the financial check-ins and business teams after 3 months. Contractors can take as much time off as they want so long as they are considering the technical membership eligibility requirement of 500 hours over the course of six months and the social, unwritten requirement of not randomly disappearing. | Member-employees wear many hats. Until we have enough members to determine a cap, all members become part of the Catalyst board. Both members and board members have a say in co-op governance issues and are expected to act in the interest of the co-op. Members are expected to participate in meetings and engage in the technical and business aspects of the co-op. |
 
 ### Understanding Catalyst’s Finances
-
-- Why do we have to buy a 1000$ share?
-- Flow chart for MCAs (in progress)
-- Tax stuff
 
 The cooperative can pay dividends to its members out of its surplus (net income) in proportion to their [patronage](https://jrwiener.com/cooperative-equity-capital-income-and-patronage-how-they-work-together/#:~:text=In%20cooperatives%2C%20profits%20are%20not,which%20are%20two%20separate%20issues.) (typically patronage is directly proportional to the hours a member works for the cooperative). The members are not liable for the debts or obligations of the cooperative. Article 56 cooperatives can also issue equity to nonmembers, but the returns are limited (in our case the Articles limit returns to 8%).
 
@@ -109,7 +106,7 @@ When you’re first getting started, we’ll reach out to you about completing t
 #### Technical Setup
 
 - Read the PUDL [documentation](https://catalystcoop-pudl.readthedocs.io/en/latest/)
-- Ensure proper security protocols are in place
+- Ensure proper [security protocols](security) are in place.
 - Set up PUDL development environment
 - Run PUDL ETL locally
 
@@ -128,11 +125,13 @@ Once the existing members have voted to offer you membership, it’s up to you t
 - Sign the [Membership Agreement](https://drive.google.com/file/d/1tt4IXVwKi2Gj-L755AUZyu1QaVDRO8px/view?usp=sharing)
 - Purchase $1000 share, your initial capital contribution to the co-op, by sending Steve a check in the mail.
 
+(security)=
+
 ### Security
 
-- \*Make sure your OS and software is up to date.\*This is a huge source of security issues globally. Security patches come out monthly or even more frequently. If your computer is compromised, Catalyst information and credentials will be vulnerable.
-- _Use strong, unique passwords generated and stored by a password manager._ Weak, common passwords will make your Catalyst accounts vulnerable to [password leaks](https://www.cnet.com/tech/services-and-software/password-managers-a-little-pain-for-a-lot-better-security-world-password-day/) . [BitWarden](https://www.tomsguide.com/reviews/bitwarden) is a solid free and open source option though there are plenty of others to choose from. If you set up a password manager or already have one, make sure 2FA is enabled.
-- _Use 2FA when possible, especially for accounts used for backup credential recovery._ 2FA or “Two Factor Authentication” requires you to use something beyond a username and password to authenticate your account. This could be a time-based code, access to a specific phone or laptop, or a hardware token. This makes phishing accounts much more difficult, and reduces the consequences of password breaches. /Catalyst requires use of 2FA for GitHub and Gmail account access./\* \*Consider using a VPN.\*VPNs keep your location and other valuable information secure and inaccessible by unwanted parties. It is [highly recommended](https://www.fortinet.com/resources/cyberglossary/benefits-of-vpn) you use a VPN when working on a public network (WiFi without a password) because anyone can observe internet traffic on a public network. VPNs resolve this issue by encrypting your internet traffic. Note that the VPN operator will still be able to view your network traffic, so it’s important to choose a privacy and security oriented VPN provider, preferably one that regularly submits to an open, independent, 3rd party audit. Some Catalyst members use [Mullvad VPN](https://mullvad.net/en/) and [SurfShark](https://surfshark.com/) . The Swiss [ProtonVPN](https://protonvpn.com/) is another good option.
+- **Make sure your OS and software is up to date.** This is a huge source of security issues globally. Security patches come out monthly or even more frequently. If your computer is compromised, Catalyst information and credentials will be vulnerable.
+- **Use strong, unique passwords generated and stored by a password manager.** Weak, common passwords will make your Catalyst accounts vulnerable to [password leaks](https://www.cnet.com/tech/services-and-software/password-managers-a-little-pain-for-a-lot-better-security-world-password-day/) . [BitWarden](https://www.tomsguide.com/reviews/bitwarden) is a solid free and open source option though there are plenty of others to choose from. If you set up a password manager or already have one, make sure 2FA is enabled.
+- **Use 2FA when possible, especially for accounts used for backup credential recovery.** 2FA or “Two Factor Authentication” requires you to use something beyond a username and password to authenticate your account. This could be a time-based code, access to a specific phone or laptop, or a hardware token. This makes phishing accounts much more difficult, and reduces the consequences of password breaches. /Catalyst requires use of 2FA for GitHub and Gmail account access. **Consider using a VPN.** VPNs keep your location and other valuable information secure and inaccessible by unwanted parties. It is [highly recommended](https://www.fortinet.com/resources/cyberglossary/benefits-of-vpn) you use a VPN when working on a public network (WiFi without a password) because anyone can observe internet traffic on a public network. VPNs resolve this issue by encrypting your internet traffic. Note that the VPN operator will still be able to view your network traffic, so it’s important to choose a privacy and security oriented VPN provider, preferably one that regularly submits to an open, independent, 3rd party audit. Some Catalyst members use [Mullvad VPN](https://mullvad.net/en/) and [SurfShark](https://surfshark.com/) . The Swiss [ProtonVPN](https://protonvpn.com/) is another good option.
 
 ## Project Management
 
@@ -146,18 +145,19 @@ Once the existing members have voted to offer you membership, it’s up to you t
 - **[Gusto](http://gusto.com/):** We use Gusto for payroll. After you make an account and we set up your monthly payments, you won’t have to interact with it much. Gusto is where you will find important tax documents, accumulated PTO, and information about other benefits like the health stipend.
 - **[Harvest](https://catalystcooperative.harvestapp.com/):** We use Harvest for time tracking. You can either download the desktop app or use the online version. Learn how we track time in our [Time Tracking Overview](time_tracking) .
 - **[GitHub](https://github.com/catalyst-cooperative)**: We use GitHub issues and Epics to track ongoing and planned work. Because issues and epics are our sole means of tracking tasks, we often add non-technical (or non-code related) issues to the workflow. We have a business repo intended for admin related tasks. We also encourage people to make issues such as “scope X problem…” or “Phase 1 design…” so that larger problems get broken down into manageable chunks.
-- **[GitHub Pull Requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests):** We like to use pull requests as a form of code transparency. Sometimes you’ll be working on a project in a new branch by yourself and the prospect of doing a mega pull request gets more and more daunting (for you and the reviewers) the more you add. When you start a new branch, make a draft pull request to the dev branch that you can push to frequently. This way people can see your progress/make comments before you’ve gone too far in one direction. These PRs may never get merged, but they allow you to ask questions within the context of your code (i.e., you don’t have to message someone with large code chunks copied).\* [ZenHub](https://app.zenhub.com/workspaces/pudl-5d893559a6e4070001252409/board?repos=80646423,210421263,296720428) : ZenHub is a project management extension for GitHub. We use it to organize and group our GitHub issues and epics into meaningful, trackable project chunks. Each team (see below) has their own ZenHub board where they move relevant issues through a series of custom “pipelines” or columns that indicate the status of a given issue or epic. ZenHub also has a number of meta project management tools like roadmaps and burndown charts that we are trying to get better about using.
+- **[GitHub Pull Requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests):** We like to use pull requests as a form of code transparency. Sometimes you’ll be working on a project in a new branch by yourself and the prospect of doing a mega pull request gets more and more daunting (for you and the reviewers) the more you add. When you start a new branch, make a draft pull request to the dev branch that you can push to frequently. This way people can see your progress/make comments before you’ve gone too far in one direction. These PRs may never get merged, but they allow you to ask questions within the context of your code (i.e., you don’t have to message someone with large code chunks copied).
+- **[ZenHub](https://app.zenhub.com/workspaces/pudl-5d893559a6e4070001252409/board?repos=80646423,210421263,296720428):** ZenHub is a project management extension for GitHub. We use it to organize and group our GitHub issues and epics into meaningful, trackable project chunks. Each team (see below) has their own ZenHub board where they move relevant issues through a series of custom “pipelines” or columns that indicate the status of a given issue or epic. ZenHub also has a number of meta project management tools like roadmaps and burndown charts that we are trying to get better about using.
 
 ### Frameworks
 
 - **[Agile Scrum Sprints](https://www.atlassian.com/agile/scrum)** to structure our workflow. Our sprint periods are two weeks long.
 
-### Teams
+### [Teams](https://drive.google.com/drive/folders/1NNqELmmRykvJNSP3dWquN_URCJC1vZ7t)
 
 A “Team” is a pre-defined group of Catalyst contractors and/or employees that meets on a regular basis to discuss and work on distinct Catalyst needs. Each Team is responsible for addressing a specific and related suite of topics outlined in a Teams Template. Teams are split into two categories:
 
-- **Work Teams**: based around the work of a particular client or grant and only exist so long as the client remains a client or the grant remains active.
-- **Business Teams**: serve ongoing co-op needs.
+- [**Work Teams**](https://drive.google.com/drive/folders/1CHbOJU6W3r3DE2LEQqbcfdme5DK-qufz): based around the work of a particular client or grant and only exist so long as the client remains a client or the grant remains active.
+- [**Business Teams**](https://drive.google.com/drive/folders/1KuF1sJGQMWmODpD5LhnWVN61Ymbmg9xR): serve ongoing co-op needs.
 
 Teams may be asked to perform research or create proposals based on the outcome of conversations in PUDL Huddle or Board meetings. Teams will have their own slack channels. Any Catalyst member can join any of the teams’ slack channels so that they can post inquiries or ask favors of specific teams. Teams do not have a maximum or minimum number of members. Teams may have only one member or be composed of everyone in the organization (though neither is recommended).
 
@@ -197,14 +197,15 @@ All meetings have pre-designated facilitators and note-takers that are specified
 
 ### Notes
 
-All teams have a centralized notes document that comes with the teams folder template. This is where you will store agendas and take notes during the meeting. Most agendas have a **Meeting Notes** and an **Action Items**section where note-takers will record information. Notetakers are also responsible for moving action items up to the **Running Action Items** list as well as removing completed items.
+- All teams have a centralized notes document that comes with the teams folder template. This is where you will store agendas and take notes during the meeting.
+- Most agendas have a **Meeting Notes** and an **Action Items** section where note-takers will record information. Notetakers are also responsible for moving action items up to the **Running Action Items** list at the top of the document as well as removing completed items.
 
 ### Recurring Meetings
 
 #### M/W/Th Stand-up Meetings (15-20 min)
 
 **Attendees**: Contractors & Members
-\*\*Notes:\*\*n/a
+**Notes:** n/a
 
 - Round-robin check-ins regarding progress since prior standup, plans for the day, hold-ups, needs for further discussion, and announcements. Mondays are social check-ins with a quick 5 minute work update at the end.
 - Tuesday and Thursday check-ins happen on slack in the check-ins channel.

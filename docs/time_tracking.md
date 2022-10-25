@@ -22,7 +22,7 @@ When you start a new time entry there are three pieces of information you’ll n
 
 ## Choosing Projects
 
-Projects are grouped by the particular client, grant, or internal work they pertain to. Headers such as /RMI, Sloan,/or/Internal,/will precede a list of related projects you can choose from in a drop down menu. Whenever we take on new projects we add them to Harvest.
+Projects are grouped by the particular client, grant, or internal work they pertain to. Headers such as _RMI, Sloan, or Internal,_ will precede a list of related projects you can choose from in a drop down menu. Whenever we take on new projects we add them to Harvest.
 
 We don’t automatically assign everyone to every project, so if there is a project that you expect to be there, just ask! Especially in the early days, don’t hesitate to ask questions about what should be billed to which project. For example, if you are providing feedback or reviewing code from a project you’re not directly involved with, you might have to ask to be assigned to that project to bill that chunk of time accordingly.
 
@@ -32,22 +32,22 @@ Most projects have a hourly budgets (monthly repeating or overall budgets) that 
 
 Categorizing hours worked on internal projects can be a little harder than client or grant work. For example, how might you charge the hour you spent researching grant opportunities? Here’s a description of the internal project options and how to decide between them:
 
-- **Advisory Committee:** This is reserved for the planning, agenda writing, and hosting of the quarterly _advisory committee meeting_.
-- **Admin:** You know… administrative work. This includes running _payroll_, _financial reporting_, _invoicing_ clients, doing _grant paperwork_, and reorganizing the google drive. For the most part, Steve is the only one that will use this category.
-- **Business Development:** This is for general _marketing/communications_ work, _website_ additions, _grant research,_ and work to make new relationships with folks that could be potential clients or collaborators.
-- **Governance:** This is for _special member meetings_ and _board calls_.
+- **Advisory Committee:** This is reserved for the planning, agenda writing, and hosting of the quarterly advisory committee meeting.
+- **Admin:** You know… administrative work. This includes running payroll, financial reporting, invoicing clients, doing grant paperwork, and reorganizing the google drive. For the most part, Steve is the only one that will use this category.
+- **Business Development:** This is for general marketing/communications work, website additions, grant research, and work to make new relationships with folks that could be potential clients or collaborators.
+- **Governance:** This is for special member meetings and board calls.
 - **Hours Bike Rack**
-- **New Cat Member Search:** Any work related to finding new coop members/contractors. This includes all _outreach_, _job descriptions_, _interviews_, _applicant review_.
-- **Old Cats:** For things like _existing member feedback_.
-- **Onboarding \[NAME\]:** We specific onboarding projects for each new teammate. These are for both the new teammate and the existing members to bill for _helping a specific newbie get up and running_, and conducting _3 and 6 month check-ins_. New members should bill to the onboarding category that includes their name.
-- **Onboarding/Setup:** This generic onboarding project shall be used for _non-specific onboarding planning objectives_ such as creating a list of tools for new recruits.
-- **Project Management:** When paired with the “sprint management” task, this project is used for our bi-weekly _sprint planning and sprint recap_ meetings. Otherwise, it is used for other efforts such as discussing our use of GitHub or other project management tools.
-- **PUDL Huddle:** Get it?! it rhymes. This is for our daily _standup calls_, and _weekly action-item meetings_.
-- **User Support:** For interacting with PUDL users and conducting _PUDL office hours_.
+- **New Cat Member Search:** Any work related to finding new coop members/contractors. This includes all outreach, job descriptions, interviews, applicant review.
+- **Old Cats:** For things like existing member feedback.
+- **Onboarding \[NAME\]:** We specific onboarding projects for each new teammate. These are for both the new teammate and the existing members to bill for helping a specific newbie get up and running, and conducting 3 and 6 month check-ins. New members should bill to the onboarding category that includes their name.
+- **Onboarding/Setup:** This generic onboarding project shall be used for non-specific onboarding planning objectives such as creating a list of tools for new recruits.
+- **Project Management:** When paired with the “sprint management” task, this project is used for our bi-weekly sprint planning and sprint recap meetings. Otherwise, it is used for other efforts such as discussing our use of GitHub or other project management tools.
+- **PUDL Huddle:** Get it?! it rhymes. This is for our daily standup calls, and weekly action-item meetings.
+- **User Support:** For interacting with PUDL users and conducting PUDL office hours.
 
 ## Choosing Tasks
 
-Once you’ve selected a project, you must also specify the type of task (e.g. **Code Review, Data Wrangling, or Phone / Meeting**). These help us understand what types of tasks we are spending time on. These should be pretty straightforward and self explanatory, but again don’t hesitate to ask about them or suggest changes. Not every project has every task listed as an option in the dropdown menu in Harvest. If you see a task here that ought to be an option for a project (or ought /not/ to be an option for a project). Let Steve know and he’ll fix it.
+Once you’ve selected a project, you must also specify the type of task (e.g. **Code Review, Data Wrangling, or Phone / Meeting**). These help us understand what types of tasks we are spending time on. These should be pretty straightforward and self explanatory, but again don’t hesitate to ask about them or suggest changes. Not every project has every task listed as an option in the dropdown menu in Harvest. If you see a task here that ought to be an option for a project (or ought _not_ to be an option for a project). Let Steve know and he’ll fix it.
 
 ### Tasks Descriptions and Intended Use
 
