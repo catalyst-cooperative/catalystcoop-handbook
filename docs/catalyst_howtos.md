@@ -1,4 +1,8 @@
-# Time Tracking Overview
+# Catalyst How-To's
+
+(time_tracking)=
+
+## Time Tracking Overview
 
 **At Catalyst, we use [Harvest](https://www.getharvest.com/) for time tracking.** We’ll add each member and contractor into our harvest account - each new person will need to complete the login setup with their credentials. Harvest has a slew of [integrations](https://www.getharvest.com/integrations) to make it easy for you to start time tracking in real time in whatever ways work best for you. **We highly recommend doing real-time tracking.** Our time entries go directly into invoicing clients and payroll, so we try our darndest to get it right the first time.
 
@@ -6,7 +10,7 @@ Once you get signed into harvest for the first time, go through their [welcome/t
 
 When you start a new time entry there are three pieces of information you’ll need to provide in addition to the time: the **Project** name, the type of **Task**, and a brief **Note** describing what you did.
 
-## How to Bill Recurring Meetings
+### How to Bill Recurring Meetings
 
 | **Meeting**              | **Harvest Project**  | **Harvest Task**  |
 | ------------------------ | -------------------- | ----------------- |
@@ -20,7 +24,7 @@ When you start a new time entry there are three pieces of information you’ll n
 | Board Meeting            | Governance           | Phone / Meeting   |
 | Advisory Committee       | Advisory Committee   | Phone / Meeting   |
 
-## Choosing Projects
+### Choosing Projects
 
 Projects are grouped by the particular client, grant, or internal work they pertain to. Headers such as _RMI, Sloan, or Internal,_ will precede a list of related projects you can choose from in a drop down menu. Whenever we take on new projects we add them to Harvest.
 
@@ -28,7 +32,7 @@ We don’t automatically assign everyone to every project, so if there is a proj
 
 Most projects have a hourly budgets (monthly repeating or overall budgets) that we _try_ to stay within. Feel free to look.
 
-### How to Bill Internal Projects
+#### How to Bill Internal Projects
 
 Categorizing hours worked on internal projects can be a little harder than client or grant work. For example, how might you charge the hour you spent researching grant opportunities? Here’s a description of the internal project options and how to decide between them:
 
@@ -45,11 +49,11 @@ Categorizing hours worked on internal projects can be a little harder than clien
 - **PUDL Huddle:** Get it?! it rhymes. This is for our daily standup calls, and weekly action-item meetings.
 - **User Support:** For interacting with PUDL users and conducting PUDL office hours.
 
-## Choosing Tasks
+### Choosing Tasks
 
 Once you’ve selected a project, you must also specify the type of task (e.g. **Code Review, Data Wrangling, or Phone / Meeting**). These help us understand what types of tasks we are spending time on. These should be pretty straightforward and self explanatory, but again don’t hesitate to ask about them or suggest changes. Not every project has every task listed as an option in the dropdown menu in Harvest. If you see a task here that ought to be an option for a project (or ought _not_ to be an option for a project). Let Steve know and he’ll fix it.
 
-### Tasks Descriptions and Intended Use
+#### Tasks Descriptions and Intended Use
 
 - **Accounting / Bookkeeping**: Recurring financial administration tasks such as categorizing expenses, writing journal entries, reconciling accounts, and making transfers. Grant-related accounting and annual tax preparation with our accountant.- **Administrative Correspondence**: Reading, replying to, and managing external correspondence, particularly from government agencies regarding legal obligations etc.
 - **Blog / Social Media / Website**: Any actions pertaining to Catalyst blogs, social media presence, or website.
@@ -78,7 +82,7 @@ Once you’ve selected a project, you must also specify the type of task (e.g. *
 - **Travel:** Catalyst approved travel time.
 - **Writing (non-code):** Any time you are writing sentences vs. code. Some examples are: writing proposals, writing meeting agendas, editing bylaws or other core documents, or writing grants. Note that blog posts and other social media activities have their own specific task within the Business Development Project. Conference/Presentation prep also has its own task.
 
-## Notes about Notes
+### Notes about Notes
 
 The **Notes** field is used to populate work descriptions that are reviewed internally and, for external projects, will appear on customer invoices. Because these Notes may show up on customer’s invoices, it’s important that they follow uniform conventions and are easy to understand. Notes should describe specific actions. These Notes should:
 
@@ -88,17 +92,17 @@ The **Notes** field is used to populate work descriptions that are reviewed inte
 - Be detailed and **avoid lingo**, particularly for client-facing projects, so that the reader can understand what took place.
 - **Do not end notes with a period**.
 
-## General Rules for Tracking Time
+### General Rules for Tracking Time
 
 - As much as possible, **separate time entries should be used for separate activities**. It’s helpful for us to know how much time we are spending doing research, for example, as opposed to software development, for a given client. If a client has questions or concerns about time entries, it is helpful to have more granular time entries rather than less granular time entries.
 - Time entries should **not include long breaks or meals** (e.g. if you are working on something and take a break for lunch, end the time entry and add a note). It’s OK to go to the bathroom! In fact, stay hydrated and drink some more water right now.
 - Time entries are **retroactively editable until they are processed and locked** at the end of the month. If you need to make changes after this point, contact Steve Winter.
 
-## Tracking PTO
+### Tracking PTO
 
 You can find out how much PTO you have accrued by logging in to your gusto account and clicking on the “Time Off” menu option. If you want to use your PTO, email Steve and let him know the specifics. Make sure to contact him about applying PTO in or before the month you want to receive it.
 
-## Insights from Catalyst Time
+### Insights from Catalyst Time
 
 Harvest has nice dashboards for projects that we use to understand how specific projects are progressing and reports show a broader overall picture.
 

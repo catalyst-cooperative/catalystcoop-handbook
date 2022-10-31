@@ -31,7 +31,7 @@ Hold up. What _is_ a co-op? What makes it different from a non-profit or a regul
 
 **Q: What is a worker cooperative?**
 
-**A:** Worker cooperatives (aka co-ops) are jointly-owned, democratically-governed, values-driven businesses that prioritizes equality, solidarity, and worker well-being. Co-ops must officially register as such in the state of their choice.
+**A:** Worker cooperatives (aka co-ops) are jointly-owned, democratically-governed, values-driven businesses that prioritize equality, solidarity, and worker well-being. Co-ops must officially register as such in the state of their choice.
 
 **Q: What is the difference between a worker co-op and a nonprofit?**
 
@@ -45,8 +45,7 @@ Hold up. What _is_ a co-op? What makes it different from a non-profit or a regul
 
 **A:** Co-ops are a great middle ground between nonprofits and for profits. They provide a direct correlation between serving the community and benefiting those who serve; they endow the traditional business model with accountability and a true service mentality; and they align employee and business needs.
 
-**Q: Where do coop profits go?**
-**Read more about:**
+**Read more about co-ops:**
 
 - [Co-op identity, values, and principals from the International Coop Alliance](https://www.ica.coop/en/cooperatives/cooperative-identity)
 - [The difference between co-ops and other types of corporations from the National Cooperative Business Association](https://ncbaclusa.coop/blog/differences-between-cooperatives-and-corporations/#:~:text=While%20other%20types%20of%20corporations,Some%20cooperatives%20are%20employee%2Downed.)

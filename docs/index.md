@@ -9,9 +9,9 @@ The handbook allows members to version control and review changes to the coopera
 ```{toctree}
 :maxdepth: 1
 
-how_to
+handbook_howtos
 catalyst_101
-time_tracking
+catalyst_howtos
 policies
 bylaws
 articles_of_incorporation
