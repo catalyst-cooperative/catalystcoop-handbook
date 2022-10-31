@@ -49,7 +49,7 @@ Once the docs are built locally, you can push your changes and open a PR for rev
 to Read the Docs.
 
 ### UI
-If you don't want to make edits with using a CLI and code editor, you can use the GitHub UI:
+If you don't want to make edits with a CLI and code editor, you can use the GitHub UI:
 
 1. Click the "Edit" button for the document you want to change:
 
