@@ -171,6 +171,8 @@ The Board shall have the discretion to determine the proportion of any Patronage
 
 Patronage Dividends may be by qualified or non-qualified written notices of allocation or a combination of the two.
 
+By becoming a Member of the Cooperative, each Member shall be deemed to have consented to include in their taxable income the amount of any qualified written notices of allocation and to pay tax thereon in accordance with Subchapter T.
+
 ### E. Member’s Consent and Covenant to Declare Income for Tax Purposes
 
 Each Member shall take into account on their income tax return the amount of any Patronage Dividends which are made in qualified written notices of allocation (as defined in 26 U.S.C. Section 1388) at their stated dollar amounts in the manner provided in 26 U.S.C. Section 1385(a) in the taxable year in which such written notices of allocation are received by the Member.
