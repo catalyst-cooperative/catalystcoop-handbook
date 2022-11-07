@@ -1,12 +1,3 @@
----
-name: Handbook Change
-about: Make a change to the content of the handbook
-title: ''
-labels: handbook-change
-assignees: ''
-
----
-
 ### Describe the Policy Change
 A brief description of the policy change.
 
