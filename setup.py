@@ -46,7 +46,7 @@ setup(
             "twine>=3.3,<4.1",  # Used to make releases to PyPI
         ],
         "docs": [
-            "doc8>=0.9,<1.1",  # Ensures clean documentation formatting
+            "doc8>=0.9,<1.2",  # Ensures clean documentation formatting
             "furo>=2022.4.7",
             "myst-parser~=0.18.0",
             "mdformat~=0.7.16",
@@ -57,7 +57,7 @@ setup(
         "tests": [
             "bandit>=1.6,<1.8",  # Checks code for security issues
             "coverage>=5.3,<7.1",  # Lets us track what code is being tested
-            "doc8>=0.9,<1.1",  # Ensures clean documentation formatting
+            "doc8>=0.9,<1.2",  # Ensures clean documentation formatting
             "flake8>=4.0,<6.1",  # A framework for linting & static analysis
             "flake8-builtins>=1.5,<2.2",  # Avoid shadowing Python built-in names
             "flake8-colors>=0.1,<0.2",  # Produce colorful error / warning output
