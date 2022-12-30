@@ -140,7 +140,7 @@ Each member will be reimbursed **up to $3,000 in any rolling 3-year period** to 
 
 **Provided to:** Members only
 
-As a remote organization, Catalysters rarely see one another in person. To encourage folks to bridge the virtual divide, each member may request reimbursement for up to **$200 per year** for travel and food expenses related to visiting another member of the coop. These expenses must be _marginal and additional_ to existing plans where the primary purpose of the expenses is visiting another co-oper . Receipts must be submitted through the expense reimbursement form for approval and reimbursement.
+As a remote organization, Catalysters rarely see one another in person. To encourage folks to bridge the virtual divide, each member may request reimbursement for up to **$200 per year** for travel and food expenses related to visiting another member of the coop. These expenses must be _marginal and additional_ to existing plans where the primary purpose of the expenses is visiting another co-oper . Receipts must be submitted through the [Expense Reimbursement Form](https://drive.google.com/open?id=1rZxUUzib7Qb05Kz8aTxENd2QRv1d4oSEwQS-3OPsuX4) for approval and reimbursement.
 
 **Example:** A member seeks reimbursement for a flight to the other side of the country. They stay with their family friends for a week and then take a bus to a neighboring town to meet up with another co-oper and go out to lunch. Because the primary purpose of the flight is to see family and friends, the co-oper should foot the bill for the flight. The co-oper may request a reimbursement for travel to visit the other co-oper as well as the bill for their lunch together.
 
