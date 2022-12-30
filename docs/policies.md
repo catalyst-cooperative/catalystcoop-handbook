@@ -16,7 +16,7 @@ In line with our goal of allowing members time to pursue activities outside of w
 
 ### Annual Hours
 
-Each **member** must work at least **1000 hours per calendar year** in order to maintain their membership in the cooperative. This is equivalent to averaging 20 hours of work per week (or half of a normal 40 hr/week FTE). For new members who join the cooperative partway through the calendar year, this requirement will be prorated and applied only to the portion of the year during which they were working for the cooperative, including their 6 month candidacy period. Steven Winter shall only be required to work an average of 10 hours per week to retain his membership in the cooperative.
+Each **member** must work at least **1000 hours per calendar year** in order to maintain their membership in the cooperative. This is equivalent to averaging 20 hours of work per week (or half of a normal 40 hr/week FTE). For new members who join the cooperative partway through the calendar year, this requirement will be prorated and applied only to the portion of the year during which they were working for the cooperative, including their 6 month candidacy period.
 
 **Member-track contractors** must work **500 hours during a six month candidacy period** in order to be eligible for co-op membership.
 
@@ -140,8 +140,8 @@ Each member will be reimbursed **up to $3,000 in any rolling 3-year period** to 
 
 **Provided to:** Members only
 
-As a remote organization, Catalysters rarely see one another in person. To encourage folks to bridge the virtual divide, each member may request reimbursement for up to **$200 per year** for travel and food expenses related to visiting another member of the coop. These expenses must be _marginal and additional_ to existing plans where the primary purpose of the expenses is visiting another co-oper . Receipts must be submitted through the expense reimbursement form for approval by Steve and reimbursement.
+As a remote organization, Catalysters rarely see one another in person. To encourage folks to bridge the virtual divide, each member may request reimbursement for up to **$200 per year** for travel and food expenses related to visiting another member of the coop. These expenses must be _marginal and additional_ to existing plans where the primary purpose of the expenses is visiting another co-oper . Receipts must be submitted through the expense reimbursement form for approval and reimbursement.
 
 **Example:** A member seeks reimbursement for a flight to the other side of the country. They stay with their family friends for a week and then take a bus to a neighboring town to meet up with another co-oper and go out to lunch. Because the primary purpose of the flight is to see family and friends, the co-oper should foot the bill for the flight. The co-oper may request a reimbursement for travel to visit the other co-oper as well as the bill for their lunch together.
 
-If you are uncertain about whether an expense may be reimbursable, use your best judgment, and reach out to our Chief Financial Officer, Steve Winter, for clarification.
+If you are uncertain about whether an expense may be reimbursable, use your best judgment, and reach out to the Internal Management team for clarification.
