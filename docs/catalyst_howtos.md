@@ -37,7 +37,7 @@ Most projects have a hourly budgets (monthly repeating or overall budgets) that 
 Categorizing hours worked on internal projects can be a little harder than client or grant work. For example, how might you charge the hour you spent researching grant opportunities? Here’s a description of the internal project options and how to decide between them:
 
 - **Advisory Committee:** This is reserved for the planning, agenda writing, and hosting of the quarterly advisory committee meeting.
-- **Admin:** You know… administrative work. This includes running payroll, financial reporting, invoicing clients, doing grant paperwork, and reorganizing the google drive. For the most part, Steve is the only one that will use this category.
+- **Admin:** You know… administrative work. This includes running payroll, financial reporting, invoicing clients, doing grant paperwork, and reorganizing the google drive.
 - **Business Development:** This is for general marketing/communications work, website additions, grant research, and work to make new relationships with folks that could be potential clients or collaborators.
 - **Governance:** This is for special member meetings and board calls.
 - **Hours Bike Rack**
@@ -51,7 +51,7 @@ Categorizing hours worked on internal projects can be a little harder than clien
 
 ### Choosing Tasks
 
-Once you’ve selected a project, you must also specify the type of task (e.g. **Code Review, Data Wrangling, or Phone / Meeting**). These help us understand what types of tasks we are spending time on. These should be pretty straightforward and self explanatory, but again don’t hesitate to ask about them or suggest changes. Not every project has every task listed as an option in the dropdown menu in Harvest. If you see a task here that ought to be an option for a project (or ought _not_ to be an option for a project). Let Steve know and he’ll fix it.
+Once you’ve selected a project, you must also specify the type of task (e.g. **Code Review, Data Wrangling, or Phone / Meeting**). These help us understand what types of tasks we are spending time on. These should be pretty straightforward and self explanatory, but again don’t hesitate to ask about them or suggest changes. Not every project has every task listed as an option in the dropdown menu in Harvest. If you see a task here that ought to be an option for a project (or ought _not_ to be an option for a project) feel free to fix it or let someone on the Admin team know. It's generally good practice not to add new categories mid-project unless everyone agrees.
 
 #### Tasks Descriptions and Intended Use
 
@@ -96,11 +96,11 @@ The **Notes** field is used to populate work descriptions that are reviewed inte
 
 - As much as possible, **separate time entries should be used for separate activities**. It’s helpful for us to know how much time we are spending doing research, for example, as opposed to software development, for a given client. If a client has questions or concerns about time entries, it is helpful to have more granular time entries rather than less granular time entries.
 - Time entries should **not include long breaks or meals** (e.g. if you are working on something and take a break for lunch, end the time entry and add a note). It’s OK to go to the bathroom! In fact, stay hydrated and drink some more water right now.
-- Time entries are **retroactively editable until they are processed and locked** at the end of the month. If you need to make changes after this point, contact Steve Winter.
+- Time entries are **retroactively editable until they are processed and locked** at the end of the month. If you need to make changes after this point, contact our Admin team.
 
 ### Tracking PTO
 
-You can find out how much PTO you have accrued by logging in to your gusto account and clicking on the “Time Off” menu option. If you want to use your PTO, email Steve and let him know the specifics. Make sure to contact him about applying PTO in or before the month you want to receive it.
+You can find out how much PTO you have accrued by logging in to your gusto account and clicking on the “Time Off” menu option. If you want to use your PTO, email Ben and let him know the specifics. Make sure to contact him about applying PTO in or before the month you want to receive it.
 
 ### Insights from Catalyst Time
 
