@@ -1,10 +1,13 @@
 # Policies
 
+<a name="wages"></a>
+
 ## Wages
 
 **Provided to:** Members & Contractors
 
-Catalyst pays its employees and contractors **$36.75 / hour**.
+Catalyst pays its employees **$36.75 / hour** and it's contractors
+**$39.56 / hour** to account for the payroll tax otherwise covered by the cooperative. After taxes, this equates to the same amount.
 
 Catalyst employees are paid through a monthly payroll which is run monthly at the end of the first week of the month. Paychecks should be deposited electronically by the 15th of the month.
 
