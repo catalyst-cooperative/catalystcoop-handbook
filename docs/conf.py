@@ -30,7 +30,7 @@ release = pkg_resources.get_distribution("catalystcoop.handbook").version
 
 project = "Catalyst Cooperative Policy Handbook"
 copyright = (  # noqa: A001
-    f"202X-{datetime.date.today().year}, Catalyst Cooperative, CC-BY-4.0"
+    f"2017-{datetime.date.today().year}, Catalyst Cooperative, CC-BY-4.0"
 )
 author = "Catalyst Cooperative"
 
