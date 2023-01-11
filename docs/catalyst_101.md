@@ -73,14 +73,14 @@ After taxes, contractors and members receive the same hourly rate. Employee-memb
 
 For simplicity’s sake (and because there are currently no contractor-members), we compare the difference in responsibilities by contractor and employee-member. For more detailed information on each of the policies listed below, refer to the [Catalyst Policy Handbook](policies). Key differences between contractors and members are in bold text.
 
-|                      | **Contractors**                                                                                                                                                                                                                                                                                                                                                                                                                                   | **Employee-Members**                                                                                                                                                                                                                                                                                                                                                       |
-| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Paperwork**        | - **Sign contractor agreement**                                                                                                                                                                                                                                                                                                                                                                                                                   | - **Buy $1000 membership share**<br>- **Sign membership agreement**                                                                                                                                                                                                                                                                                                        |
-| **Meetings**         | - [M/W/Th stand-ups](#mwth-stand-up-meetings-15-20-min)<br>- [Monday action-items](#weekly-check-in--action-items-10-30-min)<br>- [Bi-weekly sprint planning/review for each project](#bi-weekly-sprint-planning--review-–-team-specific-30-min---1-hour)<br>- [Quarterly advisory committee meetings](#quarterly-advisory-committee-meeting-1-hours)<br>- [Business team meetings](#business-team-meetings---team-specific-time-and-occurrence-differs)<br>- [3 and 6 month feedback](#3-and-6-month-contractor-feedback-two-1-hour-blocks)<br>- [Financial check-in](#monthly-financial-check-ins) (after 3 months)                                                                                                                                                                                                    | - All contractor meetings, plus:<br>- [Annual or Special Member Meeting](#member-meetings)<br>- [Board Meeting](#weekly-board-meetings-30-min) (until 10+ members)<br>- [Certain feedback meetings for contractors](#3-and-6-month-contractor-feedback-two-1-hour-blocks)<br>- [Certain Feedback meetings for members](#annual-member-feedback-two-1-hour-blocks)                                                                                                                                                                                    |
-| **Compensation**     | - [$39.56](policies.md#wages) / hour (to account for payroll tax discrepancy)                                                                                                                                                                                                                                                                                                                                                                                                                                   | - [$36.75](policies.md#wages) / hour                                                                                                                                                                                                                                                                                                                                                            |
-| **Time Commitment**  | - **[500 hours / six months](policies.md#expected-hours)** to be considered eligible for membership                                                                                                                                                                                                                                                                                                                                                                             | - **[1000 hours / year](policies.md#expected-hours)** to retain membership status                                                                                                                                                                                                                                                                                                                        |
-| **Benefits**         | - [$150 healthcare stipend](policies.md#health-care)<br>                                                                                                                                                                                                                                                                                                                                                                          | All contractor benefits, plus:<br>- **[IRA account and retirement contributions](policies.md#retirement-accounts)**<br>- **[$3000 / 3 year depreciating tech stipend](policies.md#home-office-reimbursements)**<br>- **[$200 / year last mile reimbursements](policies.md#catalyst-irl-reimbursement) for visiting other members**<br>- **[1 hr paid time off / 52 work hours](policies.md#paid-time-off)**<br>- **Member capital account based on co-op patronage**<br>- **[Up to six months unpaid time off with adequate notice](policies.md#time-off--reduced-hours)**                                                                                                                       |
-| **Responsibilities** | Contractors are involved in everything except co-op governance decisions. They participate in all regular co-op meetings, including the financial check-ins and business teams after 3 months. Contractors can take as much time off as they want so long as they are considering the technical membership eligibility requirement of 500 hours over the course of six months and the social, unwritten requirement of not randomly disappearing. | Member-employees wear many hats. Until we have enough members to determine a cap, all members become part of the Catalyst board. Both members and board members have a say in co-op governance issues and are expected to act in the interest of the co-op. Members are expected to participate in meetings and engage in the technical and business aspects of the co-op. |
+|                      | **Contractors**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | **Employee-Members**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| -------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Paperwork**        | - **Sign contractor agreement**                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | - **Buy $1000 membership share**<br>- **Sign membership agreement**                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| **Meetings**         | - [M/W/Th stand-ups](mwth-stand-up-meetings-15-20-min)<br>- [Monday action-items](weekly-check-in--action-items-10-30-min)<br>- [Bi-weekly sprint planning/review for each project](sprint-planning-review)<br>- [Quarterly advisory committee meetings](quarterly-advisory-committee-meeting-1-hours)<br>- [Business team meetings](business-team-meetings)<br>- [3 and 6 month feedback](contractor-feedback-meeting)<br>- [Financial check-in](monthly-financial-check-ins) (after 3 months) | - All contractor meetings, plus:<br>- [Annual or Special Member Meeting](member-meetings)<br>- [Board Meeting](weekly-board-meetings) (until 10+ members)<br>- [Certain feedback meetings for contractors](contractor-feedback-meeting)<br>- [Certain Feedback meetings for members](annual-member-feedback)                                                                                                                                                                                         |
+| **Compensation**     | - [$39.56](wages) / hour (to account for payroll tax discrepancy)                                                                                                                                                                                                                                                                                                                                                                                                                               | - [$36.75](wages) / hour                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| **Time Commitment**  | - **[500 hours / six months](expected-hours)** to be considered eligible for membership                                                                                                                                                                                                                                                                                                                                                                                                         | - **[1000 hours / year](expected-hours)** to retain membership status                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| **Benefits**         | - [$150 healthcare stipend](health-care)<br>                                                                                                                                                                                                                                                                                                                                                                                                                                                    | All contractor benefits, plus:<br>- **[IRA account and retirement contributions](retirement-accounts)**<br>- **[$3000 / 3 year depreciating tech stipend](home-office-reimbursements)**<br>- **[$200 / year last mile reimbursements](irl-reimbursement) for visiting other members**<br>- **[1 hr paid time off / 52 work hours](paid-time-off)**<br>- **Member capital account based on co-op patronage**<br>- **[Up to six months unpaid time off with adequate notice](time-off-reduced-hours)** |
+| **Responsibilities** | Contractors are involved in everything except co-op governance decisions. They participate in all regular co-op meetings, including the financial check-ins and business teams after 3 months. Contractors can take as much time off as they want so long as they are considering the technical membership eligibility requirement of 500 hours over the course of six months and the social, unwritten requirement of not randomly disappearing.                                               | Member-employees wear many hats. Until we have enough members to determine a cap, all members become part of the Catalyst board. Both members and board members have a say in co-op governance issues and are expected to act in the interest of the co-op. Members are expected to participate in meetings and engage in the technical and business aspects of the co-op.                                                                                                                           |
 
 ### Understanding Catalyst’s Finances
 
@@ -123,7 +123,7 @@ Once the existing members have voted to offer you membership, it’s up to you t
 
 - Sign the [Membership Agreement](https://drive.google.com/file/d/1tt4IXVwKi2Gj-L755AUZyu1QaVDRO8px/view?usp=sharing)
 - Purchase $1000 share, your initial capital contribution to the co-op, by sending Christina a check in the mail or using ACH
-(for which there is a small fee).
+  (for which there is a small fee).
 
 (security)=
 
@@ -202,6 +202,8 @@ All meetings have pre-designated facilitators and note-takers that are specified
 
 ### Recurring Meetings
 
+(mwth-stand-up-meetings-15-20-min)=
+
 #### M/W/Th Stand-up Meetings (15-20 min)
 
 **Attendees**: Contractors & Members
@@ -210,6 +212,8 @@ All meetings have pre-designated facilitators and note-takers that are specified
 - Round-robin check-ins regarding progress since prior standup, plans for the day, hold-ups, needs for further discussion, and announcements. Mondays are social check-ins with a quick 5 minute work update at the end.
 - Tuesday and Thursday check-ins happen on slack in the check-ins channel.
 
+(weekly-check-in--action-items-10-30-min)=
+
 #### Weekly Check-in & Action-items (10-30 min)
 
 **Attendees**: Contractors & Members
@@ -217,6 +221,8 @@ All meetings have pre-designated facilitators and note-takers that are specified
 
 - Monday stand-up calls are followed by a run through of the action items listed in the PUDL Huddle doc. Action items are created throughout the week in various meetings and serve as a central gathering point and reminder of key commitments people have made (ex: following up with potential clients, scheduling meetings, researching new topics, etc.) Anyone can add an action item to the list at any time. Action items are reminders, not meeting topics, if you want to remember to “discuss design for X” you should create an action item about scheduling a meeting to talk about that topic with relevant people. Or, you can create an agenda item for the weekly meeting (see below).
 - After running through the action items, we open the floor to discuss anything else relevant to the whole team. If you want to talk about something specific, add it to something to the agenda in the PUDL Huddle document under the appropriately titled meeting header (Ex: Weekly Meeting YYYY-MM-DD). If there isn’t one yet, feel free to make one. Sometimes there are no agenda items in which case we’ll end the meeting early.
+
+(sprint-planning-review)=
 
 #### Bi-weekly Sprint Planning / Review – Team Specific (30 min - 1 hour)
 
@@ -227,6 +233,8 @@ All meetings have pre-designated facilitators and note-takers that are specified
 - **Sprint planning** meetings occur every other Monday. During these meetings, each team scopes which issues we will address in a given sprint. Issues are usually made and tentatively assigned to a sprint beforehand. We usually review the ZenHub Roadmap function to assess our priorities.
 - **Sprint review** meetings occur every other Thursday (two weeks after sprint planning). During these sessions, each team catalogs what we were able to accomplish during the sprint, what went well, what was difficult, and anything unexpected. We usually review the ZenHub Roadmap function to assess our progress.
 
+(business-team-meetings)=
+
 #### Business Team Meetings - Team Specific (time and occurrence differs)
 
 **Attendees**: Team members
@@ -236,6 +244,8 @@ All meetings have pre-designated facilitators and note-takers that are specified
 
 - Teams are not mandatory, but contractors are encouraged and members are expected to participate in at least one.
 
+(quarterly-advisory-committee-meeting-1-hours)=
+
 #### Quarterly Advisory Committee Meeting (1+ hours)
 
 **Attendees**: Contractors & Members
@@ -243,12 +253,16 @@ All meetings have pre-designated facilitators and note-takers that are specified
 
 - Every Quarter Catalyst holds an Advisory Committee (AC) meeting during which we seek direction and feedback from the [members of our AC](https://catalyst.coop/advisory-board/) . The AC is composed of individuals that span the tech and environmental sectors. We generally seek information about funding opportunities and share work updates.
 
+(member-meetings)=
+
 #### Member Meetings
 
 **Attendees**: Members only
 **Notes:** [Governance Notes](https://docs.google.com/document/u/0/d/1m5m1gbFFYRpaWkKTFIvTSZ14HJT_jfGNDjneCNUP_ZI/edit)
 
 - Member meetings are called to address a set of issues specified in the bylaws that affect the cooperative on such a fundamental level that they require the consent of the entire membership (as opposed to solely the Board of Directors, in a world where they are different). These decisions include the admission of new members, changes to the governing documents, and the election of the Board of Directors and Officers.
+
+(weekly-board-meetings)=
 
 #### Weekly Board Meetings (30 min)
 
@@ -265,6 +279,8 @@ All meetings have pre-designated facilitators and note-takers that are specified
 - Catalyst participates in weekly Fossil Fuel Refinance Project calls. These calls are a consortium of energy policy folks working on refinancing strategies to close coal plants and other fossil fuel-driven generation assets. Usually one-two Catalyst members join these calls.
 - For the call, you’ll need to solicit updates from the Catalyst team in order to communicate our weekly progress to the refinance team; coordinating collaboration with the refinance team; and taking notes on relevant updates from the call to convey to the Catalyst team.
 
+(contractor-feedback-meeting)=
+
 #### 3 and 6-month Contractor Feedback (two 1 hour blocks)
 
 **Attendees:** Members and contractor being reviewed
@@ -274,6 +290,8 @@ All meetings have pre-designated facilitators and note-takers that are specified
 
 - These check-ins are preceded by written feedback from the contractor about Catalyst and the members about the contractor pursuant to a form distributed a week before the feedback session. The first hour block is dedicated to co-op feedback for the contractor while the second hour block is dedicated to the contractor’s feedback for the co-op. These meetings may be back to back or scheduled separately a few days or hours apart.
 
+(annual-member-feedback)=
+
 #### Annual Member Feedback (two 1 hour blocks)
 
 **Attendees:** Appointed members and member being reviewed (reviewee)
@@ -282,6 +300,8 @@ All meetings have pre-designated facilitators and note-takers that are specified
 - Catalyst members participate in annual check-ins where they have the opportunity to review the co-op as well as be reviewed by other members.
 
 - These check-ins are preceded by written feedback from the reviewee about Catalyst and the other members about the reviewee pursuant to a form distributed a week before the feedback session. The first hour block is dedicated to co-op feedback for the reviewee while the second hour block is dedicated to the reviewee’s feedback for the co-op. These meetings may be back to back or scheduled separately a few days or hours apart.
+
+(monthly-financial-check-ins)=
 
 #### Monthly Financial Check-ins
 
