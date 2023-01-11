@@ -1,7 +1,5 @@
 # Policies
 
-<a name="wages"></a>
-
 ## Wages
 
 **Provided to:** Members & Contractors
