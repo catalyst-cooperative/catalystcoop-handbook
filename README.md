@@ -6,7 +6,7 @@ This repo allows us to version control and review changes to our policies.
 
 <!-- readme-intro -->
 
-## Setup Conda Environment
+## Conda Environment Setup
 
 To edit these docs you need to clone the [`catalyst-handbook`](https://github.com/catalyst-cooperative/catalystcoop-handbook) repo and set up a conda environment:
 

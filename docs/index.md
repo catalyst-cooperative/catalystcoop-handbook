@@ -4,15 +4,16 @@ Welcome to the Catalyst Cooperative Handbook! This handbook contains the coopera
 
 The handbook allows members to version control and review changes to the cooperative policies. We also hope it gives prospective members and other cooperatives insight into how we operate.
 
-## Documents
+```{include} catalyst_101.md
+```
 
 ```{toctree}
 :maxdepth: 1
+:hidden:
 
-handbook_howtos
-catalyst_101
 catalyst_howtos
 policies
 bylaws
 articles_of_incorporation
+handbook_howtos
 ```
