@@ -95,9 +95,9 @@ When you’re first getting started, we’ll reach out to you about completing t
 #### Admin & PM Setup
 
 - Sign the Contractor Agreement
-- Send Steve W-9 / I-9 forms as needed
-- Send Steve your direct deposit information for payments
-- Set up relevant accounts and familiarize yourself with our [project management tools](https://docs.google.com/document/d/1EkKfdW0Q1AIGexCflZMpw-4HuH1fJ-cdpi3ziancmlE/edit#heading=h.yeh6v1ee9ind) (reach out to Zane or Steve for assistance)
+- Send Zane your W-9 / I-9 forms as needed
+- Send Zane your direct deposit information for payments
+- Set up relevant accounts and familiarize yourself with our [project management tools](https://docs.google.com/document/d/1EkKfdW0Q1AIGexCflZMpw-4HuH1fJ-cdpi3ziancmlE/edit#heading=h.yeh6v1ee9ind) (reach out to Zane for assistance)
 - Schedule 30 minute one-on-one meetings with existing contractors/members to get to know each other
 - Review our most recent [grant proposal](https://drive.google.com/drive/u/1/folders/1E0Stqvik_Vo6akfYmPwWtmywUfiHul0z) to see what we’ll be working on in the near term
 - Review the [Catalyst Policy Handbook](policies)
@@ -122,7 +122,8 @@ Once the existing members have voted to offer you membership, it’s up to you t
 #### Accepting Membership
 
 - Sign the [Membership Agreement](https://drive.google.com/file/d/1tt4IXVwKi2Gj-L755AUZyu1QaVDRO8px/view?usp=sharing)
-- Purchase $1000 share, your initial capital contribution to the co-op, by sending Steve a check in the mail.
+- Purchase $1000 share, your initial capital contribution to the co-op, by sending Christina a check in the mail or using ACH
+(for which there is a small fee).
 
 (security)=
 

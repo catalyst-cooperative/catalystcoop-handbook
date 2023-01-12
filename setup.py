@@ -35,45 +35,45 @@ setup(
     # In order for the dependabot to update versions, they must be listed here.
     # Use the format pkg_name>=x,<y", Included packages are just examples:
     install_requires=[
-        "pandas>=1.4,<1.5.2",
-        "sqlalchemy>=1.4,<1.4.43",
+        "pandas>=1.4,<1.5.3",
+        "sqlalchemy>=1.4,<1.4.47",
     ],
     extras_require={
         "dev": [
-            "black>=22.0,<22.11",  # A deterministic code formatter
-            "isort>=5.0,<5.11",  # Standardized import sorting
-            "tox>=3.20,<3.28",  # Python test environment manager
+            "black>=22.0,<22.13",  # A deterministic code formatter
+            "isort>=5.0,<5.12",  # Standardized import sorting
+            "tox>=3.20,<4.3",  # Python test environment manager
             "twine>=3.3,<4.1",  # Used to make releases to PyPI
         ],
         "docs": [
-            "doc8>=0.9,<1.1",  # Ensures clean documentation formatting
+            "doc8>=0.9,<1.2",  # Ensures clean documentation formatting
             "furo>=2022.4.7",
             "myst-parser~=0.18.0",
             "mdformat~=0.7.16",
-            "sphinx>=4,!=5.1.0,<5.3.1",  # The default Python documentation engine
+            "sphinx>=4,!=5.1.0,<6.1.3",  # The default Python documentation engine
             "sphinx-autoapi>=1.8,<2.1",  # Generates documentation from docstrings
             "sphinx-issues>=1.2,<3.1",  # Allows references to GitHub issues
         ],
         "tests": [
             "bandit>=1.6,<1.8",  # Checks code for security issues
-            "coverage>=5.3,<6.6",  # Lets us track what code is being tested
-            "doc8>=0.9,<1.1",  # Ensures clean documentation formatting
-            "flake8>=4.0,<5.1",  # A framework for linting & static analysis
-            "flake8-builtins>=1.5,<2.1",  # Avoid shadowing Python built-in names
+            "coverage>=5.3,<7.1",  # Lets us track what code is being tested
+            "doc8>=0.9,<1.2",  # Ensures clean documentation formatting
+            "flake8>=4.0,<6.1",  # A framework for linting & static analysis
+            "flake8-builtins>=1.5,<2.2",  # Avoid shadowing Python built-in names
             "flake8-colors>=0.1,<0.2",  # Produce colorful error / warning output
             "flake8-docstrings>=1.5,<1.7",  # Ensure docstrings are formatted well
-            "flake8-rst-docstrings>=0.2,<0.3",  # Allow use of ReST in docstrings
+            "flake8-rst-docstrings>=0.2,<0.4",  # Allow use of ReST in docstrings
             "flake8-use-fstring>=1.0,<1.5",  # Highlight use of old-style string formatting
             "mccabe>=0.6,<0.8",  # Checks that code isn't overly complicated
-            "mypy>=0.942,<0.983",  # Static type checking
+            "mypy>=0.942,<0.992",  # Static type checking
             "pep8-naming>=0.12,<0.14",  # Require PEP8 compliant variable names
-            "pre-commit>=2.9,<2.21",  # Allow us to run pre-commit hooks in testing
-            "pydocstyle>=5.1,<6.2",  # Style guidelines for Python documentation
+            "pre-commit>=2.9,<2.22",  # Allow us to run pre-commit hooks in testing
+            "pydocstyle>=5.1,<6.3",  # Style guidelines for Python documentation
             "pytest>=6.2,<7.3",  # Our testing framework
             "pytest-console-scripts>=1.1,<1.4",  # Allow automatic testing of scripts
             "pytest-cov>=2.10,<4.1",  # Pytest plugin for working with coverage
             "rstcheck[sphinx]>=5.0,<6.2",  # ReStructuredText linter
-            "tox>=3.20,<3.28",  # Python test environment manager
+            "tox>=3.20,<4.3",  # Python test environment manager
         ],
         "types": [
             "types-setuptools",
