@@ -1,12 +1,17 @@
 # Policies
 
+(wages)=
+
 ## Wages
 
 **Provided to:** Members & Contractors
 
-Catalyst pays its employees and contractors **$36.75 / hour**.
+Catalyst pays its employees **$36.75 / hour** and it's contractors
+**$39.56 / hour** to account for the payroll tax otherwise covered by the cooperative. After taxes, this equates to the same amount.
 
 Catalyst employees are paid through a monthly payroll which is run monthly at the end of the first week of the month. Paychecks should be deposited electronically by the 15th of the month.
+
+(expected-hours)=
 
 ## Expected Hours
 
@@ -19,6 +24,8 @@ In line with our goal of allowing members time to pursue activities outside of w
 Each **member** must work at least **1000 hours per calendar year** in order to maintain their membership in the cooperative. This is equivalent to averaging 20 hours of work per week (or half of a normal 40 hr/week FTE). For new members who join the cooperative partway through the calendar year, this requirement will be prorated and applied only to the portion of the year during which they were working for the cooperative, including their 6 month candidacy period.
 
 **Member-track contractors** must work **500 hours during a six month candidacy period** in order to be eligible for co-op membership.
+
+(time-off-reduced-hours)=
 
 ## Time-Off & Reduced Hours
 
@@ -66,6 +73,8 @@ Members and contractors should consider the following rules when considering tak
 
 ## Benefits
 
+(paid-time-off)=
+
 ### Paid Time-Off
 
 **Provided to:** Employee-Members only
@@ -74,11 +83,15 @@ Members accrue **1 hour of paid time off for each 52 hours of work**. This is eq
 
 New members are granted 10 hours of paid time off to start with, to reflect the time they spent as a candidate / contractor.
 
+(health-care)=
+
 ### Health Care
 
 **Provided to:** Members & Contractors
 
 Catalyst provides a healthcare reimbursement of **$150 a month** to members and contractors working 1000 hours per year on a rolling 12 month basis (or in the case of new contractors/employees, the prorated amount of hours since they began working).
+
+(retirement-accounts)=
 
 ### Retirement Accounts
 
@@ -91,7 +104,7 @@ Catalyst employees can contribute to a tax-deferred [Vanguard SIMPLE IRA](https:
 Catalyst has two reimbursement policies available to members:
 
 - [Home Office Reimbursements](home-office) $3,000 / 3 years
-- [Catalyst IRL Reimbursements](irl) $200 / year
+- [Catalyst IRL Reimbursements](irl-reimbursement) $200 / year
 
 Reimbursement requests for one-off purchases approved by the board are also acceptable in certain circumstances.
 
@@ -110,6 +123,8 @@ Reimbursement requests for one-off purchases approved by the board are also acce
   - The remaining reimbursement budget available to each member.
 
 (home-office)=
+
+(home-office-reimbursements)=
 
 ### Home Office Reimbursements
 
@@ -134,7 +149,7 @@ Each member will be reimbursed **up to $3,000 in any rolling 3-year period** to 
 
 **Expenses:** will be reimbursed on a month to month basis as they are incurred. They do not result in a potential future liability for the member (unlike asset purchases) since they’re being consumed continuously. This is meant to cover things like membership at a co-working space, improved home internet service for work purposes, an off-site backup service for your computer, enrollment in online courses for continuing education, etc. Monthly expense reimbursements to a member shall be limited to the total per-member reimbursement budget divided by the number of months in the rolling reimbursement period. Given the current limits of $3000 every 36 months this works out to 2\*($3000/36 mo) = **$166.66/mo**. If a member has an expense greater than this amount, they can get reimbursed for it in installments over multiple months, so long as they remain a member.
 
-(irl)=
+(irl-reimbursement)=
 
 ### Catalyst IRL Reimbursement
 
