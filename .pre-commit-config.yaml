@@ -74,7 +74,7 @@ repos:
     rev: v3.0.0-alpha.4
     hooks:
       - id: prettier
-        types_or: [yaml]
+        types_or: [yaml, markdown]
 
   ########################################################################################
   # Linters: hooks that check but don't alter Python & RST files

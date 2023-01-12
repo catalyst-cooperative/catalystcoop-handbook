@@ -123,7 +123,7 @@ Once the existing members have voted to offer you membership, it’s up to you t
 
 - Sign the [Membership Agreement](https://drive.google.com/file/d/1tt4IXVwKi2Gj-L755AUZyu1QaVDRO8px/view?usp=sharing)
 - Purchase $1000 share, your initial capital contribution to the co-op, by sending Christina a check in the mail or using ACH
-(for which there is a small fee).
+  (for which there is a small fee).
 
 (security)=
 
