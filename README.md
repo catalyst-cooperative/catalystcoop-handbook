@@ -37,6 +37,7 @@ The scripts that run are configured in the .pre-commit-config.yaml file.
 ## How to make changes
 
 ### CLI
+
 To make changes to the handbook, edit the relevant markdown documents in the `docs/` directory. Once the changes are made
 you can build the docs by running:
 
@@ -49,6 +50,7 @@ Once the docs are built locally, you can push your changes and open a PR for rev
 to Read the Docs.
 
 ### UI
+
 If you don't want to make edits with a CLI and code editor, you can use the GitHub UI:
 
 1. Click the "Edit" button for the document you want to change:
@@ -57,8 +59,8 @@ If you don't want to make edits with a CLI and code editor, you can use the GitH
 
 2. Make you're changes.
 3. Select "Create a **new branch** for this comment and start a pull request", add a commit message and select "Commit changes":
-<img width="1216" alt="image" src="https://user-images.githubusercontent.com/17532695/199124752-e7c0eccd-1300-4c27-9821-82b6155b4c9e.png">
+   <img width="1216" alt="image" src="https://user-images.githubusercontent.com/17532695/199124752-e7c0eccd-1300-4c27-9821-82b6155b4c9e.png">
 
-5. Tag someone to review your changes.
+4. Tag someone to review your changes.
 
 The changes must be reviewed and approved by someone else to be merged into the `main` branch.

@@ -35,14 +35,14 @@ setup(
     # In order for the dependabot to update versions, they must be listed here.
     # Use the format pkg_name>=x,<y", Included packages are just examples:
     install_requires=[
-        "pandas>=1.4,<1.5.3",
+        "pandas>=1.4,<1.5.4",
         "sqlalchemy>=1.4,<1.4.47",
     ],
     extras_require={
         "dev": [
             "black>=22.0,<22.13",  # A deterministic code formatter
             "isort>=5.0,<5.12",  # Standardized import sorting
-            "tox>=3.20,<4.3",  # Python test environment manager
+            "tox>=3.20,<4.4",  # Python test environment manager
             "twine>=3.3,<4.1",  # Used to make releases to PyPI
         ],
         "docs": [
@@ -50,7 +50,7 @@ setup(
             "furo>=2022.4.7",
             "myst-parser~=0.18.0",
             "mdformat~=0.7.16",
-            "sphinx>=4,!=5.1.0,<6.1.3",  # The default Python documentation engine
+            "sphinx>=4,!=5.1.0,<6.1.4",  # The default Python documentation engine
             "sphinx-autoapi>=1.8,<2.1",  # Generates documentation from docstrings
             "sphinx-issues>=1.2,<3.1",  # Allows references to GitHub issues
         ],
@@ -67,13 +67,13 @@ setup(
             "mccabe>=0.6,<0.8",  # Checks that code isn't overly complicated
             "mypy>=0.942,<0.992",  # Static type checking
             "pep8-naming>=0.12,<0.14",  # Require PEP8 compliant variable names
-            "pre-commit>=2.9,<2.22",  # Allow us to run pre-commit hooks in testing
+            "pre-commit>=2.9,<3.1",  # Allow us to run pre-commit hooks in testing
             "pydocstyle>=5.1,<6.3",  # Style guidelines for Python documentation
             "pytest>=6.2,<7.3",  # Our testing framework
             "pytest-console-scripts>=1.1,<1.4",  # Allow automatic testing of scripts
             "pytest-cov>=2.10,<4.1",  # Pytest plugin for working with coverage
             "rstcheck[sphinx]>=5.0,<6.2",  # ReStructuredText linter
-            "tox>=3.20,<4.3",  # Python test environment manager
+            "tox>=3.20,<4.4",  # Python test environment manager
         ],
         "types": [
             "types-setuptools",
