@@ -51,8 +51,8 @@ Hold up. What _is_ a co-op? What makes it different from a non-profit or a regul
 - [The difference between co-ops and other types of corporations from the National Cooperative Business Association](https://ncbaclusa.coop/blog/differences-between-cooperatives-and-corporations/#:~:text=While%20other%20types%20of%20corporations,Some%20cooperatives%20are%20employee%2Downed.)
 - [The legal definition and status of co-ops from Co-opLaw.org](https://www.co-oplaw.org/knowledge-base/what-are-cooperatives/)
 - [The history of worker co-ops from the Federation of Worker Cooperatives](https://institute.coop/what-worker-cooperative)
-- [The steps involved in starting a worker coop from the US Small Business Administration](https://proxy.www.sba.gov/starting-business/choose-your-business-structure/cooperative)
-  [How coop finances work from the Internal Capital Accounts Group](https://icagroup.org/wp-content/uploads/2019/04/Internal-Capital-Accounts.pdf)
+- [The steps involved in starting a worker coop](https://www.toryburchfoundation.org/resources/start-my-business/choose-your-business-structure-cooperative/) (originally from the US Small Business Administration, copy hosted by the Tory Burch Foundation)
+- [How coop finances work from the Internal Capital Accounts Group](https://icagroup.org/wp-content/uploads/2019/04/Internal-Capital-Accounts.pdf)
 
 ### Catalyst’s Governing Documents
 
