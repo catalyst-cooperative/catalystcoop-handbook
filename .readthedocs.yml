@@ -10,7 +10,7 @@ sphinx:
   configuration: docs/conf.py
 
 build:
-  image: testing
+  image: ubuntu-22.04
 
 # Set the version of Python and requirements required to build your docs
 python:
