@@ -11,7 +11,6 @@ sphinx:
 
 build:
   os: "ubuntu-22.04"
-  image: "latest"
   tools:
     python: "3.10"
 
