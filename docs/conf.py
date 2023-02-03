@@ -53,18 +53,6 @@ todo_include_todos = True
 # GitHub repo
 issues_github_path = "catalyst-cooperative/handbook"
 
-# In order to be able to link directly to documentation for other projects,
-# we need to define these package to URL mappings:
-intersphinx_mapping = {
-    "numpy": ("https://numpy.org/doc/stable/", None),
-    "pandas": ("https://pandas.pydata.org/pandas-docs/stable", None),
-    "pytest": ("https://docs.pytest.org/en/latest/", None),
-    "python": ("https://docs.python.org/3", None),
-    "scipy": ("https://docs.scipy.org/doc/scipy/", None),
-    "setuptools": ("https://setuptools.pypa.io/en/latest/", None),
-    "tox": ("https://tox.wiki/en/latest/", None),
-}
-
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ["_templates"]
 

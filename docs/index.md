@@ -7,8 +7,9 @@ The handbook allows members to version control and review changes to the coopera
 ## Documents
 
 ```{toctree}
-:maxdepth: 1
-
+---
+maxdepth: 1
+---
 handbook_howtos
 catalyst_101
 catalyst_howtos
