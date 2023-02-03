@@ -1,4 +1,4 @@
-# How to use the Handbook
+# How to edit the Handbook
 
 ```{include} ../README.md
 ---
