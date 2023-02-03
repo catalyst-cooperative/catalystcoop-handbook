@@ -14,9 +14,10 @@ The handbook allows members to version control and review changes to the coopera
 - The [**Handbook How Tos**](handbook_howtos) page explains how to edit this handbook.
 
 ```{toctree}
-:maxdepth: 1
-:hidden:
-
+---
+maxdepth: 1
+hidden:
+---
 catalyst_101
 catalyst_howtos
 policies
