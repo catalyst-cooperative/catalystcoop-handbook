@@ -38,6 +38,7 @@ setup(
         "furo>=2022.4.7",
         "myst-parser~=0.18.0",
         "mdformat~=0.7.16",
+        "mdformat-myst~=0.1.5",
         "sphinx>=4,!=5.1.0,<6.1.4",  # The default Python documentation engine
         "sphinx-autoapi>=1.8,<2.1",  # Generates documentation from docstrings
         "sphinx-issues>=1.2,<3.1",  # Allows references to GitHub issues

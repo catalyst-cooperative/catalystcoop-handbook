@@ -26,8 +26,7 @@ repos:
       - id: mdformat
         # Optionally add plugins
         additional_dependencies:
-          - mdformat-gfm
-          - mdformat-black
+          - mdformat-myst
 
 # Configuration for pre-commit.ci
 ci:
