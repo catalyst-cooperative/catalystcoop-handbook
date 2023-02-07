@@ -97,7 +97,16 @@ Catalyst provides a healthcare reimbursement of **\$150 a month** to members and
 
 **Provided to:** Employee-Members only
 
-Catalyst employees can contribute to a tax-deferred [Vanguard SIMPLE IRA](https://investor.vanguard.com/small-business-retirement-plans/simple-ira) and the co-op will match 3% of the employee’s wages. The IRS limit on annual employee contributions as of 2022 is \$14,000. Here is a good summary of [how a SIMPLE IRA works](https://www.paychex.com/articles/employee-benefits/what-is-a-simple-ira) . Employees can contribute to the SIMPLE IRA and still contribute to a traditional individual IRA or Roth IRA.
+Catalyst employees can contribute to a [Vangaurd Solo 401(k) (also known as an Individual 401k or i401(k))](https://investor.vanguard.com/accounts-plans/small-business-retirement-plans/individual-solo-401k) and the co-op will match 10% of the employee’s wages. Catalyst members are eligible for this type of retirement account because all employees are also owners.
+
+Employees can defer 100% of their compensation up to $22,500 for 2023 ($30,000 for employees age 50 or older). Employers can contribute up to 25% of compensation not to exceed \$66,000 for the 2023 tax year. **Employees can make pre-tax or Roth (after-tax) contributions to the 401(k)**. However, all **employer** contributions are made pre-tax. See [the IRS rules](https://www.irs.gov/retirement-plans/one-participant-401k-plans) for more details.
+
+Employees can contribute to the Solo 401(k) and still contribute to a traditional individual IRA or Roth IRA.
+
+The high employer contribution limit of 25% allows the cooperative to give tax efficient raises and cost of living adjustments to employees.
+For example, if inflation went up 5% on the year, the members can decide to increase the employer contribution to the Solo 401k accounts by 5% to
+adjust for the increased cost of living. This is more tax efficient than increasing wages because the cooperative does not need to pay payroll taxes
+on retirement contributions.
 
 ## Reimbursement
 
