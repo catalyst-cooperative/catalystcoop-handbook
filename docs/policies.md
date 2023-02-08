@@ -112,8 +112,8 @@ on retirement contributions.
 
 Catalyst has two reimbursement policies available to members:
 
-- [Home Office Reimbursements](home-office) \$3,300 / 3 years
-- [Catalyst IRL Reimbursements](irl-reimbursement) \$220 / year
+- [Home Office Reimbursements](home-office) \$3,200 / 3 years
+- [Catalyst IRL Reimbursements](irl-reimbursement) \$210 / year
 
 Reimbursement requests for one-off purchases approved by the board are also acceptable in certain circumstances.
 
