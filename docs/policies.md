@@ -89,7 +89,7 @@ New members are granted 10 hours of paid time off to start with, to reflect the 
 
 **Provided to:** Members & Contractors
 
-Catalyst provides a healthcare reimbursement of **\$150 a month** to members and contractors working 1000 hours per year on a rolling 12 month basis (or in the case of new contractors/employees, the prorated amount of hours since they began working).
+Catalyst provides a healthcare reimbursement of **\$160 a month** to members and contractors working 1000 hours per year on a rolling 12 month basis (or in the case of new contractors/employees, the prorated amount of hours since they began working).
 
 (retirement-accounts)=
 
@@ -112,8 +112,8 @@ on retirement contributions.
 
 Catalyst has two reimbursement policies available to members:
 
-- [Home Office Reimbursements](home-office) \$3,000 / 3 years
-- [Catalyst IRL Reimbursements](irl-reimbursement) \$200 / year
+- [Home Office Reimbursements](home-office) \$3,200 / 3 years
+- [Catalyst IRL Reimbursements](irl-reimbursement) \$210 / year
 
 Reimbursement requests for one-off purchases approved by the board are also acceptable in certain circumstances.
 
