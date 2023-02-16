@@ -138,11 +138,11 @@ Once the existing members have voted to offer you membership, it’s up to you t
 
 ### Overall goals:
 
-* It should be easy to decide what to work on next.
-* We should feel some sense of progress in our day-to-day.
-* We should be able to identify dependencies and bottlenecks.
-* Each team should be able to communicate its goals on a two-week timeline to the other teams.
-* We should be able to stick to the process, because the overhead feels worth the effort.
+- It should be easy to decide what to work on next.
+- We should feel some sense of progress in our day-to-day.
+- We should be able to identify dependencies and bottlenecks.
+- Each team should be able to communicate its goals on a two-week timeline to the other teams.
+- We should be able to stick to the process, because the overhead feels worth the effort.
 
 Inframundo is currently leading a phase of experimentation with sprint process; as the process evolves, other teams such as RMI and Bizdev may incorporate this process into the way they work.
 
@@ -151,89 +151,103 @@ Inframundo is currently leading a phase of experimentation with sprint process; 
 We have three synchronous meetings:
 
 Sprint planning (Monday, week 1):
-* for each high level initiative, talk about each work item that we want to pull into this sprint
-  * what is it?
-  * should we do it?
-  * tag it with the sprint
-* any team discussions that people want to bring up
+
+- for each high level initiative, talk about each work item that we want to pull into this sprint
+  - what is it?
+  - should we do it?
+  - tag it with the sprint
+- any team discussions that people want to bring up
 
 Mid sprint checkin (Monday, week 2):
-* any team discussions that people want to bring up
-* for each item, make sure it's in the right place
+
+- any team discussions that people want to bring up
+- for each item, make sure it's in the right place
 
 Sprint review (Thursday, week 2):
-* for each item tagged with the sprint, talk about:
-  * what it was
-  * what its status is
-* additional ad-hoc discussion topics
+
+- for each item tagged with the sprint, talk about:
+  - what it was
+  - what its status is
+- additional ad-hoc discussion topics
 
 Outside of meetings:
-* issues and PRs get ingested to the ZenHub board automatically
-* when issue status changes, move the issue in the ZenHub board (maybe - if not, we get to it in the meetings)
+
+- issues and PRs get ingested to the ZenHub board automatically
+- when issue status changes, move the issue in the ZenHub board (maybe - if not, we get to it in the meetings)
 
 ### How we'll do it in GH Projects:
 
 Pretty much the same, but with the Catalyst Backlog project instead of ZenHub.
 
 Sprint planning (Monday, week 1):
-* for in-flight items in the old sprint:
-  * discuss status and whether we should roll into the new sprint; tag with new sprint if necessary.
-* for items in backlog:
-  * discuss whether we should pull into the new sprint; tag with new sprint if necessary.
-* ad-hoc discussion topics
+
+- for in-flight items in the old sprint:
+  - discuss status and whether we should roll into the new sprint; tag with new sprint if necessary.
+- for items in backlog:
+  - discuss whether we should pull into the new sprint; tag with new sprint if necessary.
+- ad-hoc discussion topics
 
 Mid sprint checkin (Monday, week 2):
-* for each item in the sprint:
-  * discuss status
-* ad-hoc discussion topics
+
+- for each item in the sprint:
+  - discuss status
+- ad-hoc discussion topics
 
 Sprint review (Thursday, week 2):
-* for each item in the sprint:
-  * discuss status
-* ad-hoc discussion topics
+
+- for each item in the sprint:
+  - discuss status
+- ad-hoc discussion topics
 
 Outside of sprint meetings:
-* Dazhong ingests new issues and PRs to the GH Projects board manually (don't worry, this takes like 5 minutes)
-* Everyone moves issues / linked PRs within the GH project when status changes
+
+- Dazhong ingests new issues and PRs to the GH Projects board manually (don't worry, this takes like 5 minutes)
+- Everyone moves issues / linked PRs within the GH project when status changes
 
 ### Current experiments
 
 For each experiment:
-* what's the goal?
-* what's the actual thing we do?
-* how will we assess success?
-* how do we know that sticking to it will feel better than giving up?
 
+- what's the goal?
+- what's the actual thing we do?
+- how will we assess success?
+- how do we know that sticking to it will feel better than giving up?
 
 #### Only pull scoped, prioritized tickets into the sprint
 
-Goal: make it easier to decide what to work on by agreeing on priority as a team and providing sufficient context for team members to get started on each item. 
+Goal: make it easier to decide what to work on by agreeing on priority as a team and providing sufficient context for team members to get started on each item.
 
 Activity:
 
 Use the mid sprint checkin as a parallel work block to pull items into Backlog - aiming for at least 2N items in Backlog, where N is the number of people on the team. All items in Backlog should have scope and a next step:
-* scope: when would we consider this issue to be done? what criteria have to be met, or what behavior has to exist?
-* next step: what's the first step to getting this working?
+
+- scope: when would we consider this issue to be done? what criteria have to be met, or what behavior has to exist?
+- next step: what's the first step to getting this working?
 
 In the sprint review, instead of discussing status for each item in the sprint, prioritize the tickets that are in Backlog according to the following schema:
-* "Urgent" -> blocking work on high-priority tickets
-* "High" -> if we do not finish this during the next two weeks, we will not hit our quarterly goals
-* "Medium" -> we'd like to finish this during the next two weeks
-* "Low" -> if there's not other stuff to do, it's worth knocking out
+
+- "Urgent" -> blocking work on high-priority tickets
+- "High" -> if we do not finish this during the next two weeks, we will not hit our quarterly goals
+- "Medium" -> we'd like to finish this during the next two weeks
+- "Low" -> if there's not other stuff to do, it's worth knocking out
 
 In the sprint planning:
-* Pull high priority items from in-flight and backlog into the sprint until it feels like we have enough, but not too much, work.
-  * If a low priority item is in flight, we should bump it for higher-priority work.
+
+- Pull high priority items from in-flight and backlog into the sprint until it feels like we have enough, but not too much, work.
+  - If a low priority item is in flight, we should bump it for higher-priority work.
 
 Outside of the meetings:
-* If a new issue comes up, it goes in the Icebox unless there's a compelling case for it to be Urgent, in which case we talk about it as a team and pull it into the sprint if it's truly Urgent.
+
+- If a new issue comes up, it goes in the Icebox unless there's a compelling case for it to be Urgent, in which case we talk about it as a team and pull it into the sprint if it's truly Urgent.
 
 Success criteria:
-* it feels easier than before to start work on a new ticket when your old ticket is done
-* minimal time spent doing homework outside of meetings
+
+- it feels easier than before to start work on a new ticket when your old ticket is done
+- minimal time spent doing homework outside of meetings
 
 Accountability/how we'll stick to it:
-* parallel work blocks are more engaging than "everyone talk through everything in series."
+
+- parallel work blocks are more engaging than "everyone talk through everything in series."
 
 #### Limit work-in-progress
 
@@ -241,27 +255,33 @@ Goal: reduce overwhelm from "too many things going on at once" and identify bott
 
 Activity:
 When moving work through the pipeline to Done:
-* If there are more than N+1 "things" in the next phase (N = team size) do not move your work to the next phase. Instead, find a thing in the next phase and try to move it - i.e. review someone's pull request, or see if you can help someone get their code into a reviewable state.
-  * one "thing" is: a PR, an issue, or a linked pair of issue + PR (which counts as one "thing").
-  
+
+- If there are more than N+1 "things" in the next phase (N = team size) do not move your work to the next phase. Instead, find a thing in the next phase and try to move it - i.e. review someone's pull request, or see if you can help someone get their code into a reviewable state.
+  - one "thing" is: a PR, an issue, or a linked pair of issue + PR (which counts as one "thing").
+
 During mid sprint check-in and sprint review:
-* Thing Counting Phase at the beginning of the meeting where we count the Things and make sure we're not over the limit.
+
+- Thing Counting Phase at the beginning of the meeting where we count the Things and make sure we're not over the limit.
 
 Outside of meetings:
-* Say no to new things if they would push you over WIP limits.
+
+- Say no to new things if they would push you over WIP limits.
 
 Success criteria:
-* people work together on projects more
-* people have fewer things going on at once
+
+- people work together on projects more
+- people have fewer things going on at once
 
 Accountability/how we'll stick to it:
-* Just the in-meeting Thing Counting Phase. Maybe we can make it a race to make it engaging.
+
+- Just the in-meeting Thing Counting Phase. Maybe we can make it a race to make it engaging.
 
 ### Future experiments
 
 Here are future experiments:
-* breaking down tasks into smaller chunks - to be more flexible in how we divvy up the work, see incremental progress, and allow for faster review turnaround time
-* size estimation - to help us commit to an appropriate amount of work and thus feel like we're actually hitting our goals
+
+- breaking down tasks into smaller chunks - to be more flexible in how we divvy up the work, see incremental progress, and allow for faster review turnaround time
+- size estimation - to help us commit to an appropriate amount of work and thus feel like we're actually hitting our goals
 
 ### Tools
 
