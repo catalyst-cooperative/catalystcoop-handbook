@@ -136,10 +136,16 @@ Once the existing members have voted to offer you membership, it’s up to you t
 
 ## Project Management
 
+We have a quarterly planning process, where we set high level goals for the quarter.
+
+When it comes time to execute on those goals, we plan our work in two-week sprints, described here.
+
+We don't have any planning process in between these two levels of granularity, yet. The goal of that would be to break down our quarterly goals into smaller, logical steps and work towards them consistently over the quarter.
+
 ### Overall goals:
 
 - It should be easy to decide what to work on next.
-- We should feel some sense of progress in our day-to-day.
+- We should feel some sense of progress towards our high level goals in our day-to-day.
 - We should be able to identify dependencies and bottlenecks.
 - Each team should be able to communicate its goals on a two-week timeline to the other teams.
 - We should be able to stick to the process, because the overhead feels worth the effort.
@@ -181,7 +187,7 @@ Pretty much the same, but with the Catalyst Backlog project instead of ZenHub.
 
 Sprint planning (Monday, week 1):
 
-- for in-flight items in the old sprint:
+- for in-flight (in progress, or in review) items in the old sprint:
   - discuss status and whether we should roll into the new sprint; tag with new sprint if necessary.
 - for items in backlog:
   - discuss whether we should pull into the new sprint; tag with new sprint if necessary.
