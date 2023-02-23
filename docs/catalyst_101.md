@@ -221,6 +221,8 @@ For each experiment:
 
 #### Only pull scoped, prioritized tickets into the sprint
 
+Sprint: 2023-03-06
+
 Goal: make it easier to decide what to work on by agreeing on priority as a team and providing sufficient context for team members to get started on each item.
 
 Activity:
@@ -230,14 +232,16 @@ Use the mid sprint checkin as a parallel work block to pull items into Backlog -
 - scope: when would we consider this issue to be done? what criteria have to be met, or what behavior has to exist?
 - next step: what's the first step to getting this working?
 
-In the sprint review, instead of discussing status for each item in the sprint, prioritize the tickets that are in Backlog according to the following schema:
+In the sprint review:
+
+Instead of discussing status for each item in the sprint, prioritize the tickets. First, agree on a core goal for the sprint; then, prioritize the issues that are in Backlog according to the following schema:
 
 - "Urgent" -> blocking work on high-priority tickets
-- "High" -> if we do not finish this during the next two weeks, we will not hit our quarterly goals
-- "Medium" -> we'd like to finish this during the next two weeks
+- "High" -> direct blockers for the core goal
+- "Medium" -> we'd like to finish this during the next two weeks, but not directly related to the core goal
 - "Low" -> if there's not other stuff to do, it's worth knocking out
 
-In the sprint planning:
+In the sprint planning meeting:
 
 - Pull high priority items from in-flight and backlog into the sprint until it feels like we have enough, but not too much, work.
   - If a low priority item is in flight, we should bump it for higher-priority work.
@@ -256,6 +260,8 @@ Accountability/how we'll stick to it:
 - parallel work blocks are more engaging than "everyone talk through everything in series."
 
 #### Limit work-in-progress
+
+Sprint: None yet
 
 Goal: reduce overwhelm from "too many things going on at once" and identify bottlenecks in our process
 
