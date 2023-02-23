@@ -277,6 +277,7 @@ Success criteria:
 
 - people work together on projects more
 - people have fewer things going on at once
+- important work is not blocked by unimportant but stagnant work
 
 Accountability/how we'll stick to it:
 
