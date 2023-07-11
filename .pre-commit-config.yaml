@@ -15,7 +15,7 @@ repos:
   # Formatters: hooks that re-write Python and RST files
   ########################################################################################
   - repo: https://github.com/pre-commit/mirrors-prettier
-    rev: v3.0.0-alpha.9-for-vscode
+    rev: v3.0.0
     hooks:
       - id: prettier
         types_or: [yaml]
