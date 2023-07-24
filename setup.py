@@ -36,7 +36,7 @@ setup(
     install_requires=[
         "doc8>=0.9,<1.2",  # Ensures clean documentation formatting
         "furo>=2022.4.7",
-        "myst-parser>=0.18,<1.1",
+        "myst-parser>=0.18,<2.1",
         "mdformat~=0.7.16",
         "mdformat-myst~=0.1.5",
         "sphinx>=4,!=5.1.0,<6.2.2",  # The default Python documentation engine
