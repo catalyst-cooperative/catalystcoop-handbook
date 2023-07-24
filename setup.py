@@ -42,7 +42,7 @@ setup(
         "sphinx>=4,!=5.1.0,<7.1.1",  # The default Python documentation engine
         "sphinx-autoapi>=1.8,<2.2",  # Generates documentation from docstrings
         "sphinx-issues>=1.2,<3.1",  # Allows references to GitHub issues
-        "tox>=3.20,<4.5",  # Python test environment manager
+        "tox>=3.20,<4.7",  # Python test environment manager
         "pre-commit>=2.9,<3.4",  # Allow us to run pre-commit hooks in testing
         "pydocstyle>=5.1,<6.4",  # Style guidelines for Python documentation
     ],
