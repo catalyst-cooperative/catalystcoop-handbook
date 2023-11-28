@@ -136,178 +136,54 @@ Once the existing members have voted to offer you membership, it’s up to you t
 
 ## Project Management
 
-We have a quarterly planning process, where we set high level goals for the quarter.
+We don't prescribe how each team should organize its work. However, we expect each team to:
 
-When it comes time to execute on those goals, we plan our work in two-week sprints, described here.
+- know what they plan on getting done for two weeks and why
+- write that down in GitHub Issues that are organized into a view on the all-encompassing [GitHub Project](https://github.com/orgs/catalyst-cooperative/projects/9/views/1).
 
-We don't have any planning process in between these two levels of granularity, yet. The goal of that would be to break down our quarterly goals into smaller, logical steps and work towards them consistently over the quarter.
+This acts as a common interface for communicating between teams.
 
-### Overall goals:
+### Inframundo process
 
-- It should be easy to decide what to work on next.
-- We should feel some sense of progress towards our high level goals in our day-to-day.
-- We should be able to identify dependencies and bottlenecks.
-- Each team should be able to communicate its goals on a two-week timeline to the other teams.
-- We should be able to stick to the process, because the overhead feels worth the effort.
+Inframundo fulfills the above requirements with three meetings per 2-week sprint: sprint planning, mid-sprint checkin, and sprint review - agendas below.
 
-Inframundo is currently leading a phase of experimentation with sprint process; as the process evolves, other teams such as RMI and Bizdev may incorporate this process into the way they work.
+Our project board is [here](https://github.com/orgs/catalyst-cooperative/projects/9/views/6).
 
-### What we do now:
+#### Sprint kickoff
 
-We have three synchronous meetings:
+First day of each sprint.
 
-Sprint planning (Monday, week 1):
+* Look at incomplete tickets from last sprint. If they're relevant to this sprint's goals, roll them over. If not, remove them from sprints entirely.
+* Pull issues in from the backlog.
+* Identify issues that need additional clarity in scoping.
+* Does this work seem like too much? If so, what can we cut?
 
-- for each high level initiative, talk about each work item that we want to pull into this sprint
-  - what is it?
-  - should we do it?
-  - tag it with the sprint
-- any team discussions that people want to bring up
+#### Sprint check-in
 
-Mid sprint checkin (Monday, week 2):
+Second Monday of the sprint.
 
-- any team discussions that people want to bring up
-- for each item, make sure it's in the right place
+* Make sure our board state is correct.
+* Review this sprint's goals and whether we need to adjust our work to hit them.
+* Is there anything spiraling out of control? Can we get it back under control somehow?
 
-Sprint review (Thursday, week 2):
+#### Sprint review
 
-- for each item tagged with the sprint, talk about:
-  - what it was
-  - what its status is
-- additional ad-hoc discussion topics
+Last Thursday of the sprint.
 
-Outside of meetings:
+* Make sure our board state is correct.
+* Which goals did we achieve?
+* What is our availability next sprint?
+* What should our goal(s) be for next sprint? Aim for 1-3.
+* Do we need to add new issues to our backlog related to those goals?
 
-- issues and PRs get ingested to the ZenHub board automatically
-- when issue status changes, move the issue in the ZenHub board (maybe - if not, we get to it in the meetings)
 
-### How we'll do it in GH Projects:
+#### Issue guidelines
 
-Pretty much the same, but with the Catalyst Backlog project instead of ZenHub.
+We try to make sure our issues have the following information before we work on them:
 
-Sprint planning (Monday, week 1):
-
-- for in-flight (in progress, or in review) items in the old sprint:
-  - discuss status and whether we should roll into the new sprint; tag with new sprint if necessary.
-- for items in backlog:
-  - discuss whether we should pull into the new sprint; tag with new sprint if necessary.
-- ad-hoc discussion topics
-
-Mid sprint checkin (Monday, week 2):
-
-- for each item in the sprint:
-  - discuss status
-- ad-hoc discussion topics
-
-Sprint review (Thursday, week 2):
-
-- for each item in the sprint:
-  - discuss status
-- ad-hoc discussion topics
-
-Outside of sprint meetings:
-
-- Dazhong ingests new issues and PRs to the GH Projects board manually (don't worry, this takes like 5 minutes)
-- Everyone moves issues / linked PRs within the GH project when status changes
-
-### Current experiments
-
-For each experiment:
-
-- what's the goal?
-- what's the actual thing we do?
-- how will we assess success?
-- how do we know that sticking to it will feel better than giving up?
-
-#### Only pull scoped, prioritized tickets into the sprint
-
-Sprint: 2023-03-06
-
-Goal: make it easier to decide what to work on by agreeing on priority as a team and providing sufficient context for team members to get started on each item.
-
-Activity:
-
-Use the mid sprint checkin as a parallel work block to pull items into Backlog - aiming for at least 2N items in Backlog, where N is the number of people on the team. All items in Backlog should have scope and a next step:
-
-- scope: when would we consider this issue to be done? what criteria have to be met, or what behavior has to exist?
-- next step: what's the first step to getting this working?
-
-In the sprint review:
-
-Instead of discussing status for each item in the sprint, prioritize the tickets. First, agree on a core goal for the sprint; then, prioritize the issues that are in Backlog according to the following schema:
-
-- "Urgent" -> blocking work on high-priority tickets
-- "High" -> direct blockers for the core goal
-- "Medium" -> we'd like to finish this during the next two weeks, but not directly related to the core goal
-- "Low" -> if there's not other stuff to do, it's worth knocking out
-
-In the sprint planning meeting:
-
-- Pull high priority items from in-flight and backlog into the sprint until it feels like we have enough, but not too much, work.
-  - If a low priority item is in flight, we should bump it for higher-priority work.
-
-Outside of the meetings:
-
-- If a new issue comes up, it goes in the Icebox unless there's a compelling case for it to be Urgent, in which case we talk about it as a team and pull it into the sprint if it's truly Urgent.
-
-Success criteria:
-
-- it feels easier than before to start work on a new ticket when your old ticket is done
-- minimal time spent doing homework outside of meetings
-
-Accountability/how we'll stick to it:
-
-- parallel work blocks are more engaging than "everyone talk through everything in series."
-
-#### Limit work-in-progress
-
-Sprint: None yet
-
-Goal: reduce overwhelm from "too many things going on at once" and identify bottlenecks in our process
-
-Activity:
-When moving work through the pipeline to Done:
-
-- If there are more than N+1 "things" in the next phase (N = team size) do not move your work to the next phase. Instead, find a thing in the next phase and try to move it - i.e. review someone's pull request, or see if you can help someone get their code into a reviewable state.
-  - one "thing" is: a PR, an issue, or a linked pair of issue + PR (which counts as one "thing").
-
-During mid sprint check-in and sprint review:
-
-- Thing Counting Phase at the beginning of the meeting where we count the Things and make sure we're not over the limit.
-
-Outside of meetings:
-
-- Say no to new things if they would push you over WIP limits.
-
-Success criteria:
-
-- people work together on projects more
-- people have fewer things going on at once
-- important work is not blocked by unimportant but stagnant work
-
-Accountability/how we'll stick to it:
-
-- Just the in-meeting Thing Counting Phase. Maybe we can make it a race to make it engaging.
-
-### Future experiments
-
-Here are future experiments:
-
-- breaking down tasks into smaller chunks - to be more flexible in how we divvy up the work, see incremental progress, and allow for faster review turnaround time
-- size estimation - to help us commit to an appropriate amount of work and thus feel like we're actually hitting our goals
-
-### Tools
-
-- **[Slack](https://slack.com/):** We use slack to communicate day-to-day internal tasks with one another. Be sure to check out all of the channels (including the fun ones)! You’ll definitely want to check slack at least once a day for updates or keep it open in case someone wants to get in touch with you. Note that you’re never “required” to be online, but it is useful to have this real-time means of communication on hand.
-- **Gmail:** Our primary use of Gmail is communication with external entities. That’s to say: newsletters, client updates, users, etc. If you have questions for Catalyst folks, save them for slack.
-- **Google Calendar:** We schedule all our meetings through Google calendar. For certain clients we have had to make exceptions (ex: Outlook), but for the most part we sync everything through Google.
-- **[Google Meet](https://apps.google.com/meet/):** We use Google Meet for all video calls. Each meeting should have a link to a google meet room in the invite. Sometimes clients will opt for other video conferencing tools like Zoom, but all Catalyst-run meetings use Google Meet.
-- **[Google Drive](https://drive.google.com/drive/u/1/folders/1NNqELmmRykvJNSP3dWquN_URCJC1vZ7t):** All of our organizational documentation lives in Google Drive. Bylaws, notes, protocols, contracts, etc. It’s all in the drive. Everything you’ll need is either in the Catalyst Team (shared with contractors and members) or Catalyst Members (shared with members) folders. Take a look around to get a feeling for where certain types of documents are stored.
-- **[Gusto](http://gusto.com/):** We use Gusto for payroll. After you make an account and we set up your monthly payments, you won’t have to interact with it much. Gusto is where you will find important tax documents, accumulated PTO, and information about other benefits like the health stipend.
-- **[Harvest](https://catalystcooperative.harvestapp.com/):** We use Harvest for time tracking. You can either download the desktop app or use the online version. Learn how we track time in our [Time Tracking Overview](time_tracking) .
-- **[GitHub](https://github.com/catalyst-cooperative)**: We use GitHub issues and Epics to track ongoing and planned work. Because issues and epics are our sole means of tracking tasks, we often add non-technical (or non-code related) issues to the workflow. We have a business repo intended for admin related tasks. We also encourage people to make issues such as “scope X problem…” or “Phase 1 design…” so that larger problems get broken down into manageable chunks.
-- **[GitHub Pull Requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests):** We like to use pull requests as a form of code transparency. Sometimes you’ll be working on a project in a new branch by yourself and the prospect of doing a mega pull request gets more and more daunting (for you and the reviewers) the more you add. When you start a new branch, make a draft pull request to the dev branch that you can push to frequently. This way people can see your progress/make comments before you’ve gone too far in one direction. These PRs may never get merged, but they allow you to ask questions within the context of your code (i.e., you don’t have to message someone with large code chunks copied).
-- **[ZenHub](https://app.zenhub.com/workspaces/pudl-5d893559a6e4070001252409/board?repos=80646423,210421263,296720428):** ZenHub is a project management extension for GitHub. We use it to organize and group our GitHub issues and epics into meaningful, trackable project chunks. Each team (see below) has their own ZenHub board where they move relevant issues through a series of custom “pipelines” or columns that indicate the status of a given issue or epic. ZenHub also has a number of meta project management tools like roadmaps and burndown charts that we are trying to get better about using.
+* A description of what problem they're solving.
+* A list of success criteria - what things will be true when this ticket is done?
+* Any additional context from preliminary investigation / ideas for next steps.
 
 ### [Teams](https://drive.google.com/drive/folders/1NNqELmmRykvJNSP3dWquN_URCJC1vZ7t)
 
