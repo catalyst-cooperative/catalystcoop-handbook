@@ -147,6 +147,8 @@ This acts as a common interface for communicating between teams.
 
 Inframundo fulfills the above requirements with three meetings per 2-week sprint: sprint planning, mid-sprint checkin, and sprint review - agendas below.
 
+In addition to those requirements, we also set high level goals for each sprint that we use to help us prioritize work.
+
 Our project board is [here](https://github.com/orgs/catalyst-cooperative/projects/9/views/6).
 
 #### Sprint kickoff
