@@ -153,37 +153,36 @@ Our project board is [here](https://github.com/orgs/catalyst-cooperative/project
 
 First day of each sprint.
 
-* Look at incomplete tickets from last sprint. If they're relevant to this sprint's goals, roll them over. If not, remove them from sprints entirely.
-* Pull issues in from the backlog.
-* Identify issues that need additional clarity in scoping.
-* Does this work seem like too much? If so, what can we cut?
+- Look at incomplete tickets from last sprint. If they're relevant to this sprint's goals, roll them over. If not, remove them from sprints entirely.
+- Pull issues in from the backlog.
+- Identify issues that need additional clarity in scoping.
+- Does this work seem like too much? If so, what can we cut?
 
 #### Sprint check-in
 
 Second Monday of the sprint.
 
-* Make sure our board state is correct.
-* Review this sprint's goals and whether we need to adjust our work to hit them.
-* Is there anything spiraling out of control? Can we get it back under control somehow?
+- Make sure our board state is correct.
+- Review this sprint's goals and whether we need to adjust our work to hit them.
+- Is there anything spiraling out of control? Can we get it back under control somehow?
 
 #### Sprint review
 
 Last Thursday of the sprint.
 
-* Make sure our board state is correct.
-* Which goals did we achieve?
-* What is our availability next sprint?
-* What should our goal(s) be for next sprint? Aim for 1-3.
-* Do we need to add new issues to our backlog related to those goals?
-
+- Make sure our board state is correct.
+- Which goals did we achieve?
+- What is our availability next sprint?
+- What should our goal(s) be for next sprint? Aim for 1-3.
+- Do we need to add new issues to our backlog related to those goals?
 
 #### Issue guidelines
 
 We try to make sure our issues have the following information before we work on them:
 
-* A description of what problem they're solving.
-* A list of success criteria - what things will be true when this ticket is done?
-* Any additional context from preliminary investigation / ideas for next steps.
+- A description of what problem they're solving.
+- A list of success criteria - what things will be true when this ticket is done?
+- Any additional context from preliminary investigation / ideas for next steps.
 
 ### [Teams](https://drive.google.com/drive/folders/1NNqELmmRykvJNSP3dWquN_URCJC1vZ7t)
 
