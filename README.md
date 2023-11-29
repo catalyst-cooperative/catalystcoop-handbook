@@ -14,11 +14,10 @@ To edit these docs you need to clone the [`catalyst-handbook`](https://github.co
 git clone git@github.com:catalyst-cooperative/catalystcoop-handbook.git
 ```
 
-We use the conda package manager to specify and update our development environment. We recommend using [miniconda](https://docs.conda.io/en/latest/miniconda.html) rather than the large pre-defined collection of scientific packages bundled together in the Anaconda Python distribution. You may also want to consider using [mamba](https://github.com/mamba-org/mamba) – a faster drop-in replacement for conda written in C++.
+We use the `mamba`/`conda` package manager to specify and update our development environment.
 
 ```bash
-conda update conda
-conda env create --name handbook --file environment.yml
+mamba env create --name handbook --file environment.yml
 conda activate handbook
 ```
 
