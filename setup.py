@@ -39,7 +39,7 @@ setup(
         "myst-parser>=0.18,<2.1",
         "mdformat~=0.7.16",
         "mdformat-myst~=0.1.5",
-        "sphinx>=4,!=5.1.0,<7.2.7",  # The default Python documentation engine
+        "sphinx>=4,!=5.1.0,<7.3.6",  # The default Python documentation engine
         "sphinx-autoapi>=1.8,<3.1",  # Generates documentation from docstrings
         "sphinx-issues>=1.2,<4.2",  # Allows references to GitHub issues
         "tox>=3.20,<4.15",  # Python test environment manager
