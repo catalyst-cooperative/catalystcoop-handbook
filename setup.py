@@ -30,7 +30,7 @@ setup(
     license="MIT",
     # Fill in search keywords that users might use to find the package
     keywords=[],
-    python_requires=">=3.10,<3.12",
+    python_requires=">=3.10,<3.13",
     # In order for the dependabot to update versions, they must be listed here.
     # Use the format pkg_name>=x,<y", Included packages are just examples:
     install_requires=[
@@ -39,7 +39,7 @@ setup(
         "myst-parser>=0.18,<2.1",
         "mdformat~=0.7.16",
         "mdformat-myst~=0.1.5",
-        "sphinx>=4,!=5.1.0,<7.3.8",  # The default Python documentation engine
+        "sphinx>7,<8",  # The default Python documentation engine
         "sphinx-autoapi>=1.8,<3.1",  # Generates documentation from docstrings
         "sphinx-issues>=1.2,<4.2",  # Allows references to GitHub issues
         "tox>=3.20,<4.15",  # Python test environment manager
@@ -60,6 +60,7 @@ setup(
         "Programming Language :: Python :: 3 :: Only",
         "Programming Language :: Python :: 3.10",
         "Programming Language :: Python :: 3.11",
+        "Programming Language :: Python :: 3.12",
     ],
     # Directory to search recursively for __init__.py files defining Python packages
     packages=find_packages("src"),
