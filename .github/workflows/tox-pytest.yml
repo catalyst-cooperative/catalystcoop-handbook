@@ -27,7 +27,7 @@ jobs:
 
       - name: Run PyTest with Tox
         run: |
-          conda run -n handbook tox
+          tox
 
       - name: Upload test coverage report to CodeCov
         uses: codecov/codecov-action@v4
