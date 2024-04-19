@@ -1,10 +1,13 @@
 name: tox-pytest
 
-on: [push, pull_request]
+on: [pull_request]
 
 jobs:
   ci-test:
     runs-on: ubuntu-latest
+    defaults:
+      run:
+        shell: bash -l {0}
     steps:
       - uses: actions/checkout@v4
         with:
@@ -17,7 +20,7 @@ jobs:
           environment-name: handbook
           cache-environment: true
 
-      - shell: bash -l {0}
+      - name: Record environment
         run: |
           conda info
           conda list
