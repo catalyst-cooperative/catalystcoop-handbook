@@ -89,7 +89,9 @@ New members are granted 10 hours of paid time off to start with, to reflect the 
 
 **Provided to:** Members & Contractors
 
-Catalyst provides a healthcare reimbursement of **$150 a month** to members and contractors working 1000 hours per year on a rolling 12 month basis (or in the case of new contractors/employees, the prorated amount of hours since they began working).
+Catalyst provides a healthcare stipend **\$170 a month** to members and contractors working at leaset 1000 hours per year on a rolling 12 month basis (or in the case of new contractors/employees, the prorated amount of hours since they began working).
+This stipend is paid as a taxable "bonus".
+The amount of the monthly stipend is adjusted annually based on inflation as discussed below in the reimbursements section
 
 (retirement-accounts)=
 
@@ -97,18 +99,29 @@ Catalyst provides a healthcare reimbursement of **$150 a month** to members and 
 
 **Provided to:** Employee-Members only
 
-Catalyst employees can contribute to a tax-deferred [Vanguard SIMPLE IRA](https://investor.vanguard.com/small-business-retirement-plans/simple-ira) and the co-op will match 3% of the employee’s wages. The IRS limit on annual employee contributions as of 2022 is $14,000. Here is a good summary of [how a SIMPLE IRA works](https://www.paychex.com/articles/employee-benefits/what-is-a-simple-ira) . Employees can contribute to the SIMPLE IRA and still contribute to a traditional individual IRA or Roth IRA.
+Catalyst employees can contribute to a [Vangaurd Solo 401(k) (also known as an Individual 401k or i401(k))](https://investor.vanguard.com/accounts-plans/small-business-retirement-plans/individual-solo-401k) and the co-op will match 10% of the employee’s wages. Catalyst members are eligible for this type of retirement account because all employees are also owners.
+
+Employees can defer 100% of their compensation up to $22,500 for 2023 ($30,000 for employees age 50 or older). Employers can contribute up to 25% of compensation not to exceed \$66,000 for the 2023 tax year. **Employees can make pre-tax or Roth (after-tax) contributions to the 401(k)**. However, all **employer** contributions are made pre-tax. See [the IRS rules](https://www.irs.gov/retirement-plans/one-participant-401k-plans) for more details.
+
+Employees can contribute to the Solo 401(k) and still contribute to a traditional individual IRA or Roth IRA.
+
+The high employer contribution limit of 25% allows the cooperative to give tax efficient raises and cost of living adjustments to employees.
+For example, if inflation went up 5% on the year, the members can decide to increase the employer contribution to the Solo 401k accounts by 5% to
+adjust for the increased cost of living. This is more tax efficient than increasing wages because the cooperative does not need to pay payroll taxes
+on retirement contributions.
 
 ## Reimbursement
 
 Catalyst has two reimbursement policies available to members:
 
-- [Home Office Reimbursements](home-office) $3,000 / 3 years
-- [Catalyst IRL Reimbursements](irl-reimbursement) $200 / year
+- [Home Office Reimbursements](home-office) \$3,300 / 3 years
+- [Catalyst IRL Reimbursements](irl-reimbursement) \$220 / year
 
+These fixed dollar values are adjusted for inflation each year in December for inflation, by multiplying them by (1 + the year-on-year CPI-U for November).
+The changes take effect at the beginning of the following calendar year.
 Reimbursement requests for one-off purchases approved by the board are also acceptable in certain circumstances.
 
-**Reimbursement Process:** Members will make their own purchases and submit receipts via the [Expense Reimbursement Form](https://drive.google.com/open?id=1rZxUUzib7Qb05Kz8aTxENd2QRv1d4oSEwQS-3OPsuX4) . They should be reimbursed within the payroll period following submission of complete documentation of the purchase. Members should confirm that their planned purchase is eligible for reimbursement under IRS rules and that they have sufficient remaining reimbursement funds before making the purchase.
+**Reimbursement Process:** Members will make their own purchases and submit receipts via the [Expense Reimbursement Form](https://forms.gle/EkBKo5DBhJa7eBw98) . They should be reimbursed within the payroll period following submission of complete documentation of the purchase. Members should confirm that their planned purchase is eligible for reimbursement under IRS rules and that they have sufficient remaining reimbursement funds before making the purchase.
 
 **The co-op will maintain a record of reimbursements visible to all members including:**
 
@@ -132,11 +145,11 @@ Reimbursement requests for one-off purchases approved by the board are also acce
 
 As an all-remote organization it’s important that we ensure our members have a comfortable and productive work environment. Due to favorable tax treatment, using co-op funds to this end is significantly more cost-effective than requiring members to cover these expenses out of pocket.
 
-Each member will be reimbursed **up to $3,000 in any rolling 3-year period** to furnish and maintain their remote work environment, subject to the following conditions:
+Each member will be reimbursed **up to \$3,300 in any rolling 3-year period** to furnish and maintain their remote work environment, subject to the following conditions:
 
 - The expenditure must qualify as a business expense, which the co-op can deduct from its income for tax purposes.
 - The member must provide the co-op with receipts or other documentation of the business expense for our records, in the event that we are audited by the IRS and need to demonstrate the legitimacy of the tax deduction.
-  The amount available to be reimbursed to a member at any given time will be **$3000** minus the sum of all reimbursements they’ve received in the preceding rolling **3 year period**. Each expenditure will be categorized as either an **asset purchase**, or an **expense.**
+  The amount available to be reimbursed to a member at any given time will be **\$3,300** minus the sum of all reimbursements they’ve received in the preceding rolling **3 year period**. Each expenditure will be categorized as either an **asset purchase**, or an **expense.**
 
 **Asset Purchases** include tangible non-consumable items that you purchase once and use for a period of time. E.g. a laptop, monitor, office chair, external backup drive, ergonomic keyboard, headphones, hardware 2FA keys, reference books, etc.
 
@@ -144,10 +157,10 @@ Each member will be reimbursed **up to $3,000 in any rolling 3-year period** to 
 
 **Reimbursement of Undepreciated Value:** When a member leaves the co-op the remaining undepreciated value of the member’s reimbursed assets becomes a debt owed to the co-op. Like other debts owed to the co-op, it may be deducted from the departing member’s capital account / member share. The member will owe this debt to the co-op even if the asset has been damaged, stolen, or destroyed. **We strongly encourage members to ensure expensive items like laptops are covered by a manufacturer’s warranty, and to maintain an appropriate renters or homeowners insurance policy** so that these assets can be replaced if need be without additional cost to the member.
 
-**For example**, an employee buys a $600 standing desk and is reimbursed by the cooperative. Since the standing desk depreciates (that is, loses value due to wear and tear) over 3 years, after one year the standing desk is valued at $400. So when the employee decides to leave the cooperative 2 years after the purchase of the standing desk, it is valued at $200. The departing employee would then need to pay the cooperative $200. Alternatively, the cooperative could deduct $200 from the departing employee’s internal member capital account.
+**For example**, an employee buys a $600 standing desk and is reimbursed by the cooperative. Since the standing desk depreciates (that is, loses value due to wear and tear) over 3 years, after one year the standing desk is valued at $400. So when the employee decides to leave the cooperative 2 years after the purchase of the standing desk, it is valued at $200. The departing employee would then need to pay the cooperative $200. Alternatively, the cooperative could deduct \$200 from the departing employee’s internal member capital account.
 **For a more comprehensive example: [see this spreadsheet](https://docs.google.com/spreadsheets/d/1bwzw7_GcWNSTBNeUFrWe8BzEyIA2Cw7HnjEwg6TueiY/edit#gid=867743421)**.
 
-**Expenses:** will be reimbursed on a month to month basis as they are incurred. They do not result in a potential future liability for the member (unlike asset purchases) since they’re being consumed continuously. This is meant to cover things like membership at a co-working space, improved home internet service for work purposes, an off-site backup service for your computer, enrollment in online courses for continuing education, etc. Monthly expense reimbursements to a member shall be limited to the total per-member reimbursement budget divided by the number of months in the rolling reimbursement period. Given the current limits of $3000 every 36 months this works out to 2\*($3000/36 mo) = **$166.66/mo**. If a member has an expense greater than this amount, they can get reimbursed for it in installments over multiple months, so long as they remain a member.
+**Expenses:** will be reimbursed on a month to month basis as they are incurred. They do not result in a potential future liability for the member (unlike asset purchases) since they’re being consumed continuously. This is meant to cover things like membership at a co-working space, improved home internet service for work purposes, an off-site backup service for your computer, enrollment in online courses for continuing education, etc. Monthly expense reimbursements to a member shall be limited to the total per-member reimbursement budget divided by the number of months in the rolling reimbursement period. Given the current limits of $3,300 every 36 months this works out to 2\*($3,300/36 mo) = **\$183.33/mo**. If a member has an expense greater than this amount, they can get reimbursed for it in installments over multiple months, so long as they remain a member.
 
 (irl-reimbursement)=
 
@@ -155,7 +168,7 @@ Each member will be reimbursed **up to $3,000 in any rolling 3-year period** to 
 
 **Provided to:** Members only
 
-As a remote organization, Catalysters rarely see one another in person. To encourage folks to bridge the virtual divide, each member may request reimbursement for up to **$200 per year** for travel and food expenses related to visiting another member of the coop. These expenses must be _marginal and additional_ to existing plans where the primary purpose of the expenses is visiting another co-oper . Receipts must be submitted through the [Expense Reimbursement Form](https://drive.google.com/open?id=1rZxUUzib7Qb05Kz8aTxENd2QRv1d4oSEwQS-3OPsuX4) for approval and reimbursement.
+As a remote organization, Catalysters rarely see one another in person. To encourage folks to bridge the virtual divide, each member may request reimbursement for up to **\$220 per year** for travel and food expenses related to visiting another member of the coop. These expenses must be _marginal and additional_ to existing plans where the primary purpose of the expenses is visiting another co-oper . Receipts must be submitted through the [Expense Reimbursement Form](https://forms.gle/EkBKo5DBhJa7eBw98) for approval and reimbursement.
 
 **Example:** A member seeks reimbursement for a flight to the other side of the country. They stay with their family friends for a week and then take a bus to a neighboring town to meet up with another co-oper and go out to lunch. Because the primary purpose of the flight is to see family and friends, the co-oper should foot the bill for the flight. The co-oper may request a reimbursement for travel to visit the other co-oper as well as the bill for their lunch together.
 

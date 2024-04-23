@@ -51,8 +51,8 @@ Hold up. What _is_ a co-op? What makes it different from a non-profit or a regul
 - [The difference between co-ops and other types of corporations from the National Cooperative Business Association](https://ncbaclusa.coop/blog/differences-between-cooperatives-and-corporations/#:~:text=While%20other%20types%20of%20corporations,Some%20cooperatives%20are%20employee%2Downed.)
 - [The legal definition and status of co-ops from Co-opLaw.org](https://www.co-oplaw.org/knowledge-base/what-are-cooperatives/)
 - [The history of worker co-ops from the Federation of Worker Cooperatives](https://institute.coop/what-worker-cooperative)
-- [The steps involved in starting a worker coop from the US Small Business Administration](https://proxy.www.sba.gov/starting-business/choose-your-business-structure/cooperative)
-  [How coop finances work from the Internal Capital Accounts Group](https://icagroup.org/wp-content/uploads/2019/04/Internal-Capital-Accounts.pdf)
+- [The steps involved in starting a worker coop](https://www.toryburchfoundation.org/resources/start-my-business/choose-your-business-structure-cooperative/) (originally from the US Small Business Administration, copy hosted by the Tory Burch Foundation)
+- [How coop finances work from the Internal Capital Accounts Group](https://icagroup.org/wp-content/uploads/2019/04/Internal-Capital-Accounts.pdf)
 
 ### Catalyst’s Governing Documents
 
@@ -73,14 +73,14 @@ After taxes, contractors and members receive the same hourly rate. Employee-memb
 
 For simplicity’s sake (and because there are currently no contractor-members), we compare the difference in responsibilities by contractor and employee-member. For more detailed information on each of the policies listed below, refer to the [Catalyst Policy Handbook](policies). Key differences between contractors and members are in bold text.
 
-|                      | **Contractors**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | **Employee-Members**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| -------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Paperwork**        | - **Sign contractor agreement**                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | - **Buy $1000 membership share**<br>- **Sign membership agreement**                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| **Meetings**         | - [M/W/Th stand-ups](mwth-stand-up-meetings-15-20-min)<br>- [Monday action-items](weekly-check-in--action-items-10-30-min)<br>- [Bi-weekly sprint planning/review for each project](sprint-planning-review)<br>- [Quarterly advisory committee meetings](quarterly-advisory-committee-meeting-1-hours)<br>- [Business team meetings](business-team-meetings)<br>- [3 and 6 month feedback](contractor-feedback-meeting)<br>- [Financial check-in](monthly-financial-check-ins) (after 3 months) | - All contractor meetings, plus:<br>- [Annual or Special Member Meeting](member-meetings)<br>- [Board Meeting](weekly-board-meetings) (until 10+ members)<br>- [Certain feedback meetings for contractors](contractor-feedback-meeting)<br>- [Certain Feedback meetings for members](annual-member-feedback)                                                                                                                                                                                         |
-| **Compensation**     | - [$39.56](wages) / hour (to account for payroll tax discrepancy)                                                                                                                                                                                                                                                                                                                                                                                                                               | - [$36.75](wages) / hour                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| **Time Commitment**  | - **[500 hours / six months](expected-hours)** to be considered eligible for membership                                                                                                                                                                                                                                                                                                                                                                                                         | - **[1000 hours / year](expected-hours)** to retain membership status                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| **Benefits**         | - [$150 healthcare stipend](health-care)<br>                                                                                                                                                                                                                                                                                                                                                                                                                                                    | All contractor benefits, plus:<br>- **[IRA account and retirement contributions](retirement-accounts)**<br>- **[$3000 / 3 year depreciating tech stipend](home-office-reimbursements)**<br>- **[$200 / year last mile reimbursements](irl-reimbursement) for visiting other members**<br>- **[1 hr paid time off / 52 work hours](paid-time-off)**<br>- **Member capital account based on co-op patronage**<br>- **[Up to six months unpaid time off with adequate notice](time-off-reduced-hours)** |
-| **Responsibilities** | Contractors are involved in everything except co-op governance decisions. They participate in all regular co-op meetings, including the financial check-ins and business teams after 3 months. Contractors can take as much time off as they want so long as they are considering the technical membership eligibility requirement of 500 hours over the course of six months and the social, unwritten requirement of not randomly disappearing.                                               | Member-employees wear many hats. Until we have enough members to determine a cap, all members become part of the Catalyst board. Both members and board members have a say in co-op governance issues and are expected to act in the interest of the co-op. Members are expected to participate in meetings and engage in the technical and business aspects of the co-op.                                                                                                                           |
+|                      | **Contractors**                                                                                                                                                                                                                                                                                                                                                                                                                                   | **Employee-Members**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Paperwork**        | - **Sign contractor agreement**                                                                                                                                                                                                                                                                                                                                                                                                                   | - **Buy \$1000 membership share**<br>- **Sign membership agreement**                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| **Meetings**         | - [M/W/Th stand-ups](mwth-stand-up-meetings-15-20-min)<br>- [Monday action-items](weekly-check-in--action-items-10-30-min)<br>- [Quarterly advisory committee meetings](quarterly-advisory-committee-meeting-1-hours)<br>- [Business team meetings](business-team-meetings)<br>- [3 and 6 month feedback](contractor-feedback-meeting)<br>- [Financial check-in](monthly-financial-check-ins) (after 3 months)                                    | - All contractor meetings, plus:<br>- [Annual or Special Member Meeting](member-meetings)<br>- [Board Meeting](weekly-board-meetings) (until 10+ members)<br>- [Certain feedback meetings for contractors](contractor-feedback-meeting)<br>- [Certain Feedback meetings for members](annual-member-feedback)                                                                                                                                                                                         |
+| **Compensation**     | - [\$39.56](wages) / hour (to account for payroll tax discrepancy)                                                                                                                                                                                                                                                                                                                                                                                | - [\$36.75](wages) / hour                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| **Time Commitment**  | - **[500 hours / six months](expected-hours)** to be considered eligible for membership                                                                                                                                                                                                                                                                                                                                                           | - **[1000 hours / year](expected-hours)** to retain membership status                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| **Benefits**         | - [\$150 healthcare stipend](health-care)<br>                                                                                                                                                                                                                                                                                                                                                                                                     | All contractor benefits, plus:<br>- **[IRA account and retirement contributions](retirement-accounts)**<br>- **[$3000 / 3 year depreciating tech stipend](home-office-reimbursements)**<br>- **[$200 / year last mile reimbursements](irl-reimbursement) for visiting other members**<br>- **[1 hr paid time off / 52 work hours](paid-time-off)**<br>- **Member capital account based on co-op patronage**<br>- **[Up to six months unpaid time off with adequate notice](time-off-reduced-hours)** |
+| **Responsibilities** | Contractors are involved in everything except co-op governance decisions. They participate in all regular co-op meetings, including the financial check-ins and business teams after 3 months. Contractors can take as much time off as they want so long as they are considering the technical membership eligibility requirement of 500 hours over the course of six months and the social, unwritten requirement of not randomly disappearing. | Member-employees wear many hats. Until we have enough members to determine a cap, all members become part of the Catalyst board. Both members and board members have a say in co-op governance issues and are expected to act in the interest of the co-op. Members are expected to participate in meetings and engage in the technical and business aspects of the co-op.                                                                                                                           |
 
 ### Understanding Catalyst’s Finances
 
@@ -97,7 +97,7 @@ When you’re first getting started, we’ll reach out to you about completing t
 - Sign the Contractor Agreement
 - Send Zane your W-9 / I-9 forms as needed
 - Send Zane your direct deposit information for payments
-- Set up relevant accounts and familiarize yourself with our [project management tools](https://docs.google.com/document/d/1EkKfdW0Q1AIGexCflZMpw-4HuH1fJ-cdpi3ziancmlE/edit#heading=h.yeh6v1ee9ind) (reach out to Zane for assistance)
+- Set up relevant accounts and familiarize yourself with our [project management tools](#project-management) (reach out to Zane for assistance)
 - Schedule 30 minute one-on-one meetings with existing contractors/members to get to know each other
 - Review our most recent [grant proposal](https://drive.google.com/drive/u/1/folders/1E0Stqvik_Vo6akfYmPwWtmywUfiHul0z) to see what we’ll be working on in the near term
 - Review the [Catalyst Policy Handbook](policies)
@@ -122,10 +122,38 @@ Once the existing members have voted to offer you membership, it’s up to you t
 #### Accepting Membership
 
 - Sign the [Membership Agreement](https://drive.google.com/file/d/1tt4IXVwKi2Gj-L755AUZyu1QaVDRO8px/view?usp=sharing)
-- Purchase $1000 share, your initial capital contribution to the co-op, by sending Christina a check in the mail or using ACH
+- Purchase \$1000 share, your initial capital contribution to the co-op, by sending Christina a check in the mail or using ACH
   (for which there is a small fee).
 
 (security)=
+
+### Communications Channels
+
+- **[Slack](https://slack.com/):** We use Slack for day-to-day coordination tasks and ephemera. There are a couple quirks to how we use Slack:
+  - We have the free plan, so we lose all history past 90 days. Act accordingly. GitHub Discussions and Google Docs are more permanent.
+  - We have a lot of community members in public channels, so we also have private channels for more team-internal stuff.
+- **Gmail:** Our primary use of Gmail is communication with external entities. That’s to say: newsletters, client updates, users, etc. If you have questions for Catalyst folks, use Slack or GitHub.
+- **Google Calendar:** We schedule all our meetings through Google calendar. For certain clients we have had to make exceptions (ex: Outlook), but for the most part we sync everything through Google.
+- **[Google Meet](https://apps.google.com/meet/):** We use Google Meet for all video calls. Each meeting should have a link to a google meet room in the invite. Sometimes clients will opt for other video conferencing tools like Zoom, but all Catalyst-run meetings use Google Meet.
+- **[Google Drive](https://drive.google.com/drive/u/1/folders/1NNqELmmRykvJNSP3dWquN_URCJC1vZ7t):** All of our organizational documentation lives in Google Drive. Bylaws, notes, protocols, contracts, etc. It’s all in the drive. Everything you’ll need is either in the Catalyst Team (shared with contractors and members) or Catalyst Members (shared with members) folders. Take a look around to get a feeling for where certain types of documents are stored.
+- **[GitHub](https://github.com/catalyst-cooperative)**: We use lots of GitHub communication features:
+  - GitHub issues to track ongoing and planned work. Because issues are our sole means of tracking tasks, we often add non-technical (or non-code related) issues to the workflow.
+
+  - Issues are organized in [GitHub Project](https://github.com/orgs/catalyst-cooperative/projects/9/views/1).
+
+  - For persistent and public discussion we use [GitHub Discussions](https://github.com/orgs/catalyst-cooperative/discussions).
+
+  - **[Pull Requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests):** We coordinate code changes with pull requests (PRs). Some guidelines:
+
+    - Almost all PRs should be made against `dev`
+    - Make draft PRs early! This lets everyone discuss the direction the code is going, reducing the amount of future backtracking.
+    - Try to keep PRs small (\<300) lines - that makes them much easier to review
+    - There's a template that's meant as a guide for you to fill out. Feel free to delete parts you're not using.
+
+### Admin Tools
+
+- **[Gusto](http://gusto.com/):** We use Gusto for payroll. After you make an account and we set up your monthly payments, you won’t have to interact with it much. Gusto is where you will find important tax documents, accumulated PTO, and information about other benefits like the health stipend.
+- **[Harvest](https://catalystcooperative.harvestapp.com/):** We use Harvest for time tracking. You can either download the desktop app or use the online version. Learn how we track time in our [Time Tracking Overview](time_tracking) .
 
 ### Security
 
@@ -134,24 +162,59 @@ Once the existing members have voted to offer you membership, it’s up to you t
 - **Use 2FA when possible, especially for accounts used for backup credential recovery.** 2FA or “Two Factor Authentication” requires you to use something beyond a username and password to authenticate your account. This could be a time-based code, access to a specific phone or laptop, or a hardware token. This makes phishing accounts much more difficult, and reduces the consequences of password breaches. /Catalyst requires use of 2FA for GitHub and Gmail account access.
 - **Consider using a VPN.** VPNs keep your location and other valuable information secure and inaccessible by unwanted parties. It is [highly recommended](https://www.fortinet.com/resources/cyberglossary/benefits-of-vpn) you use a VPN when working on a public network (WiFi without a password) because anyone can observe internet traffic on a public network. VPNs resolve this issue by encrypting your internet traffic. Note that the VPN operator will still be able to view your network traffic, so it’s important to choose a privacy and security oriented VPN provider, preferably one that regularly submits to an open, independent, 3rd party audit. Some Catalyst members use [Mullvad VPN](https://mullvad.net/en/) and [SurfShark](https://surfshark.com/). The Swiss [ProtonVPN](https://protonvpn.com/) is another good option.
 
+(project-management)=
+
 ## Project Management
 
-### Tools
+We don't prescribe how each team should organize its work. However, we expect each team to:
 
-- **[Slack](https://slack.com/):** We use slack to communicate day-to-day internal tasks with one another. Be sure to check out all of the channels (including the fun ones)! You’ll definitely want to check slack at least once a day for updates or keep it open in case someone wants to get in touch with you. Note that you’re never “required” to be online, but it is useful to have this real-time means of communication on hand.
-- **Gmail:** Our primary use of Gmail is communication with external entities. That’s to say: newsletters, client updates, users, etc. If you have questions for Catalyst folks, save them for slack.
-- **Google Calendar:** We schedule all our meetings through Google calendar. For certain clients we have had to make exceptions (ex: Outlook), but for the most part we sync everything through Google.
-- **[Google Meet](https://apps.google.com/meet/):** We use Google Meet for all video calls. Each meeting should have a link to a google meet room in the invite. Sometimes clients will opt for other video conferencing tools like Zoom, but all Catalyst-run meetings use Google Meet.
-- **[Google Drive](https://drive.google.com/drive/u/1/folders/1NNqELmmRykvJNSP3dWquN_URCJC1vZ7t):** All of our organizational documentation lives in Google Drive. Bylaws, notes, protocols, contracts, etc. It’s all in the drive. Everything you’ll need is either in the Catalyst Team (shared with contractors and members) or Catalyst Members (shared with members) folders. Take a look around to get a feeling for where certain types of documents are stored.
-- **[Gusto](http://gusto.com/):** We use Gusto for payroll. After you make an account and we set up your monthly payments, you won’t have to interact with it much. Gusto is where you will find important tax documents, accumulated PTO, and information about other benefits like the health stipend.
-- **[Harvest](https://catalystcooperative.harvestapp.com/):** We use Harvest for time tracking. You can either download the desktop app or use the online version. Learn how we track time in our [Time Tracking Overview](time_tracking) .
-- **[GitHub](https://github.com/catalyst-cooperative)**: We use GitHub issues and Epics to track ongoing and planned work. Because issues and epics are our sole means of tracking tasks, we often add non-technical (or non-code related) issues to the workflow. We have a business repo intended for admin related tasks. We also encourage people to make issues such as “scope X problem…” or “Phase 1 design…” so that larger problems get broken down into manageable chunks.
-- **[GitHub Pull Requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests):** We like to use pull requests as a form of code transparency. Sometimes you’ll be working on a project in a new branch by yourself and the prospect of doing a mega pull request gets more and more daunting (for you and the reviewers) the more you add. When you start a new branch, make a draft pull request to the dev branch that you can push to frequently. This way people can see your progress/make comments before you’ve gone too far in one direction. These PRs may never get merged, but they allow you to ask questions within the context of your code (i.e., you don’t have to message someone with large code chunks copied).
-- **[ZenHub](https://app.zenhub.com/workspaces/pudl-5d893559a6e4070001252409/board?repos=80646423,210421263,296720428):** ZenHub is a project management extension for GitHub. We use it to organize and group our GitHub issues and epics into meaningful, trackable project chunks. Each team (see below) has their own ZenHub board where they move relevant issues through a series of custom “pipelines” or columns that indicate the status of a given issue or epic. ZenHub also has a number of meta project management tools like roadmaps and burndown charts that we are trying to get better about using.
+- know what they plan on getting done for two weeks and why
+- write that down in GitHub Issues that are organized into a view on the all-encompassing [GitHub Project](https://github.com/orgs/catalyst-cooperative/projects/9/views/1).
 
-### Frameworks
+This acts as a common interface for communicating between teams.
 
-- **[Agile Scrum Sprints](https://www.atlassian.com/agile/scrum)** to structure our workflow. Our sprint periods are two weeks long.
+### Inframundo process
+
+Inframundo fulfills the above requirements with three meetings per 2-week sprint: sprint planning, mid-sprint checkin, and sprint review - agendas below.
+
+In addition to those requirements, we also set high level goals for each sprint that we use to help us prioritize work.
+
+Our project board is [here](https://github.com/orgs/catalyst-cooperative/projects/9/views/6).
+
+#### Sprint kickoff
+
+First day of each sprint.
+
+- Look at incomplete tickets from last sprint. If they're relevant to this sprint's goals, roll them over. If not, remove them from sprints entirely.
+- Pull issues in from the backlog.
+- Identify issues that need additional clarity in scoping.
+- Does this work seem like too much? If so, what can we cut?
+
+#### Sprint check-in
+
+Second Monday of the sprint.
+
+- Make sure our board state is correct.
+- Review this sprint's goals and whether we need to adjust our work to hit them.
+- Is there anything spiraling out of control? Can we get it back under control somehow?
+
+#### Sprint review
+
+Last Thursday of the sprint.
+
+- Make sure our board state is correct.
+- Which goals did we achieve?
+- What is our availability next sprint?
+- What should our goal(s) be for next sprint? Aim for 1-3.
+- Do we need to add new issues to our backlog related to those goals?
+
+#### Issue guidelines
+
+We try to make sure our issues have the following information before we work on them:
+
+- A description of what problem they're solving.
+- A list of success criteria - what things will be true when this ticket is done?
+- Any additional context from preliminary investigation / ideas for next steps.
 
 ### [Teams](https://drive.google.com/drive/folders/1NNqELmmRykvJNSP3dWquN_URCJC1vZ7t)
 
@@ -222,17 +285,6 @@ All meetings have pre-designated facilitators and note-takers that are specified
 
 - Monday stand-up calls are followed by a run through of the action items listed in the PUDL Huddle doc. Action items are created throughout the week in various meetings and serve as a central gathering point and reminder of key commitments people have made (ex: following up with potential clients, scheduling meetings, researching new topics, etc.) Anyone can add an action item to the list at any time. Action items are reminders, not meeting topics, if you want to remember to “discuss design for X” you should create an action item about scheduling a meeting to talk about that topic with relevant people. Or, you can create an agenda item for the weekly meeting (see below).
 - After running through the action items, we open the floor to discuss anything else relevant to the whole team. If you want to talk about something specific, add it to something to the agenda in the PUDL Huddle document under the appropriately titled meeting header (Ex: Weekly Meeting YYYY-MM-DD). If there isn’t one yet, feel free to make one. Sometimes there are no agenda items in which case we’ll end the meeting early.
-
-(sprint-planning-review)=
-
-#### Bi-weekly Sprint Planning / Review – Team Specific (30 min - 1 hour)
-
-**Attendees**: Team members
-\*\*Notes:\*\*See notes documents specific to each team: [Work Teams](https://drive.google.com/open?id=1CHbOJU6W3r3DE2LEQqbcfdme5DK-qufz)
-
-- Sprints are Catalyst’s most granular work-planning timeframe. Each sprint lasts two-weeks, starts with a sprint planning meeting and ends with a sprint review. Each team will host their own sprint planning and review meetings, but all teams will follow the same sprint timeline. Each teams’ sprint meetings are hosted at different times so that anyone can attend relevant team meetings without conflict.
-- **Sprint planning** meetings occur every other Monday. During these meetings, each team scopes which issues we will address in a given sprint. Issues are usually made and tentatively assigned to a sprint beforehand. We usually review the ZenHub Roadmap function to assess our priorities.
-- **Sprint review** meetings occur every other Thursday (two weeks after sprint planning). During these sessions, each team catalogs what we were able to accomplish during the sprint, what went well, what was difficult, and anything unexpected. We usually review the ZenHub Roadmap function to assess our progress.
 
 (business-team-meetings)=
 
@@ -315,7 +367,7 @@ All meetings have pre-designated facilitators and note-takers that are specified
 
 - [Time Tracking Overview](time_tracking)
 - Taxes
-- IRAs and $$ in general
+- IRAs and \$\$ in general
 - Host a feedback session
 - Know whether you can take time off
 - Use Zenhub for sprint review/planning

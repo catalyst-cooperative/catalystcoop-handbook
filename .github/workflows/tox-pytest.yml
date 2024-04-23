@@ -1,32 +1,27 @@
+---
 name: tox-pytest
 
-on: [push, pull_request]
+on: [pull_request]
 
 jobs:
   ci-test:
     runs-on: ubuntu-latest
-    strategy:
-      matrix:
-        python-version: ["3.10"]
-      fail-fast: false
+    defaults:
+      run:
+        shell: bash -l {0}
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
           fetch-depth: 2
 
-      - name: Set up conda environment for testing
-        uses: conda-incubator/setup-miniconda@v2.2.0
+      - name: Install conda-lock environment with micromamba
+        uses: mamba-org/setup-micromamba@v1
         with:
-          miniforge-variant: Mambaforge
-          miniforge-version: latest
-          use-mamba: true
-          mamba-version: "*"
-          channels: conda-forge,defaults
-          channel-priority: true
-          python-version: ${{ matrix.python-version }}
-          activate-environment: handbook
           environment-file: environment.yml
-      - shell: bash -l {0}
+          environment-name: handbook
+          cache-environment: true
+
+      - name: Record environment
         run: |
           conda info
           conda list
@@ -36,10 +31,10 @@ jobs:
 
       - name: Run PyTest with Tox
         run: |
-          conda run -n handbook tox
+          tox
 
       - name: Upload test coverage report to CodeCov
-        uses: codecov/codecov-action@v3.1.1
+        uses: codecov/codecov-action@v4
 
   ci-notify:
     runs-on: ubuntu-latest
@@ -48,6 +43,7 @@ jobs:
     steps:
       - name: Inform the Codemonkeys
         uses: 8398a7/action-slack@v3
+        continue-on-error: true
         with:
           status: custom
           fields: workflow,job,commit,repo,ref,author,took

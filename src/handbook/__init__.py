@@ -5,7 +5,6 @@ import pkg_resources
 
 # In order for the package modules to be available when you import the package,
 # they need to be imported here somehow. Not sure if this is best practice though.
-import handbook.cli
 import handbook.dummy  # noqa: F401
 
 __author__ = "Catalyst Cooperative"
