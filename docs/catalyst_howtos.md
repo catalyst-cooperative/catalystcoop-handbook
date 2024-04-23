@@ -21,6 +21,7 @@ When you start a new time entry there are three pieces of information you’ll n
 | Financial Check-in       | Admin                | Financial Reporting       |
 | Biz Dev Check-in         | Business Development | Project Management        |
 | Board Meeting            | Governance           | Board Meeting             |
+
 ### Choosing Projects
 
 Projects are grouped by the particular client, grant, or internal work they pertain to. Headers such as _RMI, Sloan, or Internal,_ will precede a list of related projects you can choose from in a drop down menu. Whenever we take on new projects we add them to Harvest.
