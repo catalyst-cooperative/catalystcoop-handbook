@@ -12,7 +12,7 @@ import datetime
 import shutil
 from pathlib import Path
 
-import pkg_resources
+import importlib
 from sphinx.application import Sphinx
 
 DOCS_DIR = Path(__file__).parent.resolve()
@@ -20,11 +20,11 @@ DOCS_DIR = Path(__file__).parent.resolve()
 # -- Path setup --------------------------------------------------------------
 # We are building and installing the pudl package in order to get access to
 # the distribution metadata, including an automatically generated version
-# number via pkg_resources.get_distribution() so we need more than just an
+# number via importlib.metadata.version() so we need more than just an
 # importable path.
 
 # The full version, including alpha/beta/rc tags
-release = pkg_resources.get_distribution("catalystcoop.handbook").version
+release = importlib.metadata.version("catalystcoop.handbook")
 
 # -- Project information -----------------------------------------------------
 
