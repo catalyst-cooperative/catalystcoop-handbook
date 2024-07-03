@@ -71,6 +71,33 @@ Members and contractors should consider the following rules when considering tak
 - To be eligible for the monthly healthcare stipend, members must have worked a rolling 1000 hours over the past 12 months (pro-rated for those that have been with the co-op for less than a year).
 - Members and contractors are encouraged and expected to keep their team members informed and update their calendar regularly to reflect their availability.
 
+### Extended Unpaid Health Leave Policy
+
+A member may take up to 12 weeks of unpaid health related leave for any of the following reasons:
+
+- For the birth and care of the newborn child of a member;
+- For placement with the member of a child for adoption or foster care;
+- To care for an immediate family member (i.e., spouse, child, or parent) with a serious health condition; or
+- To take medical leave when the member is unable to work because of a serious health condition.
+
+The member seeking unpaid health leave must notify the Board (<board@catalyst.coop>) as soon as possible. The notification certification should include:
+
+- The dates the member is taking unpaid health leave
+- Cite one of the four allowable reasons for taking unpaid health leave
+- A plan for redistributing work responsibilities
+
+The Board does not need to approve this initial notification.
+
+In general, when a member knows about the need for the leave in advance, they must give at least 30 days advance notice if it is possible and practical to do so. For example, if an employee is scheduled for surgery in two months, their need for leave is foreseeable and they should give at least 30 days advance notice. Members are expected to communicate with their teams regarding the viability of their absence beforehand.
+
+The minimum amount of unpaid health related leave a member can request is 1 week. For every working day (excluding US federal holidays) a member is on unpaid health related leave, their annual hours requirement will be reduced by 4 hours.
+The Admin team (<admin@catalyst.coop>) must receive and approve a certification from a health care provider by the end of the member’s unpaid health leave  for their annual hours requirement to be reduced. Please use these FMLA forms or the analogous forms in your country:
+
+- [Certification of Health Care Provider for Employee’s Serious Health Condition](https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/WH-380-E.pdf)
+- [Certification of Health Care Provider for Family Member’s Serious Health Condition](https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/WH-380-F.pdf)
+
+The member is not required to provide a certification for leave to bond with a newborn child or a child placed for adoption or foster care.
+
 ## Benefits
 
 (paid-time-off)=
