@@ -44,7 +44,7 @@ Categorizing hours worked on internal projects can be a little harder than clien
 - **New Cat Member Search:** Any work related to finding new coop members/contractors. This includes all outreach, job descriptions, interviews, applicant review.
 - **Onboarding \[NAME\]:** We specific onboarding projects for each new teammate. These are for both the new teammate and the existing members to bill for helping a specific newbie get up and running, and conducting 3 and 6 month check-ins. New members should bill to the onboarding category that includes their name.
 - **Project Management:** When paired with the “sprint management” task, this project is used for our bi-weekly sprint planning and sprint recap meetings. Otherwise, it is used for other efforts such as discussing our use of GitHub or other project management tools.
-- **PUDL Huddle:** Get it?! it rhymes. This is for our standup calls.
+- **PUDL Huddle:** Get it?! it rhymes. This is for our standup calls. Also, use this project for catching up on emails and Slack messages. If a message requires additional action, start a new timer with the appropriate Harvest category.
 
 ### Choosing Tasks
 
@@ -68,7 +68,7 @@ The **Notes** field is used to populate work descriptions that are reviewed inte
 
 ### Tracking PTO
 
-You can find out how much PTO you have accrued by logging in to your gusto account and clicking on the “Time Off” menu option. If you want to use your PTO, email Ben and let him know the specifics. Make sure to contact him about applying PTO in or before the month you want to receive it.
+You can find out how much PTO you have accrued by logging in to your gusto account and clicking on the “Time Off” menu option. If you want to use your PTO, add a note to your row in the [Timesheet Review Google sheet](https://docs.google.com/spreadsheets/d/1j1kMzV9MGUqf8TBYlBZDaC98qL4zuApN0S4yLcpuaGQ/edit?gid=0#gid=0&fvid=1827452121).
 
 ### Insights from Catalyst Time
 
