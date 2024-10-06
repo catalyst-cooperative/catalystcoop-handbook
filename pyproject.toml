@@ -16,7 +16,7 @@ dependencies = [
     "mdformat>=0.7.17,<1",
     "mdformat-myst>=0.1.5,<1",
     "myst-parser>=1,<5",
-    "pre-commit>=3,<4",  # Allow us to run pre-commit hooks in testing
+    "pre-commit>=4,<5",  # Allow us to run pre-commit hooks in testing
     "pydocstyle>=6,<7",  # Style guidelines for Python documentation
     "sphinx>6,<9",  # The default Python documentation engine
     "sphinx-autoapi>=3,<4",  # Generates documentation from docstrings

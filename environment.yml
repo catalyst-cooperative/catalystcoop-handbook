@@ -4,7 +4,7 @@ channels:
   - conda-forge
 dependencies:
   # Packages required for setting up the environment
-  - pip>=21
+  - pip>=24
   - python>=3.12,<3.13
 
   # Use pip to install the package defined by this repo for development:
