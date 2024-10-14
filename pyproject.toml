@@ -20,7 +20,7 @@ dependencies = [
     "pydocstyle>=6,<7",  # Style guidelines for Python documentation
     "sphinx>6,<9",  # The default Python documentation engine
     "sphinx-autoapi>=3,<4",  # Generates documentation from docstrings
-    "sphinx-issues>=4,<5",  # Allows references to GitHub issues
+    "sphinx-issues>=4,<6",  # Allows references to GitHub issues
     "tox>=4,<5",  # Python test environment manager
 ]
 classifiers=[
