@@ -76,11 +76,11 @@ For simplicity’s sake (and because there are currently no contractor-members),
 |                      | **Contractors**                                                                                                                                                                                                                                                                                                                                                                                                                                   | **Employee-Members**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Paperwork**        | - **Sign contractor agreement**                                                                                                                                                                                                                                                                                                                                                                                                                   | - **Buy \$1000 membership share**<br>- **Sign membership agreement**                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| **Meetings**         | - [M/W/Th stand-ups](mwth-stand-up-meetings-15-20-min)<br>- [Monday action-items](weekly-check-in--action-items-10-30-min)<br>- [Quarterly advisory committee meetings](quarterly-advisory-committee-meeting-1-hours)<br>- [Business team meetings](business-team-meetings)<br>- [3 and 6 month feedback](contractor-feedback-meeting)<br>- [Financial check-in](monthly-financial-check-ins) (after 3 months)                                    | - All contractor meetings, plus:<br>- [Annual or Special Member Meeting](member-meetings)<br>- [Board Meeting](weekly-board-meetings) (until 10+ members)<br>- [Certain feedback meetings for contractors](contractor-feedback-meeting)<br>- [Certain Feedback meetings for members](annual-member-feedback)                                                                                                                                                                                         |
+| **Meetings**         | - [M/W/Th stand-ups](mwth-stand-up-meetings-15-20-min)<br>- [Monday action-items](weekly-check-in--action-items-10-30-min)<br>- [Quarterly advisory committee meetings](quarterly-advisory-committee-meeting-1-hours)<br>- [Internal team meetings](internal-team-meetings)<br>- [Work team sprint meetings](work-team-meetings)<br>- [3 and 6 month feedback](contractor-feedback-meeting)<br>- [Financial check-in](monthly-financial-check-ins) (after 3 months)                                    | - All contractor meetings, plus:<br>- [Annual or Special Member Meeting](member-meetings)<br>- [Board Meeting](weekly-board-meetings) (until 10+ members)<br>- [Certain feedback meetings for contractors](contractor-feedback-meeting)<br>- [Certain Feedback meetings for members](annual-member-feedback)                                                                                                                                                                                         |
 | **Compensation**     | - [\$39.56](wages) / hour (to account for payroll tax discrepancy)                                                                                                                                                                                                                                                                                                                                                                                | - [\$36.75](wages) / hour                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | **Time Commitment**  | - **[500 hours / six months](expected-hours)** to be considered eligible for membership                                                                                                                                                                                                                                                                                                                                                           | - **[1000 hours / year](expected-hours)** to retain membership status                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | **Benefits**         | - [\$150 healthcare stipend](health-care)<br>                                                                                                                                                                                                                                                                                                                                                                                                     | All contractor benefits, plus:<br>- **[IRA account and retirement contributions](retirement-accounts)**<br>- **[$3000 / 3 year depreciating tech stipend](home-office-reimbursements)**<br>- **[$200 / year last mile reimbursements](irl-reimbursement) for visiting other members**<br>- **[1 hr paid time off / 52 work hours](paid-time-off)**<br>- **Member capital account based on co-op patronage**<br>- **[Up to six months unpaid time off with adequate notice](time-off-reduced-hours)** |
-| **Responsibilities** | Contractors are involved in everything except co-op governance decisions. They participate in all regular co-op meetings, including the financial check-ins and business teams after 3 months. Contractors can take as much time off as they want so long as they are considering the technical membership eligibility requirement of 500 hours over the course of six months and the social, unwritten requirement of not randomly disappearing. | Member-employees wear many hats. Until we have enough members to determine a cap, all members become part of the Catalyst board. Both members and board members have a say in co-op governance issues and are expected to act in the interest of the co-op. Members are expected to participate in meetings and engage in the technical and business aspects of the co-op.                                                                                                                           |
+| **Responsibilities** | Contractors are involved in everything except co-op governance decisions. They participate in all regular co-op meetings, including the financial check-ins and internal teams after 3 months. Contractors can take as much time off as they want so long as they are considering the technical membership eligibility requirement of 500 hours over the course of six months and the social, unwritten requirement of not randomly disappearing. | Member-employees wear many hats. Until we have enough members to determine a cap, all members become part of the Catalyst board. Both members and board members have a say in co-op governance issues and are expected to act in the interest of the co-op. Members are expected to participate in meetings and engage in the technical and business aspects of the co-op.                                                                                                                           |
 
 ### Understanding Catalyst’s Finances
 
@@ -105,7 +105,7 @@ When you’re first getting started, we’ll reach out to you about completing t
 #### Technical Setup
 
 - Read the PUDL [documentation](https://catalystcoop-pudl.readthedocs.io/en/latest/)
-- Ensure proper [security protocols](security) are in place.
+- Ensure proper [security protocols](security) are in place
 - Set up PUDL development environment
 - Run PUDL ETL locally
 
@@ -149,11 +149,14 @@ Once the existing members have voted to offer you membership, it’s up to you t
     - Make draft PRs early! This lets everyone discuss the direction the code is going, reducing the amount of future backtracking.
     - Try to keep PRs small (\<300) lines - that makes them much easier to review
     - There's a template that's meant as a guide for you to fill out. Feel free to delete parts you're not using.
+- **[HubSpot](https://app.hubspot.com/settings/46666115/user-preferences/profile)**: This is our CRM tool. We use this to track interactions with
+users and clients as well as schedule meetings or track outreach campaigns.
+
 
 ### Admin Tools
 
 - **[Gusto](http://gusto.com/):** We use Gusto for payroll. After you make an account and we set up your monthly payments, you won’t have to interact with it much. Gusto is where you will find important tax documents, accumulated PTO, and information about other benefits like the health stipend.
-- **[Harvest](https://catalystcooperative.harvestapp.com/):** We use Harvest for time tracking. You can either download the desktop app or use the online version. Learn how we track time in our [Time Tracking Overview](time_tracking) .
+- **[Harvest](https://catalystcooperative.harvestapp.com/):** We use Harvest for time tracking. You can either download the desktop app or use the online version. Learn how we track time in our [Time Tracking Overview](time_tracking).
 
 ### Security
 
@@ -173,17 +176,11 @@ We don't prescribe how each team should organize its work. However, we expect ea
 
 This acts as a common interface for communicating between teams.
 
-### Inframundo process
-
-Inframundo fulfills the above requirements with three meetings per 2-week sprint: sprint planning, mid-sprint checkin, and sprint review - agendas below.
-
-In addition to those requirements, we also set high level goals for each sprint that we use to help us prioritize work.
-
-Our project board is [here](https://github.com/orgs/catalyst-cooperative/projects/9/views/6).
+(sprint-planning)=
 
 #### Sprint kickoff
 
-First day of each sprint.
+First Monday of each sprint.
 
 - Look at incomplete tickets from last sprint. If they're relevant to this sprint's goals, roll them over. If not, remove them from sprints entirely.
 - Pull issues in from the backlog.
@@ -198,16 +195,6 @@ Second Monday of the sprint.
 - Review this sprint's goals and whether we need to adjust our work to hit them.
 - Is there anything spiraling out of control? Can we get it back under control somehow?
 
-#### Sprint review
-
-Last Thursday of the sprint.
-
-- Make sure our board state is correct.
-- Which goals did we achieve?
-- What is our availability next sprint?
-- What should our goal(s) be for next sprint? Aim for 1-3.
-- Do we need to add new issues to our backlog related to those goals?
-
 #### Issue guidelines
 
 We try to make sure our issues have the following information before we work on them:
@@ -215,13 +202,20 @@ We try to make sure our issues have the following information before we work on 
 - A description of what problem they're solving.
 - A list of success criteria - what things will be true when this ticket is done?
 - Any additional context from preliminary investigation / ideas for next steps.
+- A description of what is relevant but out of scope for this issue.
+- An indication of urgency.
+- An indication of difficulty.
+- An indication of scale.
+- Links to any other relevant issues.
 
 ### [Teams](https://drive.google.com/drive/folders/1NNqELmmRykvJNSP3dWquN_URCJC1vZ7t)
 
 A “Team” is a pre-defined group of Catalyst contractors and/or employees that meets on a regular basis to discuss and work on distinct Catalyst needs. Each Team is responsible for addressing a specific and related suite of topics outlined in a Teams Template. Teams are split into two categories:
 
-- [**Work Teams**](https://drive.google.com/drive/folders/1CHbOJU6W3r3DE2LEQqbcfdme5DK-qufz): based around the work of a particular client or grant and only exist so long as the client remains a client or the grant remains active.
-- [**Business Teams**](https://drive.google.com/drive/folders/1KuF1sJGQMWmODpD5LhnWVN61Ymbmg9xR): serve ongoing co-op needs.
+- [**Work Teams**](https://drive.google.com/drive/folders/1CHbOJU6W3r3DE2LEQqbcfdme5DK-qufz): based around the work of client, grant, or internal technical projects. Right now there are two work
+teams that handle grant and client work and one work team that
+handles PUDL-specific infrastructure work.
+- [**Internal Teams**](https://drive.google.com/drive/folders/1KuF1sJGQMWmODpD5LhnWVN61Ymbmg9xR): serve ongoing co-op needs.
 
 Teams may be asked to perform research or create proposals based on the outcome of conversations in PUDL Huddle or Board meetings. Teams will have their own slack channels. Any Catalyst member can join any of the teams’ slack channels so that they can post inquiries or ask favors of specific teams. Teams do not have a maximum or minimum number of members. Teams may have only one member or be composed of everyone in the organization (though neither is recommended).
 
@@ -229,19 +223,17 @@ All co-op activities are in the domain of a particular team.
 
 #### Current Work Teams
 
-- **RMI**
-- **Inframundo** (Sloan)
-- **DBCP**: Down Ballot Climate Project
-- **WEIB**: Western Interstate Energy Board
-- **CCAI**: Climate Change AI
+- **Caracal** ([project board](https://github.com/orgs/catalyst-cooperative/projects/9/views/6))
+- **Margay** ([project board](https://github.com/orgs/catalyst-cooperative/projects/9/views/24))
+- **Inframundo** ([project board](https://github.com/orgs/catalyst-cooperative/projects/9/views/22)) 
 
-#### Business Teams
+#### Internal Teams
 
 - **Admin**
 - **Internal Management**
 - **Community Development**
 - **Grant Development**
-- **Client Development**
+- **Business Development**
 - **Hiring & New Employee Management**
 
 ## Meetings
@@ -262,7 +254,7 @@ All meetings have pre-designated facilitators and note-takers that are specified
 ### Notes
 
 - All teams have a centralized notes document that comes with the teams folder template. This is where you will store agendas and take notes during the meeting.
-- Most agendas have a **Meeting Notes** and an **Action Items** section where note-takers will record information. Notetakers are also responsible for moving action items up to the **Running Action Items** list at the top of the document as well as removing completed items.
+- Most agendas have a **Meeting Notes** and an **Action Items** section where note-takers will record information. Notetakers are also responsible for moving action items up to the **Running Action Items** list at the top of the document as well as removing completed items. Sometimes Notetakers are expected to summarize **Key Takeaways** of the meeting as well.
 
 ### Recurring Meetings
 
@@ -286,12 +278,22 @@ All meetings have pre-designated facilitators and note-takers that are specified
 - Monday stand-up calls are followed by a run through of the action items listed in the PUDL Huddle doc. Action items are created throughout the week in various meetings and serve as a central gathering point and reminder of key commitments people have made (ex: following up with potential clients, scheduling meetings, researching new topics, etc.) Anyone can add an action item to the list at any time. Action items are reminders, not meeting topics, if you want to remember to “discuss design for X” you should create an action item about scheduling a meeting to talk about that topic with relevant people. Or, you can create an agenda item for the weekly meeting (see below).
 - After running through the action items, we open the floor to discuss anything else relevant to the whole team. If you want to talk about something specific, add it to something to the agenda in the PUDL Huddle document under the appropriately titled meeting header (Ex: Weekly Meeting YYYY-MM-DD). If there isn’t one yet, feel free to make one. Sometimes there are no agenda items in which case we’ll end the meeting early.
 
-(business-team-meetings)=
+(work-team-meetings)=
 
-#### Business Team Meetings - Team Specific (time and occurrence differs)
+#### Weekly Sprint Meetings - Team Specific
 
 **Attendees**: Team members
-**Notes:** See notes documents for specific teams: [Business Teams](https://drive.google.com/open?id=1KuF1sJGQMWmODpD5LhnWVN61Ymbmg9xR)
+**Notes:** See notes documents for specific teams: [Work Teams](https://drive.google.com/drive/folders/1CHbOJU6W3r3DE2LEQqbcfdme5DK-qufz)
+
+- Work teams usually meet twice a sprint (once a week). First to plan the sprint and second to check-in half way through. See 
+[above](sprint-planning) for more detail on these meetings.
+
+(internal-team-meetings)=
+
+#### Internal Team Meetings - Team Specific (time and occurrence differs)
+
+**Attendees**: Team members
+**Notes:** See notes documents for specific teams: [Internal Teams](https://drive.google.com/open?id=1KuF1sJGQMWmODpD5LhnWVN61Ymbmg9xR)
 
 - Catalyst organizes internal tasks into a series of teams that meet on a semi-regular basis (defined in the [Teams Index](https://docs.google.com/document/u/0/d/1B9wzU3IuNlJbqG-4XpcpJnIpXhq8IRzf6m4lJnxXVvo/edit)) to discuss and execute issues related to their domain. Refer to the Teams Index for a list of the current teams, their responsibilities, and how often they meet.
 
@@ -370,5 +372,4 @@ All meetings have pre-designated facilitators and note-takers that are specified
 - IRAs and \$\$ in general
 - Host a feedback session
 - Know whether you can take time off
-- Use Zenhub for sprint review/planning
 - Set up your text editor / linters / extensions
