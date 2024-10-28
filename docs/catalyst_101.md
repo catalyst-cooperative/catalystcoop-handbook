@@ -5,7 +5,7 @@
 These links are referenced throughout the document and will be explained in more detail below. These may be useful to bookmark in your browser.
 
 - [Catalyst Policy Handbook](policies) (Catalyst policies and benefits)
-- [PUDL Huddle: Check in call notes](https://docs.google.com/document/u/0/d/1GxVfHg3NjJEbQV3YMVTeHbd_AppdxQC2QGbp_CVZFeo/edit) (Notes for weekly check-ins and one-off calls)
+- [PUDL Huddle: Check in call notes](https://docs.google.com/document/d/1i4-TEYeQ68F3lN_pm_frSG8_xnoVMcbmQnA9A8ZoRJc/edit?tab=t.0#heading=h.dwm42538uzaf) (Notes for weekly check-ins and one-off calls)
 - [Governance Notes](https://docs.google.com/document/u/0/d/1m5m1gbFFYRpaWkKTFIvTSZ14HJT_jfGNDjneCNUP_ZI/edit) (Member access only notes for board meetings)
 - [Time Tracking Overview](time_tracking) (Explanation of how to track time)
 - [Meeting Facilitator and Notetaker Schedule](https://docs.google.com/spreadsheets/u/0/d/1GdDb4GpZvRv4-cs_yP4jVyWIPiMhVFPDz5kDJ3cpioc/edit) (Schedule for who facilitates or takes notes for certain meetings)
