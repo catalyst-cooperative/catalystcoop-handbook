@@ -177,7 +177,7 @@ This acts as a common interface for communicating between teams.
 
 (sprint-planning)=
 
-#### Sprint kickoff
+### Sprint kickoff
 
 First Monday of each sprint.
 
@@ -186,15 +186,15 @@ First Monday of each sprint.
 - Identify issues that need additional clarity in scoping.
 - Does this work seem like too much? If so, what can we cut?
 
-#### Sprint check-in
+### Sprint check-in
 
 Second Monday of the sprint.
 
-- Make sure our board state is correct.
+- Make sure our GitHub board reflects what is actually happening.
 - Review this sprint's goals and whether we need to adjust our work to hit them.
 - Is there anything spiraling out of control? Can we get it back under control somehow?
 
-#### Issue guidelines
+### Issue guidelines
 
 We try to make sure our issues have the following information before we work on them:
 
@@ -211,10 +211,10 @@ We try to make sure our issues have the following information before we work on 
 
 A “Team” is a pre-defined group of Catalyst contractors and/or employees that meets on a regular basis to discuss and work on distinct Catalyst needs. Each Team is responsible for addressing a specific and related suite of topics outlined in a Teams Template. Teams are split into two categories:
 
-- [**Work Teams**](https://drive.google.com/drive/folders/1CHbOJU6W3r3DE2LEQqbcfdme5DK-qufz): based around the work of client, grant, or internal technical projects. Right now there are two work
-  teams that handle grant and client work and one work team that
-  handles PUDL-specific infrastructure work.
-- [**Internal Teams**](https://drive.google.com/drive/folders/1KuF1sJGQMWmODpD5LhnWVN61Ymbmg9xR): serve ongoing co-op needs.
+- [**Work Teams**](https://drive.google.com/drive/folders/1CHbOJU6W3r3DE2LEQqbcfdme5DK-qufz): Delegated tasks relating to the work of client  grant, or internal technical projects. Right now there are two work
+teams that handle grant and client work and one work team that
+handles PUDL-specific infrastructure work.
+- [**Internal Teams**](https://drive.google.com/drive/folders/1KuF1sJGQMWmODpD5LhnWVN61Ymbmg9xR): Serve ongoing, non-technical co-op needs.
 
 Teams may be asked to perform research or create proposals based on the outcome of conversations in PUDL Huddle or Board meetings. Teams will have their own slack channels. Any Catalyst member can join any of the teams’ slack channels so that they can post inquiries or ask favors of specific teams. Teams do not have a maximum or minimum number of members. Teams may have only one member or be composed of everyone in the organization (though neither is recommended).
 
@@ -228,12 +228,14 @@ All co-op activities are in the domain of a particular team.
 
 #### Internal Teams
 
-- **Admin**
-- **Internal Management**
-- **Community Development**
-- **Grant Development**
-- **Business Development**
-- **Hiring & New Employee Management**
+- **Admin**: Run taxes, invoicing, payroll.
+- **Internal Management**: Curate PM tools and processes, track internal capacity, HR, documentation of processes.
+- **Community Development**: Build community around PUDL development and data use. Improve user experience, communicate our mission to the world, and interact with users and contributors. 
+- **Grant Development**: Identify grant opportunities that are relevant to PUDL and
+Catalyst.
+- **Business Development**: Identify opportunities and develop new relationships that lead to revenue-generating, mission-aligned client projects. Maintain relationships with existing clients.
+- **Hiring & New Employee Management**: Ad hoc team for hiring and onboarding new
+contractors or members.
 
 ## Meetings
 
