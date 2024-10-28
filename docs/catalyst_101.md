@@ -137,15 +137,16 @@ Once the existing members have voted to offer you membership, it’s up to you t
 - **[Google Meet](https://apps.google.com/meet/):** We use Google Meet for all video calls. Each meeting should have a link to a google meet room in the invite. Sometimes clients will opt for other video conferencing tools like Zoom, but all Catalyst-run meetings use Google Meet.
 - **[Google Drive](https://drive.google.com/drive/u/1/folders/1NNqELmmRykvJNSP3dWquN_URCJC1vZ7t):** All of our organizational documentation lives in Google Drive. Bylaws, notes, protocols, contracts, etc. It’s all in the drive. Everything you’ll need is either in the Catalyst Team (shared with contractors and members) or Catalyst Members (shared with members) folders. Take a look around to get a feeling for where certain types of documents are stored.
 - **[GitHub](https://github.com/catalyst-cooperative)**: We use lots of GitHub communication features:
-  - GitHub issues to track ongoing and planned work. Because issues are our sole means of tracking tasks, we often add non-technical (or non-code related) issues to the workflow.
+  - GitHub issues to track ongoing and planned work. Because issues are our sole means of tracking tasks, we may add non-technical (or non-code related) issues to the workflow.
 
-  - Issues are organized in [GitHub Project](https://github.com/orgs/catalyst-cooperative/projects/9/views/1).
+  - Issues are organized in [GitHub Project](https://github.com/orgs/catalyst-cooperative/projects/9/views/1). There are different boards
+  for tracking issues related to each team.
 
   - For persistent and public discussion we use [GitHub Discussions](https://github.com/orgs/catalyst-cooperative/discussions).
 
   - **[Pull Requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests):** We coordinate code changes with pull requests (PRs). Some guidelines:
 
-    - Almost all PRs should be made against `dev`
+    - Almost all PRs should be made against `main`
     - Make draft PRs early! This lets everyone discuss the direction the code is going, reducing the amount of future backtracking.
     - Try to keep PRs small (\<300) lines - that makes them much easier to review
     - There's a template that's meant as a guide for you to fill out. Feel free to delete parts you're not using.
