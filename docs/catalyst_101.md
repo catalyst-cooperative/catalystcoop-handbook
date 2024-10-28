@@ -5,15 +5,15 @@
 These links are referenced throughout the document and will be explained in more detail below. These may be useful to bookmark in your browser.
 
 - [Catalyst Policy Handbook](policies) (Catalyst policies and benefits)
-- [PUDL Huddle: Check in call notes](https://docs.google.com/document/d/1i4-TEYeQ68F3lN_pm_frSG8_xnoVMcbmQnA9A8ZoRJc/edit?tab=t.0#heading=h.dwm42538uzaf) (Notes for weekly check-ins and one-off calls)
-- [Governance Notes](https://docs.google.com/document/u/0/d/1m5m1gbFFYRpaWkKTFIvTSZ14HJT_jfGNDjneCNUP_ZI/edit) (Member access only notes for board meetings)
+- [PUDL Huddle: Check in call notes](https://docs.google.com/document/d/1i4-TEYeQ68F3lN_pm_frSG8_xnoVMcbmQnA9A8ZoRJc/edit?tab=t.0#heading=h.dwm42538uzaf) (Notes for weekly check-ins and one-off calls - *private Catalyst link*)
+- [Governance Notes](https://docs.google.com/document/u/0/d/1m5m1gbFFYRpaWkKTFIvTSZ14HJT_jfGNDjneCNUP_ZI/edit) (Member access only notes for board meetings - *private Catalyst link*)
 - [Time Tracking Overview](time_tracking) (Explanation of how to track time)
-- [Meeting Facilitator and Notetaker Schedule](https://docs.google.com/spreadsheets/u/0/d/1GdDb4GpZvRv4-cs_yP4jVyWIPiMhVFPDz5kDJ3cpioc/edit) (Schedule for who facilitates or takes notes for certain meetings)
-- [Monthly Financial Reports](https://docs.google.com/spreadsheets/u/0/d/1PqpBh1aFiBmW4jE2FmYC37i7OEN0FHNNx7yYkcri3NQ/edit) (Catalyst financial stats)
-- [Harvest Time Tracking Data](https://docs.google.com/spreadsheets/u/0/d/19vyQE2sT_uqC8a--6_TODWApk84RZXYTznRkViPkJDs/edit) (Catalyst hours stats)
-- [Generic Google Meet](https://meet.google.com/uxe-wtmr-pmt) (Link used for all stand-up or random one-off calls)
-- [Teams Index](https://docs.google.com/document/u/0/d/1B9wzU3IuNlJbqG-4XpcpJnIpXhq8IRzf6m4lJnxXVvo/edit) (Explanation of all teams)
-- [Teams](https://drive.google.com/open?id=1lykzDoCNtfi_UzYXaMKSeY5wIW7L3ktH) (Folder where all team info and notes are)
+- [Meeting Facilitator and Notetaker Schedule](https://docs.google.com/spreadsheets/u/0/d/1GdDb4GpZvRv4-cs_yP4jVyWIPiMhVFPDz5kDJ3cpioc/edit) (Schedule for who facilitates or takes notes for certain meetings - *private Catalyst link*)
+- [Monthly Financial Reports](https://docs.google.com/spreadsheets/u/0/d/1PqpBh1aFiBmW4jE2FmYC37i7OEN0FHNNx7yYkcri3NQ/edit) (Catalyst financial stats - *private Catalyst link*)
+- [Harvest Time Tracking Data](https://docs.google.com/spreadsheets/u/0/d/19vyQE2sT_uqC8a--6_TODWApk84RZXYTznRkViPkJDs/edit) (Catalyst hours stats - *private Catalyst link*)
+- [Generic Google Meet](https://meet.google.com/uxe-wtmr-pmt) (Link used for all stand-up or random one-off calls *private Catalyst link*)
+- [Teams Index](https://docs.google.com/document/u/0/d/1B9wzU3IuNlJbqG-4XpcpJnIpXhq8IRzf6m4lJnxXVvo/edit) (Detailed explanation of all teams - *private Catalyst link*)
+- [Teams](https://drive.google.com/open?id=1lykzDoCNtfi_UzYXaMKSeY5wIW7L3ktH) (Folder where all team info and notes are - *private Catalyst link*)
 
 ## Getting to know Catalyst
 
