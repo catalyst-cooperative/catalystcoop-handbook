@@ -303,13 +303,6 @@ All meetings have pre-designated facilitators and note-takers that are specified
 
 (quarterly-advisory-committee-meeting-1-hours)=
 
-#### Quarterly Advisory Committee Meeting (1+ hours)
-
-**Attendees**: Contractors & Members
-**Notes:** [Advisory Committee](https://drive.google.com/open?id=1f7y2csPj4rtJJoYJW05kwHyY7-sD_5Fb)
-
-- Every Quarter Catalyst holds an Advisory Committee (AC) meeting during which we seek direction and feedback from the [members of our AC](https://catalyst.coop/advisory-board/) . The AC is composed of individuals that span the tech and environmental sectors. We generally seek information about funding opportunities and share work updates.
-
 (member-meetings)=
 
 #### Member Meetings
