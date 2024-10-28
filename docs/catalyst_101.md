@@ -76,7 +76,7 @@ For simplicity’s sake (and because there are currently no contractor-members),
 |                      | **Contractors**                                                                                                                                                                                                                                                                                                                                                                                                                                                     | **Employee-Members**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Paperwork**        | - **Sign contractor agreement**                                                                                                                                                                                                                                                                                                                                                                                                                                     | - **Buy \$1000 membership share**<br>- **Sign membership agreement**                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| **Meetings**         | - [M/W/Th stand-ups](mwth-stand-up-meetings-15-20-min)<br>- [Monday action-items](weekly-check-in--action-items-10-30-min)<br>- [Quarterly advisory committee meetings](quarterly-advisory-committee-meeting-1-hours)<br>- [Desired internal team meetings](internal-team-meetings)<br>- [Work team sprint meetings](work-team-meetings)<br>- [3 and 6 month feedback](contractor-feedback-meeting)<br>- [Financial check-in](monthly-financial-check-ins) (after 3 months) | - All contractor meetings, plus:<br>- [Annual or special member meeting](member-meetings)<br>- [Board meeting](weekly-board-meetings) (until 10+ members)<br>- [Select feedback meetings for contractors](contractor-feedback-meeting)<br>- [Select feedback meetings for members](annual-member-feedback)                                                                                                                                                                                         |
+| **Meetings**         | - [M/W/Th stand-ups](mwth-stand-up-meetings-15-20-min)<br>- [Monday action-items](weekly-check-in--action-items-10-30-min)<br>- [Quarterly advisory committee meetings](quarterly-advisory-committee-meeting-1-hours)<br>- [Work team sprint meetings](work-team-meetings)<br>- [3 and 6 month feedback](contractor-feedback-meeting)<br>- [Financial check-in](monthly-financial-check-ins) (after 3 months) | - All contractor meetings, plus:<br>- [Desired internal team meetings](internal-team-meetings)<br>- [Annual or special member meeting](member-meetings)<br>- [Board meeting](weekly-board-meetings) (until 10+ members)<br>- [Select feedback meetings for contractors](contractor-feedback-meeting)<br>- [Select feedback meetings for members](annual-member-feedback)<br>- [Monthly member check-ins](monthly-member-check-ins)                                                                                                                                                                                         |
 | **Compensation**     | - [\$39.56](wages) / hour (to account for payroll tax discrepancy)                                                                                                                                                                                                                                                                                                                                                                                                  | - [\$36.75](wages) / hour                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | **Time Commitment**  | - **[500 hours / six months](expected-hours)** to be considered eligible for membership                                                                                                                                                                                                                                                                                                                                                                             | - **[1000 hours / year](expected-hours)** to retain membership status                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | **Benefits**         | - [\$150 healthcare stipend](health-care)<br>                                                                                                                                                                                                                                                                                                                                                                                                                       | All contractor benefits, plus:<br>- **[IRA account and retirement contributions](retirement-accounts)**<br>- **[$3000 / 3 year depreciating tech stipend](home-office-reimbursements)**<br>- **[$200 / year last mile reimbursements](irl-reimbursement) for visiting other members**<br>- **[1 hr paid time off / 52 work hours](paid-time-off)**<br>- **Member capital account based on co-op patronage**<br>- **[Up to six months unpaid time off with adequate notice](time-off-reduced-hours)** |
@@ -227,6 +227,8 @@ All co-op activities are in the domain of a particular team.
 - **Margay** ([project board](https://github.com/orgs/catalyst-cooperative/projects/9/views/24))
 - **Inframundo** ([project board](https://github.com/orgs/catalyst-cooperative/projects/9/views/6))
 
+(internal-teams)=
+
 #### Internal Teams
 
 - **Admin**: Run taxes, invoicing, payroll.
@@ -274,7 +276,7 @@ All meetings have pre-designated facilitators and note-takers that are specified
 
 #### Weekly Check-in & Action-items (10-30 min)
 
-**Attendees**: Contractors & Members
+**Attendees**: Contractors & Members.
 **Notes:** [PUDL Huddle: Check in call notes](https://docs.google.com/document/u/0/d/1GxVfHg3NjJEbQV3YMVTeHbd_AppdxQC2QGbp_CVZFeo/edit)
 
 - Monday stand-up calls are followed by a run through of the action items listed in the PUDL Huddle doc. Action items are created throughout the week in various meetings and serve as a central gathering point and reminder of key commitments people have made (ex: following up with potential clients, scheduling meetings, researching new topics, etc.) Anyone can add an action item to the list at any time. Action items are reminders, not meeting topics, if you want to remember to “discuss design for X” you should create an action item about scheduling a meeting to talk about that topic with relevant people. Or, you can create an agenda item for the weekly meeting (see below).
@@ -284,7 +286,7 @@ All meetings have pre-designated facilitators and note-takers that are specified
 
 #### Weekly Sprint Meetings - Team Specific
 
-**Attendees**: Team members
+**Attendees**: Team members.
 **Notes:** See notes documents for specific teams: [work teams](https://drive.google.com/drive/folders/1CHbOJU6W3r3DE2LEQqbcfdme5DK-qufz)
 
 - Work teams usually meet twice a sprint (once a week). First to plan the sprint and second to check-in half way through. See
@@ -295,11 +297,10 @@ All meetings have pre-designated facilitators and note-takers that are specified
 
 #### Internal Team Meetings - Team Specific (time and occurrence differs)
 
-**Attendees**: Team members
+**Attendees**: Team members.
 **Notes:** See notes documents for specific teams: [Internal teams](https://drive.google.com/open?id=1KuF1sJGQMWmODpD5LhnWVN61Ymbmg9xR)
 
-- Catalyst organizes internal tasks into a series of teams that meet on a semi-regular basis (defined in the [Teams Index](https://docs.google.com/document/u/0/d/1B9wzU3IuNlJbqG-4XpcpJnIpXhq8IRzf6m4lJnxXVvo/edit)) to discuss and execute issues related to their domain. Refer to the Teams Index for a list of the current teams, their responsibilities, and how often they meet.
-
+- Catalyst organizes internal tasks into a series of teams that meet on a semi-regular basis to discuss and execute issues related to their domain. See [above](internal-teams) for a breif description, or refer to the [Teams Index](https://docs.google.com/document/u/0/d/1B9wzU3IuNlJbqG-4XpcpJnIpXhq8IRzf6m4lJnxXVvo/edit) for a list of current teams, their responsibilities, and how often they meet.
 - Teams are not mandatory, but contractors are encouraged and members are expected to participate in at least one.
 
 (quarterly-advisory-committee-meeting-1-hours)=
@@ -308,7 +309,7 @@ All meetings have pre-designated facilitators and note-takers that are specified
 
 #### Member Meetings
 
-**Attendees**: Members only
+**Attendees**: Members only.
 **Notes:** [Governance Notes](https://docs.google.com/document/u/0/d/1m5m1gbFFYRpaWkKTFIvTSZ14HJT_jfGNDjneCNUP_ZI/edit)
 
 - Member meetings are called to address a set of issues specified in the bylaws that affect the cooperative on such a fundamental level that they require the consent of the entire membership (as opposed to solely the Board of Directors, in a world where they are different). These decisions include the admission of new members, changes to the governing documents, and the election of the Board of Directors and Officers.
@@ -317,7 +318,7 @@ All meetings have pre-designated facilitators and note-takers that are specified
 
 #### Weekly Board Meetings (30 min)
 
-**Attendees**: Board members only
+**Attendees**: Board members only.
 **Notes:** [Governance Notes](https://docs.google.com/document/u/0/d/1m5m1gbFFYRpaWkKTFIvTSZ14HJT_jfGNDjneCNUP_ZI/edit)
 
 - Until we have more than 10 members, the Board of Directors is made up of all of the members. Board meetings are the venue where decisions about the strategic direction and regular operation of the cooperative are made. Any member of the board can go in and add agenda items.
@@ -327,32 +328,40 @@ All meetings have pre-designated facilitators and note-takers that are specified
 
 #### 3 and 6-month Contractor Feedback (two 1 hour blocks)
 
-**Attendees:** Members and contractor being reviewed
+**Attendees:** Members and contractor being reviewed.
 **Notes:** [Feedback for Contractor](https://drive.google.com/open?id=1IVZ6sgM7NkMG09o4pVwcUf5bVz5PUVrD)
 
 - Catalyst contractors will participate in a 3-month check-in and a 6-month check-in after which the members will vote on whether to invite them to become a member of the co-op.
-
 - These check-ins are preceded by written feedback from the contractor about Catalyst and the members about the contractor pursuant to a form distributed a week before the feedback session. The first hour block is dedicated to co-op feedback for the contractor while the second hour block is dedicated to the contractor’s feedback for the co-op. These meetings may be back to back or scheduled separately a few days or hours apart.
 
 (annual-member-feedback)=
 
 #### Annual Member Feedback (two 1 hour blocks)
 
-**Attendees:** Appointed members and member being reviewed (reviewee)
+**Attendees:** Appointed members and member being reviewed (reviewee).
 **Notes:** [Member Feedback](https://drive.google.com/open?id=1zsKiLe1hgV3vuPOxuQZ7JljkRpj-PSOq)
 
 - Catalyst members participate in annual check-ins where they have the opportunity to review the co-op as well as be reviewed by other members.
-
 - These check-ins are preceded by written feedback from the reviewee about Catalyst and the other members about the reviewee pursuant to a form distributed a week before the feedback session. The first hour block is dedicated to co-op feedback for the reviewee while the second hour block is dedicated to the reviewee’s feedback for the co-op. These meetings may be back to back or scheduled separately a few days or hours apart.
+
+(monthly-member-check-ins)=
+
+#### Monthly Member Check-ins (30 min)
+
+**Attendees:** Member and check-in facilitator.
+**Notes:** Notes are private and only shared with the member and meeting facilitator.
+
+- Catalyst members participate in monthly check-in calls where they
+touch base on their annual goals and general feelings. These calls are intended to provide members with an outlet for expressing excitement or concern about anything going on.
 
 (monthly-financial-check-ins)=
 
 #### Monthly Financial Check-ins
 
-**Attendees:** Members and contractors after 3 month feedback
+**Attendees:** Members and contractors after 3 month feedback.
 **Notes:** [Monthly Financial Reports](https://docs.google.com/spreadsheets/u/0/d/1PqpBh1aFiBmW4jE2FmYC37i7OEN0FHNNx7yYkcri3NQ/edit) [Cat Hours Tracker](https://docs.google.com/spreadsheets/u/0/d/19vyQE2sT_uqC8a--6_TODWApk84RZXYTznRkViPkJDs/edit)
 
-- Every month the Internal Management team will host a financial check-in meeting where they will present on the financial status and well being of the coop.
+- Every month the Internal Management team will host a financial check-in meeting where they will present on the financial status and well-being of the coop.
 
 ## Catalyst How-To’s
 
