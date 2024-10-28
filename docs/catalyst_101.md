@@ -328,14 +328,6 @@ All meetings have pre-designated facilitators and note-takers that are specified
 
 - Until we have more than 10 members, the Board of Directors is made up of all of the members. Board meetings are the venue where decisions about the strategic direction and regular operation of the cooperative are made. Any member of the board can go in and add agenda items.
 
-#### Weekly Refi Call (1 hour)
-
-**Attendees:** Appointed person(s) or volunteer(s)
-**Notes:** n/a
-
-- Catalyst participates in weekly Fossil Fuel Refinance Project calls. These calls are a consortium of energy policy folks working on refinancing strategies to close coal plants and other fossil fuel-driven generation assets. Usually one-two Catalyst members join these calls.
-- For the call, you’ll need to solicit updates from the Catalyst team in order to communicate our weekly progress to the refinance team; coordinating collaboration with the refinance team; and taking notes on relevant updates from the call to convey to the Catalyst team.
-
 (contractor-feedback-meeting)=
 
 #### 3 and 6-month Contractor Feedback (two 1 hour blocks)
