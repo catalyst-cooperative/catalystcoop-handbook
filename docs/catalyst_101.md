@@ -289,6 +289,7 @@ All meetings have pre-designated facilitators and note-takers that are specified
 
 - Work teams usually meet twice a sprint (once a week). First to plan the sprint and second to check-in half way through. See
   [above](sprint-planning) for more detail on these meetings.
+- These meetings will consult the GitHub boards specific to each team.
 
 (internal-team-meetings)=
 
