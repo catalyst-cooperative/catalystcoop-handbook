@@ -320,7 +320,7 @@ All meetings have pre-designated facilitators and note-takers that are specified
 **Notes:** [Governance Notes](https://docs.google.com/document/u/0/d/1m5m1gbFFYRpaWkKTFIvTSZ14HJT_jfGNDjneCNUP_ZI/edit)
 
 - Until we have more than 10 members, the Board of Directors is made up of all of the members. Board meetings are the venue where decisions about the strategic direction and regular operation of the cooperative are made. Any member of the board can go in and add agenda items.
-- Board meetings may be cancled if there is nothing on the agenda.
+- Board meetings may be canceled if there is nothing on the agenda.
 
 (contractor-feedback-meeting)=
 
