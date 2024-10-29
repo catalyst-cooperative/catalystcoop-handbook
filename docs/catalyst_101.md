@@ -303,7 +303,6 @@ All meetings have pre-designated facilitators and note-takers that are specified
 - Catalyst organizes internal tasks into a series of teams that meet on a semi-regular basis to discuss and execute issues related to their domain. See [above](internal-teams) for a brief description, or refer to the [Teams Index](https://docs.google.com/document/u/0/d/1B9wzU3IuNlJbqG-4XpcpJnIpXhq8IRzf6m4lJnxXVvo/edit) for a list of current teams, their responsibilities, and how often they meet.
 - Teams are not mandatory, but contractors are encouraged and members are expected to participate in at least one.
 
-(quarterly-advisory-committee-meeting-1-hours)=
 
 (member-meetings)=
 
