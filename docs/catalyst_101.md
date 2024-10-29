@@ -350,7 +350,7 @@ All meetings have pre-designated facilitators and note-takers that are specified
 **Notes:** Notes are private and only shared with the member and meeting facilitator.
 
 - Catalyst members participate in monthly check-in calls where they
-  touch base on their annual goals and general feelings. These calls are intended to provide members with an outlet for expressing excitement or concern about anything going on.
+  touch base on their annual goals and general feelings. These calls are intended to help members keep track of their goals and make sure they are supported in achieving them.
 
 (monthly-financial-check-ins)=
 
