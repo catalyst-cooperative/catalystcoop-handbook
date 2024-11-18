@@ -91,7 +91,7 @@ The Board does not need to approve this initial notification.
 In general, when a member knows about the need for the leave in advance, they must give at least 30 days advance notice if it is possible and practical to do so. For example, if an employee is scheduled for surgery in two months, their need for leave is foreseeable and they should give at least 30 days advance notice. Members are expected to communicate with their teams regarding the viability of their absence beforehand.
 
 The minimum amount of unpaid health related leave a member can request is 1 week. For every working day (excluding US federal holidays) a member is on unpaid health related leave, their annual hours requirement will be reduced by 4 hours.
-The Admin team (<admin@catalyst.coop>) must receive and approve a certification from a health care provider by the end of the member’s unpaid health leave  for their annual hours requirement to be reduced. Please use these FMLA forms or the analogous forms in your country:
+The Admin team (<admin@catalyst.coop>) must receive and approve a certification from a health care provider by the end of the member’s unpaid health leave for their annual hours requirement to be reduced. Please use these FMLA forms or the analogous forms in your country:
 
 - [Certification of Health Care Provider for Employee’s Serious Health Condition](https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/WH-380-E.pdf)
 - [Certification of Health Care Provider for Family Member’s Serious Health Condition](https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/WH-380-F.pdf)

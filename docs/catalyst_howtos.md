@@ -17,7 +17,7 @@ When you start a new time entry there are three pieces of information you’ll n
 | Stand-up                 | PUDL Huddle          | PUDL Huddle               |
 | Weekly Check-in          | PUDL Huddle          | PUDL Huddle               |
 | Sprint Review / Planning | Project Management   | Caracal/Inframundo/Margay |
-| 3 and 6-month check-in   | Onboarding \[NAME\]  | Check-in call             |
+| 3 and 6-month check-in   | Onboarding [NAME]    | Check-in call             |
 | Financial Check-in       | Admin                | Financial Reporting       |
 | Biz Dev Check-in         | Business Development | Project Management        |
 | Board Meeting            | Governance           | Board Meeting             |

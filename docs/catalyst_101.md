@@ -212,7 +212,7 @@ We try to make sure our issues have the following information before we work on 
 
 A “Team” is a pre-defined group of Catalyst contractors and/or employees that meets on a regular basis to discuss and work on distinct Catalyst needs. Each Team is responsible for addressing a specific and related suite of topics outlined in a Teams Template. Teams are split into two categories:
 
-- [**Work Teams**](https://drive.google.com/drive/folders/1CHbOJU6W3r3DE2LEQqbcfdme5DK-qufz): Delegated tasks relating to the work of client  grant, or internal technical projects. Right now there are two work
+- [**Work Teams**](https://drive.google.com/drive/folders/1CHbOJU6W3r3DE2LEQqbcfdme5DK-qufz): Delegated tasks relating to the work of client grant, or internal technical projects. Right now there are two work
   teams that handle grant and client work and one work team that
   handles PUDL-specific infrastructure work.
 - [**Internal Teams**](https://drive.google.com/drive/folders/1KuF1sJGQMWmODpD5LhnWVN61Ymbmg9xR): Serve ongoing, non-technical co-op needs.
