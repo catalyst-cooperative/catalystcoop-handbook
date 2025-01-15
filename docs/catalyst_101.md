@@ -47,7 +47,7 @@ Hold up. What _is_ a co-op? What makes it different from a non-profit or a regul
 
 **Read more about co-ops:**
 
-- [Co-op identity, values, and principals from the International Coop Alliance](https://www.ica.coop/en/cooperatives/cooperative-identity)
+- [Co-op identity, values, and principles from the International Coop Alliance](https://www.ica.coop/en/cooperatives/cooperative-identity)
 - [The difference between co-ops and other types of corporations from the National Cooperative Business Association](https://ncbaclusa.coop/blog/differences-between-cooperatives-and-corporations/#:~:text=While%20other%20types%20of%20corporations,Some%20cooperatives%20are%20employee%2Downed.)
 - [The legal definition and status of co-ops from Co-opLaw.org](https://www.co-oplaw.org/knowledge-base/what-are-cooperatives/)
 - [The history of worker co-ops from the Federation of Worker Cooperatives](https://institute.coop/what-worker-cooperative)
@@ -56,18 +56,18 @@ Hold up. What _is_ a co-op? What makes it different from a non-profit or a regul
 
 ### Catalyst’s Governing Documents
 
-Catalyst is a worker co-op registered in Colorado. This is because it was originally founded in Colorado, and [Colorado provides a favorable legal environment for co-ops](https://medium.com/fifty-by-fifty/colorado-the-delaware-of-cooperative-law-babedc9e88eb) .
+Catalyst is a worker co-op registered in Colorado. This is because it was originally founded in Colorado, and [Colorado provides a favorable legal environment for co-ops](https://medium.com/fifty-by-fifty/colorado-the-delaware-of-cooperative-law-babedc9e88eb).
 
-- [Articles of Incorporation](articles_of_incorporation): The document filed with the state of Colorado to create the cooperative. The Articles state the purpose of the cooperative and lays out its basic structure and powers. As an [Article 56 Colorado cooperative](https://www.co-oplaw.org/knowledge-base/colorado/) , the entity issues shares to the members it admits. These members have sole control over the cooperative.
-- [Bylaws](bylaws) Where the governance and execution powers of the cooperative are determined. Each section lays out the general procedures for operating the cooperative, including language governing the process for admitting and removing members, the mechanics of member meetings, the role and composition of the Board of Directors, decision-making thresholds, and the distribution of patronage and methods of internal capital accounting.
-- [Code of Conduct](https://github.com/catalyst-cooperative/pudl/blob/master/docs/CODE_OF_CONDUCT.md) : Community guidelines for working at Catalyst and contributing to PUDL.
-- [Policy Handbook:](policies) A manual explaining the rules, expectations, and benefits afforded to all co-op members and contractors. These policies are not related to governance, but rather pertain to topics like time-off, stipends, and expected or required hours contributions.
+- [Articles of Incorporation](articles_of_incorporation): The document filed with the state of Colorado to create the cooperative. The Articles state the purpose of the cooperative and lay out its basic structure and powers. As an [Article 56 Colorado cooperative](https://www.co-oplaw.org/knowledge-base/colorado/), the entity issues shares to the members it admits. These members have sole control over the cooperative.
+- [Bylaws](bylaws): Where the governance and execution powers of the cooperative are determined. Each section lays out the general procedures for operating the cooperative, including language governing the process for admitting and removing members, the mechanics of member meetings, the role and composition of the Board of Directors, decision-making thresholds, and the distribution of patronage and methods of internal capital accounting.
+- [Code of Conduct](https://github.com/catalyst-cooperative/pudl/blob/master/docs/CODE_OF_CONDUCT.md): Community guidelines for working at Catalyst and contributing to PUDL.
+- [Policy Handbook](policies): A manual explaining the rules, expectations, and benefits afforded to all co-op members and contractors. These policies are not related to governance, but rather pertain to topics like time-off, stipends, and expected or required hours contributions.
 
 ### Contractors vs. Employee-Members
 
 Catalyst’s work is carried out by both contractors and co-op employee-members. **New hires spend the first six months as contractors** during which time they will participate in three and six month check-in calls with members. At the end of the six month period, also referred to as the “candidacy period”, the members will vote on whether to invite the contractor to become a member of the co-op. Contractors must work a minimum of 500 hours during their six month candidacy in order to be eligible for membership. This is in line with our member minimum of 1000 hours per year to retain membership and equates to a little over 20 hours per week. Our intention is that, barring problems identified during the candidacy period or unforeseen financial hardship for the co-op, all member-track contractors will eventually become co-op members. Contractors are not meant to be in competition with each other for a limited number of membership slots.
 
-After taxes, contractors and members receive the same hourly rate. Employee-members receive additional benefits that contractors do not, including PTO, a share of company dividends, retirement contributions, reimbursements for tech or visiting other members, and they pay half of the payroll taxes that contractors pay (independent contractors have to pay employer and employee payroll taxes whereas Catalyst employees only have to pay employee payroll taxes). Members also attend additional meetings, take on additional administrative responsibilities, and generally play a larger role in determining the overall direction of the co-op (see table below).
+After taxes, contractors and members receive the same hourly rate. Employee-members receive additional benefits that contractors do not, including PTO, a share of company dividends, retirement contributions, and reimbursements for tech or visiting other members, and they pay half of the payroll taxes that contractors pay (independent contractors have to pay employer and employee payroll taxes whereas Catalyst employees only have to pay employee payroll taxes). Members also attend additional meetings, take on additional administrative responsibilities, and generally play a larger role in determining the overall direction of the co-op (see table below).
 
 **All co-op employees are co-op members, but not all co-op members are co-op employees**. That is to say, the vast majority of members are employed by Catalyst and are therefore eligible for employee-related benefits such as PTO, retirement contributions, and reduced payroll taxes. However, it is possible for the co-op to admit a contractor-member who is eligible for membership related benefits such as the dividends but not the employee benefits. This could be the case for an overseas contractor who becomes a member of the cooperative.
 
@@ -125,8 +125,6 @@ Once the existing members have voted to offer you membership, it’s up to you t
 - Purchase \$1000 share, your initial capital contribution to the co-op, by sending Christina a check in the mail or using ACH
   (for which there is a small fee).
 
-(security)=
-
 ### Communications Channels
 
 - **[Slack](https://slack.com/):** We use Slack for day-to-day coordination tasks and ephemera. There are a couple quirks to how we use Slack:
@@ -158,11 +156,13 @@ Once the existing members have voted to offer you membership, it’s up to you t
 - **[Gusto](http://gusto.com/):** We use Gusto for payroll. After you make an account and we set up your monthly payments, you won’t have to interact with it much. Gusto is where you will find important tax documents, accumulated PTO, and information about other benefits like the health stipend.
 - **[Harvest](https://catalystcooperative.harvestapp.com/):** We use Harvest for time tracking. You can either download the desktop app or use the online version. Learn how we track time in our [Time Tracking Overview](time_tracking).
 
+(security)=
+
 ### Security
 
 - **Make sure your OS and software is up to date.** This is a huge source of security issues globally. Security patches come out monthly or even more frequently. If your computer is compromised, Catalyst information and credentials will be vulnerable.
 - **Use strong, unique passwords generated and stored by a password manager.** Weak, common passwords will make your Catalyst accounts vulnerable to [password leaks](https://www.cnet.com/tech/services-and-software/password-managers-a-little-pain-for-a-lot-better-security-world-password-day/). [BitWarden](https://www.tomsguide.com/reviews/bitwarden) is a solid free and open source option though there are plenty of others to choose from. If you set up a password manager or already have one, make sure 2FA is enabled.
-- **Use 2FA when possible, especially for accounts used for backup credential recovery.** 2FA or “Two Factor Authentication” requires you to use something beyond a username and password to authenticate your account. This could be a time-based code, access to a specific phone or laptop, or a hardware token. This makes phishing accounts much more difficult, and reduces the consequences of password breaches. /Catalyst requires use of 2FA for GitHub and Gmail account access.
+- **Use 2FA when possible, especially for accounts used for backup credential recovery.** 2FA or “Two Factor Authentication” requires you to use something beyond a username and password to authenticate your account. This could be a time-based code, access to a specific phone or laptop, or a hardware token. This makes phishing accounts much more difficult, and reduces the consequences of password breaches. Catalyst requires use of 2FA for GitHub and Gmail account access.
 - **Consider using a VPN.** VPNs keep your location and other valuable information secure and inaccessible by unwanted parties. It is [highly recommended](https://www.fortinet.com/resources/cyberglossary/benefits-of-vpn) you use a VPN when working on a public network (WiFi without a password) because anyone can observe internet traffic on a public network. VPNs resolve this issue by encrypting your internet traffic. Note that the VPN operator will still be able to view your network traffic, so it’s important to choose a privacy and security oriented VPN provider, preferably one that regularly submits to an open, independent, 3rd party audit. Some Catalyst members use [Mullvad VPN](https://mullvad.net/en/) and [SurfShark](https://surfshark.com/). The Swiss [ProtonVPN](https://protonvpn.com/) is another good option.
 
 (project-management)=
@@ -246,7 +246,7 @@ Meetings without a google meet link will occur in our default meeting room: [htt
 
 ### Facilitation & Documentation
 
-All meetings have pre-designated facilitators and note-takers that are specified in the calendar event and in [Meeting Facilitator and Notetaker Schedule](https://docs.google.com/spreadsheets/u/0/d/1GdDb4GpZvRv4-cs_yP4jVyWIPiMhVFPDz5kDJ3cpioc/edit) . For assigned roles see the “Roles” tab, and for descriptions of each role see the “Responsibilities” tab.
+All meetings have pre-designated facilitators and note-takers that are specified in the calendar event and in [Meeting Facilitator and Notetaker Schedule](https://docs.google.com/spreadsheets/u/0/d/1GdDb4GpZvRv4-cs_yP4jVyWIPiMhVFPDz5kDJ3cpioc/edit). For assigned roles see the “Roles” tab, and for descriptions of each role see the “Responsibilities” tab.
 
 ### Agendas
 
@@ -276,17 +276,17 @@ All meetings have pre-designated facilitators and note-takers that are specified
 
 #### Weekly Check-in & Action-items (10-30 min)
 
-**Attendees**: Contractors & Members.
+**Attendees**: Contractors & Members
 **Notes:** [PUDL Huddle: Check in call notes](https://docs.google.com/document/u/0/d/1GxVfHg3NjJEbQV3YMVTeHbd_AppdxQC2QGbp_CVZFeo/edit)
 
-- Monday stand-up calls are followed by a run through of the action items listed in the PUDL Huddle doc. Action items are created throughout the week in various meetings and serve as a central gathering point and reminder of key commitments people have made (ex: following up with potential clients, scheduling meetings, researching new topics, etc.) Anyone can add an action item to the list at any time. Action items are reminders, not meeting topics, if you want to remember to “discuss design for X” you should create an action item about scheduling a meeting to talk about that topic with relevant people. Or, you can create an agenda item for the weekly meeting (see below).
+- Monday stand-up calls are followed by a run through of the action items listed in the PUDL Huddle doc. Action items are created throughout the week in various meetings and serve as a central gathering point and reminder of key commitments people have made (ex: following up with potential clients, scheduling meetings, researching new topics, etc.) Anyone can add an action item to the list at any time. Action items are reminders, not meeting topics, so if you want to remember to “discuss design for X” you should create an action item about scheduling a meeting to talk about that topic with relevant people. Or, you can create an agenda item for the weekly meeting (see below).
 - After running through the action items, we open the floor to discuss anything else relevant to the whole team. If you want to talk about something specific, add it to something to the agenda in the PUDL Huddle document under the appropriately titled meeting header (Ex: Weekly Meeting YYYY-MM-DD). If there isn’t one yet, feel free to make one. Sometimes there are no agenda items in which case we’ll end the meeting early.
 
 (work-team-meetings)=
 
 #### Weekly Sprint Meetings - Team Specific
 
-**Attendees**: Team members.
+**Attendees**: Team members
 **Notes:** See notes documents for specific teams: [work teams](https://drive.google.com/drive/folders/1CHbOJU6W3r3DE2LEQqbcfdme5DK-qufz)
 
 - Work teams usually meet twice a sprint (once a week). First to plan the sprint and second to check-in half way through. See
@@ -297,7 +297,7 @@ All meetings have pre-designated facilitators and note-takers that are specified
 
 #### Internal Team Meetings - Team Specific (time and occurrence differs)
 
-**Attendees**: Team members.
+**Attendees**: Team members
 **Notes:** See notes documents for specific teams: [Internal teams](https://drive.google.com/open?id=1KuF1sJGQMWmODpD5LhnWVN61Ymbmg9xR)
 
 - Catalyst organizes internal tasks into a series of teams that meet on a semi-regular basis to discuss and execute issues related to their domain. See [above](internal-teams) for a brief description, or refer to the [Teams Index](https://docs.google.com/document/u/0/d/1B9wzU3IuNlJbqG-4XpcpJnIpXhq8IRzf6m4lJnxXVvo/edit) for a list of current teams, their responsibilities, and how often they meet.
@@ -307,7 +307,7 @@ All meetings have pre-designated facilitators and note-takers that are specified
 
 #### Member Meetings
 
-**Attendees**: Members only.
+**Attendees**: Members only
 **Notes:** [Governance Notes](https://docs.google.com/document/u/0/d/1m5m1gbFFYRpaWkKTFIvTSZ14HJT_jfGNDjneCNUP_ZI/edit)
 
 - Member meetings are called to address a set of issues specified in the bylaws that affect the cooperative on such a fundamental level that they require the consent of the entire membership (as opposed to solely the Board of Directors, in a world where they are different). These decisions include the admission of new members, changes to the governing documents, and the election of the Board of Directors and Officers.
@@ -316,7 +316,7 @@ All meetings have pre-designated facilitators and note-takers that are specified
 
 #### Weekly Board Meetings (30 min)
 
-**Attendees**: Board members only.
+**Attendees**: Board members only
 **Notes:** [Governance Notes](https://docs.google.com/document/u/0/d/1m5m1gbFFYRpaWkKTFIvTSZ14HJT_jfGNDjneCNUP_ZI/edit)
 
 - Until we have more than 10 members, the Board of Directors is made up of all of the members. Board meetings are the venue where decisions about the strategic direction and regular operation of the cooperative are made. Any member of the board can go in and add agenda items.
@@ -326,7 +326,7 @@ All meetings have pre-designated facilitators and note-takers that are specified
 
 #### 3 and 6-month Contractor Feedback (two 1 hour blocks)
 
-**Attendees:** Members and contractor being reviewed.
+**Attendees:** Members and contractor being reviewed
 **Notes:** [Feedback for Contractor](https://drive.google.com/open?id=1IVZ6sgM7NkMG09o4pVwcUf5bVz5PUVrD)
 
 - Catalyst contractors will participate in a 3-month check-in and a 6-month check-in after which the members will vote on whether to invite them to become a member of the co-op.
@@ -336,7 +336,7 @@ All meetings have pre-designated facilitators and note-takers that are specified
 
 #### Annual Member Feedback (two 1 hour blocks)
 
-**Attendees:** Appointed members and member being reviewed (reviewee).
+**Attendees:** Appointed members and member being reviewed (reviewee)
 **Notes:** [Member Feedback](https://drive.google.com/open?id=1zsKiLe1hgV3vuPOxuQZ7JljkRpj-PSOq)
 
 - Catalyst members participate in annual check-ins where they have the opportunity to review the co-op as well as be reviewed by other members.
@@ -346,7 +346,7 @@ All meetings have pre-designated facilitators and note-takers that are specified
 
 #### Monthly Member Check-ins (30 min)
 
-**Attendees:** Member and check-in facilitator.
+**Attendees:** Member and check-in facilitator
 **Notes:** Notes are private and only shared with the member and meeting facilitator.
 
 - Catalyst members participate in monthly check-in calls where they
@@ -356,7 +356,7 @@ All meetings have pre-designated facilitators and note-takers that are specified
 
 #### Monthly Financial Check-ins
 
-**Attendees:** Members and contractors after 3 month feedback.
+**Attendees:** Members and contractors after 3 month feedback
 **Notes:** [Monthly Financial Reports](https://docs.google.com/spreadsheets/u/0/d/1PqpBh1aFiBmW4jE2FmYC37i7OEN0FHNNx7yYkcri3NQ/edit) [Cat Hours Tracker](https://docs.google.com/spreadsheets/u/0/d/19vyQE2sT_uqC8a--6_TODWApk84RZXYTznRkViPkJDs/edit)
 
 - Every month the Internal Management team will host a financial check-in meeting where they will present on the financial status and well-being of the coop.
