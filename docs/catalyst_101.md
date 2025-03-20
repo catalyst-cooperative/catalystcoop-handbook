@@ -109,6 +109,20 @@ When you’re first getting started, we’ll reach out to you about completing t
 - Set up PUDL development environment
 - Run PUDL ETL locally
 
+#### Bitwarden Setup
+
+We use [Bitwarden](https://bitwarden.com/) as our company password manager. This allows us to securely share login credentials and
+senstive information. A Catalyst Bitwarden admin will send an invite to your Catalyst email. It is recommended you pick a passphrase
+with atleast 5 words that is easy to remember for your main password. Bitwarden offers [some guidaince](https://bitwarden.com/blog/picking-the-right-password-for-your-password-manager/) and [tools](https://bitwarden.com/password-generator/#password-generator) on
+selecting strong main passwords.
+
+Once you are setup, the admin will need to verify your account's fingerprint phrase. To do this, visit [this page](https://vault.bitwarden.com/#/settings/account) and share your fingerprint with the admin. Then, the admin can add you to the relevant permission groups.
+
+A user has two vaults: My Vault and Catalyst Cooperative. My vault is for personal work related items that are not to be shared
+with other Catalyst cats. For example, your Google account or Elevations bill pay account. Items in the Catalyst Cooperative
+vault are shared items. The vault has multiple Collections of items like Admin, Inframundo and Socials. The admin will add you
+to the relevant collections.
+
 ### Members
 
 Once the existing members have voted to offer you membership, it’s up to you to decide whether to accept! Make sure to review the relevant governing documents and agreements so you know what to expect.
