@@ -50,6 +50,21 @@ extensions = [
 ]
 todo_include_todos = True
 
+myst_enable_extensions = [
+    "substitution",
+]
+
+myst_substitutions = {
+    "healthcare_stipend": 175,
+    "tech_stipend": 3400,
+    "cat_meetup_stipend": 230,
+    "solo401k_match": 0.15,
+    "solo401k_employee_max": 23_500,  # Update with info from this site: https://www.irs.gov/retirement-plans/one-participant-401k-plans
+    "solo401k_employee_max_over_50": 31_000,
+    "solo401k_total_max": 70_000,
+    "current_year": 2025,
+}
+
 # GitHub repo
 issues_github_path = "catalyst-cooperative/handbook"
 
