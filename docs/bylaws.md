@@ -240,6 +240,7 @@ Directors shall be elected by assigning a number of points to each candidate bas
 The vote of a majority of the directors in good standing and disinterested in the particular transaction to be voted upon, and present at a duly called and noticed meeting at which a quorum is present is the act of the Board of Directors.
 
 ### F. Notice of Board Meetings
+
 Regular Board of Directors meetings shall be electronically noticed to all directors by the Secretary of the Cooperative not less than ten days before the date of the meeting.
 
 Special meetings of the Board of Directors shall be held upon at least 48 hours’ notice delivered electronically to all directors by the Secretary of the Cooperative.
