@@ -291,7 +291,7 @@ So long as all Members constitute the Board of Directors, directors may not be r
 
 Any reduction of the authorized number of directors does not remove any director prior to the expiration of the director’s term of office.
 
-## Article V: Committees
+## Article VI: Committees
 
 The Board of Directors may, by resolution adopted by a majority of directors then in office, create one or more committees, each consisting of two or more directors, to serve at the pleasure of the Board of Directors. Appointments to such committees shall be by a majority vote of the directors then in office. The Board of Directors may appoint one or more directors as alternate members of any committee, who may replace any absent member at any meeting of the committee. Any such committee, to the extent provided in the resolution of the Board of Directors or in these Bylaws, shall have all the authority of the Board of Directors with respect to matters within the purview of the committee, except with respect to:
 
