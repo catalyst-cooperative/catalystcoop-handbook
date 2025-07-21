@@ -189,7 +189,7 @@ The Cooperative shall aim to pay out in cash to the Members all funds in excess 
 
 ### H. Unclaimed Equity Interests
 
-If permissible under Colorado law, any proprietary interest in the Cooperative held by a Member that would otherwise escheat to the State of Colorado as unclaimed personal property shall instead become the property of the Cooperative if the Cooperative follows Colorado law with respect to such transfer, including but not limited any requirements for notice to the affected Member. No property or funds shall become the property of the Cooperative under this section if written notice objecting to the transfer is received by the Cooperative from the affected Member prior to the date of the proposed transfer.
+If permissible under Colorado law, any proprietary interest in the Cooperative held by a Member that would otherwise escheat to the State of Colorado as unclaimed personal property shall instead become the property of the Cooperative if the Cooperative follows Colorado law with respect to such transfer, including but not limited to any requirements for notice to the affected Member. No property or funds shall become the property of the Cooperative under this section if written notice objecting to the transfer is received by the Cooperative from the affected Member prior to the date of the proposed transfer.
 
 ### I. Dissolution Distributions
 
