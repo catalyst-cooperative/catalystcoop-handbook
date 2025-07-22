@@ -21,7 +21,7 @@ repos:
         types_or: [yaml]
 
   - repo: https://github.com/executablebooks/mdformat
-    rev: 0.7.21 # Use the ref you want to point at
+    rev: 0.7.22 # Use the ref you want to point at
     hooks:
       - id: mdformat
         # Optionally add plugins
