@@ -34,7 +34,7 @@ Each **member** must work at least **1000 hours per calendar year** in order to 
 ### Notification Policy
 
 Notification of absence or reduced hours must be sent at least as far in advance from the date of absence as the absence is long. EX: eight days of vacation requires eight days of advance notice.
-For notifications requiring board permission: follow the instructions in [Member Time Off Request](https://docs.google.com/document/d/1nzaVzdXkwDmj9VqEh0vboRlbJo8-4Izs80K_0QuImJA/edit) to (1) email your request to the board and (2) set an agenda item to approve it. Those utilizying this policy are not required to provide an explanation for why they are taking time off or reducing their hours. Approval shall not be contingent on providing a justification for the request.
+For notifications requiring board permission: follow the instructions in [Member Time Off Request](https://docs.google.com/document/d/1nzaVzdXkwDmj9VqEh0vboRlbJo8-4Izs80K_0QuImJA/edit) to (1) email your request to the board and (2) set an agenda item to approve it. Those utilizing this policy are not required to provide an explanation for why they are taking time off or reducing their hours. Approval shall not be contingent on providing a justification for the request.
 
 - For absence less than a week: send a slack message to the team channel explaining when you will be gone, and tag @channel so that everyone is notified.
 - For absence greater than a week: send an email to everyone explaining when you will be gone and to what extent you can be contacted.
