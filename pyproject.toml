@@ -18,7 +18,7 @@ dependencies = [
     "myst-parser>=1,<5",
     "pre-commit>=4,<5",  # Allow us to run pre-commit hooks in testing
     "pydocstyle>=6,<7",  # Style guidelines for Python documentation
-    "sphinx>6,<9",  # The default Python documentation engine
+    "sphinx>6,<10",  # The default Python documentation engine
     "sphinx-autoapi>=3,<4",  # Generates documentation from docstrings
     "sphinx-issues>=4,<6",  # Allows references to GitHub issues
     "tox>=4,<5",  # Python test environment manager
