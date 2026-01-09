@@ -6,8 +6,8 @@
 
 **Provided to:** Members & Contractors
 
-Catalyst pays its employees **{{ "\${:,}".format(member_hourly_wage) }} / hour** and it's contractors
-**{{ "\${:,}".format(contractor_hourly_wage) }} / hour** to account for the payroll tax otherwise covered by the cooperative.
+Catalyst pays its employees **{{ "\${:,}".format(member_hourly_wage) }} / hour**.
+Contractors are paid **{{ "\${:,}".format(contractor_hourly_wage) }} / hour** to account for the payroll tax otherwise covered by the cooperative.
 After payroll taxes, this equates to the same amount.
 
 Catalyst employees are paid through a monthly payroll which is run monthly at the end of the first week of the month.
@@ -23,7 +23,9 @@ In line with our goal of allowing members time to pursue activities outside of w
 
 ### Annual Hours
 
-Each **member** must work at least **1000 hours per calendar year** in order to maintain their membership in the cooperative. This is equivalent to averaging 20 hours of work per week (or half of a normal 40 hr/week FTE). For new members who join the cooperative partway through the calendar year, this requirement will be prorated and applied only to the portion of the year during which they were working for the cooperative, including their 6 month candidacy period.
+Each **member** must work at least **1000 hours per calendar year** in order to maintain their membership in the cooperative.
+This is equivalent to averaging 20 hours of work per week (or half of a normal 40 hr/week FTE).
+For new members who join the cooperative partway through the calendar year, this requirement will be prorated and applied only to the portion of the year during which they were working for the cooperative, including their 6 month candidacy period.
 
 **Member-track contractors** must work **500 hours during a six month candidacy period** in order to be eligible for co-op membership.
 
@@ -54,17 +56,24 @@ Approval shall not be contingent on providing a justification for the request.
 
 **Requires Board Permission:**
 
-- Members seeking **more than two consecutive weeks** of time off must submit a written request to the Board in accordance with the notification policy. Those utilizing this time off policy are expected to communicate with their teams regarding the viability of their absence beforehand. Approval of leave will be contingent on the ability of the cooperative to continue operating as a viable economic entity.
+- Members seeking **more than two consecutive weeks** of time off must submit a written request to the Board in accordance with the notification policy.
+  Those utilizing this time off policy are expected to communicate with their teams regarding the viability of their absence beforehand.
+  Approval of leave will be contingent on the ability of the cooperative to continue operating as a viable economic entity.
 
 ### Reduced Hours: _Working >0 and \<20 hours per week for more than two weeks_
 
 **Requires Board Permission:**
 
-- Members seeking to work at a reduced rate for **more than two consecutive weeks** must submit a written request to the Board in accordance with the notification policy. Those utilizing this reduced hours policy are expected to communicate with their teams regarding the viability of their schedule shift beforehand. Once the request has been submitted, members should work together with their team to create a viable work plan. This may include reducing overhead like check-in meetings. Approval of the work plan will be contingent on the ability of the cooperative to continue operating as a viable economic entity.
+- Members seeking to work at a reduced rate for **more than two consecutive weeks** must submit a written request to the Board in accordance with the notification policy.
+  Those utilizing this reduced hours policy are expected to communicate with their teams regarding the viability of their schedule shift beforehand.
+  Once the request has been submitted, members should work together with their team to create a viable work plan.
+  This may include reducing overhead like check-in meetings.
+  Approval of the work plan will be contingent on the ability of the cooperative to continue operating as a viable economic entity.
 
 ### Missing Meetings
 
-Whether taking large chunks of time off or going to a doctor's appointment for a few hours, members and contractors are expected to communicate when they are going to be absent from meetings. This is best accomplished by rejecting calendar invites and notifying relevant parties on slack.
+Whether taking large chunks of time off or going to a doctor's appointment for a few hours, members and contractors are expected to communicate when they are going to be absent from meetings.
+This is best accomplished by rejecting calendar invites and notifying relevant parties on slack.
 
 A decision should be made regarding whether to reschedule or carry on with the meeting.
 
@@ -94,10 +103,14 @@ The member seeking unpaid health leave must notify the Board (<board@catalyst.co
 
 The Board does not need to approve this initial notification.
 
-In general, when a member knows about the need for the leave in advance, they must give at least 30 days advance notice if it is possible and practical to do so. For example, if an employee is scheduled for surgery in two months, their need for leave is foreseeable and they should give at least 30 days advance notice. Members are expected to communicate with their teams regarding the viability of their absence beforehand.
+In general, when a member knows about the need for the leave in advance, they must give at least 30 days advance notice if it is possible and practical to do so.
+For example, if an employee is scheduled for surgery in two months, their need for leave is foreseeable and they should give at least 30 days advance notice.
+Members are expected to communicate with their teams regarding the viability of their absence beforehand.
 
-The minimum amount of unpaid health related leave a member can request is 1 week. For every working day (excluding US federal holidays) a member is on unpaid health related leave, their annual hours requirement will be reduced by 4 hours.
-The Admin team (<admin@catalyst.coop>) must receive and approve a certification from a health care provider by the end of the member’s unpaid health leave for their annual hours requirement to be reduced. Please use these FMLA forms or the analogous forms in your country:
+The minimum amount of unpaid health related leave a member can request is 1 week.
+For every working day (excluding US federal holidays) a member is on unpaid health related leave, their annual hours requirement will be reduced by 4 hours.
+The Admin team (<admin@catalyst.coop>) must receive and approve a certification from a health care provider by the end of the member’s unpaid health leave for their annual hours requirement to be reduced.
+Please use these FMLA forms or the analogous forms in your country:
 
 - [Certification of Health Care Provider for Employee’s Serious Health Condition](https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/WH-380-E.pdf)
 - [Certification of Health Care Provider for Family Member’s Serious Health Condition](https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/WH-380-F.pdf)
@@ -112,7 +125,11 @@ The member is not required to provide a certification for leave to bond with a n
 
 **Provided to:** Employees only
 
-Members accrue **1 hour of paid time off for each 52 hours of work**. This is equivalent to getting 1 week (5 days) of paid time off each year when working at a rate of 30 hours per week. Catalyst will not loan paid time off hours to members in advance of their accrual; members cannot use paid time off hours that they have not yet accrued. At the end of each year, unused paid time off hours roll over to the next year. If a member leaves from the cooperative and has accrued paid time off hours, those hours will be converted to payments made in the same manner as the member’s internal capital account redemption.
+Members accrue **1 hour of paid time off for each 52 hours of work**.
+This is equivalent to getting 1 week (5 days) of paid time off each year when working at a rate of 30 hours per week.
+Catalyst will not loan paid time off hours to members in advance of their accrual; members cannot use paid time off hours that they have not yet accrued.
+At the end of each year, unused paid time off hours roll over to the next year.
+If a member leaves from the cooperative and has accrued paid time off hours, those hours will be converted to payments made in the same manner as the member’s internal capital account redemption.
 
 New members are granted 10 hours of paid time off to start with, to reflect the time they spent as a candidate / contractor.
 
@@ -124,7 +141,7 @@ New members are granted 10 hours of paid time off to start with, to reflect the 
 
 Catalyst provides a healthcare stipend **{{ "\${:,}".format(healthcare_stipend) }} a month** to employees and contractors working at least 1000 hours per year on a rolling 12 month basis (or in the case of new contractors/employees, the prorated amount of hours since they began working).
 This stipend is paid as a taxable "bonus".
-The amount of the monthly stipend is adjusted annually based on inflation as discussed below in the reimbursements section
+The amount of the monthly stipend is adjusted annually based on inflation as discussed below in the reimbursements section.
 
 (short-term-disability)=
 
@@ -142,21 +159,24 @@ This insurance is supplemental to any state short-term disability benefits the e
 
 **Provided to:** Employees only
 
-Catalyst employees can choose to contribute to the co-op's 401(k) plan on either a pre-tax or after-tax (Roth) basis.
-All employee 401(k) elections must be made through the [Guideline website](https://my.guideline.com/).
-All employees are automatically enrolled in the 401(k) plan.
-If the employee makes no elections, default salary deferrals and investment choices will be applied.
-The co-op makes a non-elective contribution equal to {{ "{:,}%".format(employer_401k_contribution)}} of the employee’s wages for all employees.
-This is close to the maximum allowed employer contribution of 25% of wages.
-All **employer** contributions are made pre-tax.
-See [the IRS rules](https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-401k-and-profit-sharing-plan-contribution-limits) for more details on contribution limits as they change from year to year.
-Note that employees can contribute to the Catalyst 401(k) and still contribute to their own individual pre-tax or Roth IRA.
+- Catalyst employees are automatically enrolled in the co-op's 401(k) plan.
+- Employees can choose to contribute to the 401(k) plan on either a pre-tax or after-tax (Roth) basis.
+- All employee 401(k) elections must be made through the [Guideline website](https://my.guideline.com/).
+- If the employee makes no elections, default salary deferrals and investment choices will be applied.
+- Employees can opt out of contributing to the 401(k) plan by setting their salary deferral to 0%.
+- Employees can defer as much as 100% of their wages, up to a limit of {{ "\${:,}".format(employee_401k_max) }} for {{ current_year }} ({{ "\${:,}".format(employee_401k_max_over_50) }} for employees age 50 or older).
+- Employers can contribute up to 25% of an employee's wages, not to exceed {{ "\${:,}".format(total_401k_max) }} for the {{ current_year }} tax year.
+- See [the IRS rules](https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-401k-and-profit-sharing-plan-contribution-limits) for more details on contribution limits as they change from year to year.
+- The co-op makes a non-elective contribution equal to {{ "{:,}%".format(employer_401k_contribution * 100) }} of the employee’s wages for all employees.
+- This employer contribution is made regardless of whether the employee chooses to contribute to the 401(k) plan.
+- Employer contributions are 100% vested immediately.
+- All employer contributions are made pre-tax.
+- Note that employees can contribute to the Catalyst 401(k) and still contribute to their own individual pre-tax or Roth IRA.
+
 Employer retirement contributions are a highly tax efficient form of compensation.
 They are more tax efficient than wages because neither the employee nor the employer ever pay payroll taxes on employer retirement contributions.
 This means the member will receive roughly 15% more compensation for the same cost to the cooperative.
-This benefit is in addition to the deferral of income taxes until retirement.
-Employees can defer as much as 100% of their compensation, up to a limit of {{ "\${:,}".format(employee_401k_max) }} for {{ current_year }} ({{ "\${:,}".format(employee_401k_max_over_50) }} for employees age 50 or older).
-Employers can contribute up to 25% of compensation not to exceed {{ "\${:,}".format(total_401k_max) }} for the {{ current_year }} tax year.
+This tax advantage is in addition to the deferral of income taxes until retirement.
 
 ## Reimbursement
 
@@ -169,7 +189,9 @@ These fixed dollar values are adjusted for inflation each year in December for i
 The changes take effect at the beginning of the following calendar year.
 Reimbursement requests for one-off purchases approved by the board are also acceptable in certain circumstances.
 
-**Reimbursement Process:** Members will make their own purchases and submit receipts via the [Expense Reimbursement Form](https://forms.gle/EkBKo5DBhJa7eBw98) . They should be reimbursed within the payroll period following submission of complete documentation of the purchase. Members should confirm that their planned purchase is eligible for reimbursement under IRS rules and that they have sufficient remaining reimbursement funds before making the purchase.
+**Reimbursement Process:** Members will make their own purchases and submit receipts via the [Expense Reimbursement Form](https://forms.gle/EkBKo5DBhJa7eBw98).
+They should be reimbursed within the payroll period following submission of complete documentation of the purchase.
+Members should confirm that their planned purchase is eligible for reimbursement under IRS rules and that they have sufficient remaining reimbursement funds before making the purchase.
 
 **The co-op will maintain a record of reimbursements visible to all members including:**
 
@@ -209,6 +231,7 @@ The remaining value of the asset before it is fully depreciated is known as the 
 **Reimbursement of Undepreciated Value:** When a member leaves the co-op the remaining undepreciated value of the member’s reimbursed assets becomes a debt owed to the co-op.
 Like other debts owed to the co-op, it may be deducted from the departing member’s capital account / member share.
 The member will owe this debt to the co-op even if the asset has been damaged, stolen, or destroyed.
+
 **We strongly encourage members to ensure expensive items like laptops are covered by a manufacturer’s warranty, and to maintain an appropriate renters or homeowners insurance policy** so that these assets can be replaced if need be without additional cost to the member.
 
 **For example**, an employee buys a $600 standing desk and is reimbursed by the cooperative.
@@ -216,12 +239,13 @@ Since the standing desk depreciates (that is, loses value due to wear and tear) 
 If the employee decides to leave the cooperative 2 years after the purchase of the standing desk, it is valued at $200.
 The departing employee would then need to pay the cooperative $200.
 Alternatively, the cooperative could deduct \$200 from the departing employee’s internal member capital account.
+
 **For a more comprehensive example: [see this spreadsheet](https://docs.google.com/spreadsheets/d/1bwzw7_GcWNSTBNeUFrWe8BzEyIA2Cw7HnjEwg6TueiY/edit#gid=867743421)**.
 
 **Expenses:** will be reimbursed on a month to month basis as they are incurred.
 They do not result in a potential future liability for the member (unlike asset purchases) since they’re being consumed continuously.
 This is meant to cover things like membership at a co-working space, improved home internet service for work purposes, an off-site backup service for your computer, enrollment in online courses for continuing education, etc.
-Monthly expense reimbursements to a member shall be limited to the total per-member reimbursement budget divided by the number of months in the rolling reimbursement period.
+Monthly expense reimbursements to a member shall be limited to twice the total per-member reimbursement budget divided by the number of months in the rolling reimbursement period.
 Given the current limits of {{ "\${:,}".format(tech_stipend) }} every 36 months this works out to **{{ "\${:,.2f}".format((tech_stipend / 18)) }}/mo**.
 If a member has an expense greater than this amount, they can get reimbursed for it in installments over multiple months, so long as they remain a member.
 

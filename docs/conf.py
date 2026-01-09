@@ -56,7 +56,7 @@ myst_substitutions = {
     "healthcare_stipend": 180,
     "tech_stipend": 3500,
     "cat_meetup_stipend": 235,
-    "employer_401k_contribution": 0.225,  # This is a fraction of wages
+    "employer_401k_contribution": 0.2225,  # This is a fraction of wages
     "employee_401k_max": 24_500,  # Update with info from the IRS yearly.
     "employee_401k_max_over_50": 32_500,
     "total_401k_max": 72_000,
