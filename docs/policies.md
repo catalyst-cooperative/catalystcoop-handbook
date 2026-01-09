@@ -7,9 +7,11 @@
 **Provided to:** Members & Contractors
 
 Catalyst pays its employees **{{ "\${:,}".format(member_hourly_wage) }} / hour** and it's contractors
-**{{ "\${:,}".format(contractor_hourly_wage) }} / hour** to account for the payroll tax otherwise covered by the cooperative. After taxes, this equates to the same amount.
+**{{ "\${:,}".format(contractor_hourly_wage) }} / hour** to account for the payroll tax otherwise covered by the cooperative.
+After payroll taxes, this equates to the same amount.
 
-Catalyst employees are paid through a monthly payroll which is run monthly at the end of the first week of the month. Paychecks should be deposited electronically by the 15th of the month.
+Catalyst employees are paid through a monthly payroll which is run monthly at the end of the first week of the month.
+Paychecks should be deposited electronically by the 15th of the month.
 
 (expected-hours)=
 
@@ -39,8 +41,8 @@ For notifications requiring board permission: follow the instructions in [Member
 Those utilizing this policy are not required to provide an explanation for why they are taking time off or reducing their hours.
 Approval shall not be contingent on providing a justification for the request.
 
-- For absence less than a week: send a slack message to the team channel explaining when you will be gone, and tag @channel so that everyone is notified.
-- For absence greater than a week: send an email to everyone explaining when you will be gone and to what extent you can be contacted.
+- **For absence less than a week:** send a slack message to the team channel explaining when you will be gone, and tag @channel so that everyone is notified.
+- **For absence greater than a week:** send an email to everyone explaining when you will be gone and to what extent you can be contacted.
 - Each person’s google calendar should show when they are “out of office”.
 
 ### Time-Off: _Working 0 hours per week_
@@ -54,7 +56,7 @@ Approval shall not be contingent on providing a justification for the request.
 
 - Members seeking **more than two consecutive weeks** of time off must submit a written request to the Board in accordance with the notification policy. Those utilizing this time off policy are expected to communicate with their teams regarding the viability of their absence beforehand. Approval of leave will be contingent on the ability of the cooperative to continue operating as a viable economic entity.
 
-### Reduced Hours: _Working \<20 hours per week for more than two weeks_
+### Reduced Hours: _Working >0 and \<20 hours per week for more than two weeks_
 
 **Requires Board Permission:**
 
@@ -108,7 +110,7 @@ The member is not required to provide a certification for leave to bond with a n
 
 ### Paid Time-Off
 
-**Provided to:** Employee-Members only
+**Provided to:** Employees only
 
 Members accrue **1 hour of paid time off for each 52 hours of work**. This is equivalent to getting 1 week (5 days) of paid time off each year when working at a rate of 30 hours per week. Catalyst will not loan paid time off hours to members in advance of their accrual; members cannot use paid time off hours that they have not yet accrued. At the end of each year, unused paid time off hours roll over to the next year. If a member leaves from the cooperative and has accrued paid time off hours, those hours will be converted to payments made in the same manner as the member’s internal capital account redemption.
 
@@ -118,15 +120,17 @@ New members are granted 10 hours of paid time off to start with, to reflect the 
 
 ### Health Care
 
-**Provided to:** Members & Contractors
+**Provided to:** Employees & Contractors
 
-Catalyst provides a healthcare stipend **{{ "\${:,}".format(healthcare_stipend) }} a month** to members and contractors working at least 1000 hours per year on a rolling 12 month basis (or in the case of new contractors/employees, the prorated amount of hours since they began working).
+Catalyst provides a healthcare stipend **{{ "\${:,}".format(healthcare_stipend) }} a month** to employees and contractors working at least 1000 hours per year on a rolling 12 month basis (or in the case of new contractors/employees, the prorated amount of hours since they began working).
 This stipend is paid as a taxable "bonus".
 The amount of the monthly stipend is adjusted annually based on inflation as discussed below in the reimbursements section
 
 (short-term-disability)=
 
 ### Short Term Disability Insurance
+
+**Provided to:** Employees only
 
 Catalyst provides short-term disability insurance to all employees.
 The premiums are 100% paid by the cooperative.
@@ -158,7 +162,7 @@ Employers can contribute up to 25% of compensation not to exceed {{ "\${:,}".for
 
 Catalyst has two reimbursement policies available to members:
 
-- [Home Office Reimbursements](home-office) {{ "\${:,}".format(tech_stipend) }} / 3 years
+- [Home Office Reimbursements](home-office-reimbursements) {{ "\${:,}".format(tech_stipend) }} / 3 years
 - [Catalyst IRL Reimbursements](irl-reimbursement) {{ "\${:,}".format(cat_meetup_stipend) }} / year
 
 These fixed dollar values are adjusted for inflation each year in December for inflation, by multiplying them by (1 + the year-on-year CPI-U for November).
@@ -179,8 +183,6 @@ Reimbursement requests for one-off purchases approved by the board are also acce
   - The remaining undepreciated value of all asset purchases associated with each member (this is the amount the member would owe the co-op if they left).
   - The remaining reimbursement budget available to each member.
 
-(home-office)=
-
 (home-office-reimbursements)=
 
 ### Home Office Reimbursements
@@ -197,7 +199,8 @@ Each member will be reimbursed **up to {{ "\${:,}".format(tech_stipend) }} in an
 
 Each expenditure will be categorized as either an **asset purchase** or an **expense**.
 The amount available to be reimbursed to a member at any given time will be **{{ "\${:,}".format(tech_stipend) }}** minus the remaining undepreciated value of any asset purchase reimbursements they have received in the preceding rolling **3 year period**.
-**Asset Purchases** include tangible non-consumable items that you purchase once and use for a period of time.
+
+Asset Purchases include tangible non-consumable items that you purchase once and use for a period of time.
 E.g. a laptop, monitor, office chair, external backup drive, ergonomic keyboard, headphones, hardware 2FA keys, reference books, etc.
 
 **Asset Depreciation:** We will use [straight-line depreciation](https://en.wikipedia.org/wiki/Depreciation#Straight-line_depreciation) to depreciate the value of the asset over **3 years**.
@@ -227,6 +230,7 @@ If a member has an expense greater than this amount, they can get reimbursed for
 ### Catalyst IRL Reimbursement
 
 **Provided to:** Members only
+
 As a remote organization, members rarely see one another in person.
 To encourage folks to bridge the virtual divide, each member may request reimbursement for up to **{{ "\${:,}".format(cat_meetup_stipend) }} per year** for travel and food expenses related to visiting another member of the coop.
 These expenses must be _marginal and additional_ to existing plans where the primary purpose of the expenses is visiting another co-op member.
