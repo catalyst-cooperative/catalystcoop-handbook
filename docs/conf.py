@@ -9,10 +9,10 @@
 # documentation root, use os.path.abspath to make it absolute, like shown here.
 
 import datetime
+import importlib
 import shutil
 from pathlib import Path
 
-import importlib
 from sphinx.application import Sphinx
 
 DOCS_DIR = Path(__file__).parent.resolve()
@@ -60,10 +60,10 @@ myst_substitutions = {
     "healthcare_stipend": 180,
     "tech_stipend": 3500,
     "cat_meetup_stipend": 235,
-    "401k_employer_contribution": 0.225,  # This is a fraction of wages
-    "401k_employee_max": 24_500,  # Update with info from the IRS yearly.
-    "401k_employee_max_over_50": 32_500,
-    "401k_total_max": 72_000,
+    "employer_401k_contribution": 0.225,  # This is a fraction of wages
+    "employee_401k_max": 24_500,  # Update with info from the IRS yearly.
+    "employee_401k_max_over_50": 32_500,
+    "total_401k_max": 72_000,
     "current_year": 2026,
 }
 

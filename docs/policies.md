@@ -142,7 +142,7 @@ Catalyst employees can choose to contribute to the co-op's 401(k) plan on either
 All employee 401(k) elections must be made through the [Guideline website](https://my.guideline.com/).
 All employees are automatically enrolled in the 401(k) plan.
 If the employee makes no elections, default salary deferrals and investment choices will be applied.
-The co-op makes a non-elective contribution equal to {{ "{:,}%".format(401k_employer_contribution)}} of the employee’s wages for all employees.
+The co-op makes a non-elective contribution equal to {{ "{:,}%".format(employer_401k_contribution)}} of the employee’s wages for all employees.
 This is close to the maximum allowed employer contribution of 25% of wages.
 All **employer** contributions are made pre-tax.
 See [the IRS rules](https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-401k-and-profit-sharing-plan-contribution-limits) for more details on contribution limits as they change from year to year.
@@ -151,8 +151,8 @@ Employer retirement contributions are a highly tax efficient form of compensatio
 They are more tax efficient than wages because neither the employee nor the employer ever pay payroll taxes on employer retirement contributions.
 This means the member will receive roughly 15% more compensation for the same cost to the cooperative.
 This benefit is in addition to the deferral of income taxes until retirement.
-Employees can defer as much as 100% of their compensation, up to a limit of {{ "\${:,}".format(401k_employee_max) }} for {{ current_year }} ({{ "\${:,}".format(401k_employee_max_over_50) }} for employees age 50 or older).
-Employers can contribute up to 25% of compensation not to exceed {{ "\${:,}".format(401k_total_max) }} for the {{ current_year }} tax year.
+Employees can defer as much as 100% of their compensation, up to a limit of {{ "\${:,}".format(employee_401k_max) }} for {{ current_year }} ({{ "\${:,}".format(employee_401k_max_over_50) }} for employees age 50 or older).
+Employers can contribute up to 25% of compensation not to exceed {{ "\${:,}".format(total_401k_max) }} for the {{ current_year }} tax year.
 
 ## Reimbursement
 
