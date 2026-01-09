@@ -50,6 +50,23 @@ extensions = [
 ]
 todo_include_todos = True
 
+myst_enable_extensions = [
+    "substitution",
+]
+
+myst_substitutions = {
+    "member_hourly_wage": 36.75,
+    "contractor_hourly_wage": 39.56,
+    "healthcare_stipend": 180,
+    "tech_stipend": 3500,
+    "cat_meetup_stipend": 235,
+    "401k_employer_contribution": 0.225,  # This is a fraction of wages
+    "401k_employee_max": 24_500,  # Update with info from the IRS yearly.
+    "401k_employee_max_over_50": 32_500,
+    "401k_total_max": 72_000,
+    "current_year": 2026,
+}
+
 # GitHub repo
 issues_github_path = "catalyst-cooperative/handbook"
 
