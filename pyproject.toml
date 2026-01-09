@@ -1,55 +1,31 @@
 [build-system]
-build-backend = "setuptools.build_meta"
-requires = ["setuptools>69", "wheel"]
+build-backend = "hatchling.build"
+requires = ["hatchling"]
 
 [project]
 name = "catalystcoop.handbook"
 description="The Catalyst Cooperative Member Handbook"
 readme = { file = "README.md", "content-type" = "text/markdown" }
 authors = [{ name = "Catalyst Cooperative", email = "hello@catalyst.coop" }]
-requires-python = ">=3.12,<3.13"
+requires-python = ">=3.13,<3.14"
 license = { file = "LICENSE.txt" }
-version = "v2024.4.0"
+version = "v2026.01.09"
 dependencies = [
-    "doc8>=1,<3",  # Ensures clean documentation formatting
-    "furo>=2024.1.29,<2026",
-    "mdformat>=0.7.17,<2",
-    "mdformat-myst>=0.1.5,<1",
-    "myst-parser>=1,<5",
-    "pre-commit>=4,<5",  # Allow us to run pre-commit hooks in testing
-    "pydocstyle>=6,<7",  # Style guidelines for Python documentation
-    "sphinx>6,<10",  # The default Python documentation engine
-    "sphinx-autoapi>=3,<4",  # Generates documentation from docstrings
-    "sphinx-issues>=4,<6",  # Allows references to GitHub issues
-    "tox>=4,<5",  # Python test environment manager
-]
-classifiers=[
-    "Development Status :: 3 - Alpha",
-    "Environment :: Console",
-    "License :: OSI Approved :: MIT License",
-    "Natural Language :: English",
-    "Operating System :: OS Independent",
-    "Programming Language :: Python",
-    "Programming Language :: Python :: 3",
-    "Programming Language :: Python :: 3 :: Only",
-    "Programming Language :: Python :: 3.12",
-]
-keywords=[
-    "cooperative",
-    "bylaws",
-    "articles of incorporation",
-    "handbook",
-    "policy",
-    "governance",
+    "furo>=2025",
+    "mdformat>=1",
+    "mdformat-myst>=0.1.5",
+    "myst-parser>=4",
+    "pre-commit>=4",  # Allow us to run pre-commit hooks in testing
+    "sphinx>8",  # The default Python documentation engine
+    "sphinx-issues>=5",  # Allows references to GitHub issues
 ]
 
-[project.urls]
-"Source" = "https://github.com/catalyst-cooperative/handbook"
-"Documentation" = "https://catalystcoop-handbook.readthedocs.io"
-"Issue Tracker" = "https://github.com/catalyst-cooperative/handbook/issues"
+[tool.hatch.envs.default.scripts]
+docs-build = [
+    "rm -rf docs/_build",
+    "mdformat docs/",
+    "sphinx-build -W -b html docs docs/_build/html",
+]
 
-[tool.setuptools]
-include-package-data = true
-
-[tool.setuptools.packages.find]
-where = ["src"]
+[tool.hatch.build.targets.wheel]
+packages = ["src/handbook"]
