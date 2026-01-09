@@ -11,7 +11,6 @@ requires-python = ">=3.13,<3.14"
 license = { file = "LICENSE.txt" }
 version = "v2026.01.09"
 dependencies = [
-    "doc8>=1",  # Ensures clean documentation formatting
     "furo>=2025",
     "mdformat>=1",
     "mdformat-myst>=0.1.5",
@@ -20,17 +19,6 @@ dependencies = [
     "sphinx>8",  # The default Python documentation engine
     "sphinx-issues>=5",  # Allows references to GitHub issues
 ]
-
-[project.urls]
-"Source" = "https://github.com/catalyst-cooperative/handbook"
-"Documentation" = "https://catalystcoop-handbook.readthedocs.io"
-"Issue Tracker" = "https://github.com/catalyst-cooperative/handbook/issues"
-
-[tool.setuptools]
-include-package-data = true
-
-[tool.setuptools.packages.find]
-where = ["src"]
 
 [tool.hatch.envs.default.scripts]
 docs-build = [
