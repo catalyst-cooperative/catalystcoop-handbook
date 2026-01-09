@@ -40,11 +40,7 @@ author = "Catalyst Cooperative"
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
-    "sphinx.ext.doctest",
-    "sphinx.ext.intersphinx",
-    "sphinx.ext.napoleon",
     "sphinx.ext.todo",
-    "sphinx.ext.viewcode",
     "sphinx_issues",
     "myst_parser",
 ]
