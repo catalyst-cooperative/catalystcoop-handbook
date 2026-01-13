@@ -214,7 +214,7 @@ Members should confirm that their planned purchase is eligible for reimbursement
 As an all-remote organization it’s important that we ensure our members have a comfortable and productive work environment.
 Due to favorable tax treatment, using co-op funds to this end is significantly more cost-effective than requiring members to cover these expenses out of pocket.
 
-Each member will be reimbursed **up to {{ "\${:,}".format(tech_stipend) }} in any rolling 3-year period** to furnish and maintain their remote work environment, subject to the following conditions:
+Each member will be reimbursed **up to {{ "\${:,}".format(tech_stipend) }} less the undepreciated value of prior reimbursements** (see details below) to furnish and maintain their remote work environment, subject to the following conditions:
 
 - The expenditure must qualify as a business expense, which the co-op can deduct from its income for tax purposes.
 - The member must provide the co-op with receipts or other documentation of the business expense for our records, in the event that we are audited by the IRS and need to demonstrate the legitimacy of the tax deduction.
