@@ -123,7 +123,7 @@ The member is not required to provide a certification for leave to bond with a n
 
 ### Paid Time-Off
 
-**Provided to:** Employees only
+**Provided to:** Members only
 
 Members accrue **1 hour of paid time off for each 52 hours of work**.
 This is equivalent to getting 1 week (5 days) of paid time off each year when working at a rate of 30 hours per week.
@@ -137,7 +137,7 @@ New members are granted 10 hours of paid time off to start with, to reflect the 
 
 ### Health Care
 
-**Provided to:** Employees & Contractors
+**Provided to:** Members & Contractors
 
 Catalyst provides a healthcare stipend **{{ "\${:,}".format(healthcare_stipend) }} a month** to employees and contractors working at least 1000 hours per year on a rolling 12 month basis (or in the case of new contractors/employees, the prorated amount of hours since they began working).
 This stipend is paid as a taxable "bonus".
@@ -147,7 +147,7 @@ The amount of the monthly stipend is adjusted annually based on inflation as dis
 
 ### Short Term Disability Insurance
 
-**Provided to:** Employees only
+**Provided to:** Members only
 
 Catalyst provides short-term disability insurance to all employees.
 The premiums are 100% paid by the cooperative.
