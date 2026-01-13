@@ -58,3 +58,7 @@ If you don't want to make edits with a CLI and code editor, you can use the GitH
 1. Tag someone to review your changes.
 
 The changes must be reviewed and approved by someone else to be merged into the `main` branch.
+
+### Updating COLA numbers
+
+Each year we try to update our compensation to keep up with inflation. When the board decides to change our compensation we need to update the numbers in this handbook. To do this, update the values in the `myst_substitutions` dictionary in `docs/conf.py`. Check out [this page](https://myst-parser.readthedocs.io/en/latest/syntax/optional.html#substitutions-with-jinja2) to learn more about MyST substitutions.

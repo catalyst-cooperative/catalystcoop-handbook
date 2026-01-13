@@ -9,10 +9,10 @@
 # documentation root, use os.path.abspath to make it absolute, like shown here.
 
 import datetime
+import importlib
 import shutil
 from pathlib import Path
 
-import importlib
 from sphinx.application import Sphinx
 
 DOCS_DIR = Path(__file__).parent.resolve()
@@ -40,15 +40,28 @@ author = "Catalyst Cooperative"
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
-    "sphinx.ext.doctest",
-    "sphinx.ext.intersphinx",
-    "sphinx.ext.napoleon",
     "sphinx.ext.todo",
-    "sphinx.ext.viewcode",
     "sphinx_issues",
     "myst_parser",
 ]
 todo_include_todos = True
+
+myst_enable_extensions = [
+    "substitution",
+]
+
+myst_substitutions = {
+    "member_hourly_wage": 36.75,
+    "contractor_hourly_wage": 39.56,
+    "healthcare_stipend": 180,
+    "tech_stipend": 3500,
+    "cat_meetup_stipend": 235,
+    "employer_401k_contribution": 0.2225,  # This is a fraction of wages
+    "employee_401k_max": 24_500,  # Update with info from the IRS yearly.
+    "employee_401k_max_over_50": 32_500,
+    "total_401k_max": 72_000,
+    "current_year": 2026,
+}
 
 # GitHub repo
 issues_github_path = "catalyst-cooperative/handbook"
