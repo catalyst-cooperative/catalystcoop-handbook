@@ -15,7 +15,7 @@ repos:
   # Formatters: hooks that re-write Python and RST files
   ########################################################################################
   - repo: https://github.com/rbubley/mirrors-prettier
-    rev: v3.7.4
+    rev: v3.8.1
     hooks:
       - id: prettier
         types_or: [yaml]
@@ -34,7 +34,7 @@ repos:
 
   # Check Github Actions
   - repo: https://github.com/rhysd/actionlint
-    rev: v1.7.10
+    rev: v1.7.11
     hooks:
       - id: actionlint
 
