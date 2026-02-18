@@ -83,7 +83,6 @@ Members and contractors should consider the following rules when considering tak
 
 - Pursuant to the expected hours policy, members must work a total of 1000 hours in a calendar year in order to sustain their membership in the cooperative.
 - Regardless of hours worked, a member cannot take more than 6 months of consecutive leave without resigning their membership in the cooperative.
-- To be eligible for the monthly healthcare stipend, members must have worked a rolling 1000 hours over the past 12 months (pro-rated for those that have been with the co-op for less than a year).
 - Members and contractors are encouraged and expected to keep their team members informed and update their calendar regularly to reflect their availability.
 
 ### Extended Unpaid Health Leave Policy
@@ -139,7 +138,7 @@ New members are granted 10 hours of paid time off to start with, to reflect the 
 
 **Provided to:** Members & Contractors
 
-Catalyst provides a healthcare stipend **{{ "\${:,}".format(healthcare_stipend) }} a month** to employees and contractors working at least 1000 hours per year on a rolling 12 month basis (or in the case of new contractors/employees, the prorated amount of hours since they began working).
+Catalyst provides a healthcare stipend **{{ "\${:,}".format(healthcare_stipend) }} a month** to employees and contractors.
 This stipend is paid as a taxable "bonus".
 The amount of the monthly stipend is adjusted annually based on inflation as discussed below in the reimbursements section.
 
