@@ -83,6 +83,7 @@ Members and contractors should consider the following rules when considering tak
 
 - Pursuant to the expected hours policy, members must work a total of 1000 hours in a calendar year in order to sustain their membership in the cooperative.
 - Regardless of hours worked, a member cannot take more than 6 months of consecutive leave without resigning their membership in the cooperative.
+- Members and contractors are encouraged and expected to keep their team members informed and update their calendar regularly to reflect their availability.
 
 ### Extended Unpaid Health Leave Policy
 
