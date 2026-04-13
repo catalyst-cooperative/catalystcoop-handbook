@@ -11,7 +11,7 @@ requires-python = ">=3.13,<3.14"
 license = { file = "LICENSE.txt" }
 version = "v2026.01.09"
 dependencies = [
-    "furo>=2025",
+    "furo>=2025.12.19",
     "mdformat>=1",
     "mdformat-myst>=0.1.5",
     "myst-parser>=4",
