@@ -14,7 +14,7 @@ dependencies = [
     "furo>=2025",
     "mdformat>=1",
     "mdformat-myst>=0.1.5",
-    "myst-parser>=4",
+    "myst-parser>=5.0.0",
     "pre-commit>=4",  # Allow us to run pre-commit hooks in testing
     "sphinx>8",  # The default Python documentation engine
     "sphinx-issues>=5",  # Allows references to GitHub issues
