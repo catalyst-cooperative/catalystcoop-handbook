@@ -13,7 +13,7 @@ version = "v2026.01.09"
 dependencies = [
     "furo>=2025.12.19",
     "mdformat>=1",
-    "mdformat-myst>=0.1.5",
+    "mdformat-myst>=0.3.0",
     "myst-parser>=4",
     "pre-commit>=4.5.1",  # Allow us to run pre-commit hooks in testing
     "sphinx>8",  # The default Python documentation engine
