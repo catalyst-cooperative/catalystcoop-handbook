@@ -15,7 +15,7 @@ dependencies = [
     "mdformat>=1",
     "mdformat-myst>=0.1.5",
     "myst-parser>=4",
-    "pre-commit>=4",  # Allow us to run pre-commit hooks in testing
+    "pre-commit>=4.5.1",  # Allow us to run pre-commit hooks in testing
     "sphinx>8",  # The default Python documentation engine
     "sphinx-issues>=5",  # Allows references to GitHub issues
 ]
