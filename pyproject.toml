@@ -12,6 +12,7 @@ license = { file = "LICENSE.txt" }
 version = "v2026.01.09"
 dependencies = [
     "furo>=2025.12.19",
+    "hatch>=1.16.5",
     "mdformat>=1",
     "mdformat-myst>=0.3.0",
     "myst-parser>=4",
