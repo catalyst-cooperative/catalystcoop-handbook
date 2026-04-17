@@ -1,6 +1,6 @@
 # Catalyst's Organizational Values
 
-These values are a living, breathing part of how we do business. We didn't create them as something to aspire to--we wrote them down because they are already true. Putting something so palpable but imprecise into words was not easy, but the process was rewarding and the outcome is uniquely us.
+These values are a living, breathing part of how we do business. We didn't create them as something to aspire to — we wrote them down because they are already true. Putting something so palpable but imprecise into words was not easy, but the process was rewarding and the outcome is uniquely us.
 
 We use these values to guide our decision making and ground our discussions. They are a reminder of what matters and having them written down is incredibly useful!
 
