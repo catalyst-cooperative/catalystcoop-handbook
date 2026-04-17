@@ -4,7 +4,7 @@ These values are a living, breathing part of how we do business. We didn't creat
 
 We use these values to guide our decision making and ground our discussions. They are a reminder of what matters and having them written down is incredibly useful!
 
-The International Cooperative Alliance's [Cooperative Principles](https://ica.coop/en/cooperatives/cooperative-identity) are also an important touchstone for us--we encourage you to read them in tandem.
+The International Cooperative Alliance's [Cooperative Principles](https://ica.coop/en/cooperatives/cooperative-identity) are also an important touchstone for us — we encourage you to read them in tandem.
 
 ## 🍲 Nourish the Commons
 
